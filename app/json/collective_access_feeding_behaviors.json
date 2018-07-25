@@ -1,0 +1,65 @@
+[
+  {
+    "id": 132,
+    "idno": "collector_filterer",
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer",
+    "prettyNamePlural": "Collector / Filterer"
+  },
+  {
+    "id": 133,
+    "idno": "collector_gatherer",
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer",
+    "prettyNamePlural": "Collector / Gatherer"
+  },
+  {
+    "id": 134,
+    "idno": "scraper_grazer",
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer",
+    "prettyNamePlural": "Scraper / Grazer"
+  },
+  {
+    "id": 135,
+    "idno": "shredder_herbivore",
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore",
+    "prettyNamePlural": "Shredder / Herbivore"
+  },
+  {
+    "id": 136,
+    "idno": "shredder_detritivore",
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore",
+    "prettyNamePlural": "Shredder / Detritivore"
+  },
+  {
+    "id": 137,
+    "idno": "shredder_gouger",
+    "name": "shredder_gouger",
+    "prettyNameSingular": "Shredder / Gouger",
+    "prettyNamePlural": "Shredder / Gouger"
+  },
+  {
+    "id": 138,
+    "idno": "engulfer_predator",
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator",
+    "prettyNamePlural": "Engulfer / Predator"
+  },
+  {
+    "id": 139,
+    "idno": "piercer_predator",
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator",
+    "prettyNamePlural": "Piercer / Predator"
+  },
+  {
+    "id": 140,
+    "idno": "piercer_herbivore",
+    "name": "piercer_herbivore",
+    "prettyNameSingular": "Piercer / Herbivore",
+    "prettyNamePlural": "Piercer / Herbivore"
+  }
+]

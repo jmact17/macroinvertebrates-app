@@ -1,0 +1,58 @@
+[
+  {
+    "id": 146,
+    "idno": "burrower",
+    "name": "burrower",
+    "prettyNameSingular": "Burrower",
+    "prettyNamePlural": "Burrower"
+  },
+  {
+    "id": 147,
+    "idno": "climber",
+    "name": "climber",
+    "prettyNameSingular": "Climber",
+    "prettyNamePlural": "Climber"
+  },
+  {
+    "id": 148,
+    "idno": "clinger",
+    "name": "clinger",
+    "prettyNameSingular": "Clinger",
+    "prettyNamePlural": "Clinger"
+  },
+  {
+    "id": 149,
+    "idno": "diver",
+    "name": "diver",
+    "prettyNameSingular": "Diver",
+    "prettyNamePlural": "Diver"
+  },
+  {
+    "id": 150,
+    "idno": "skater",
+    "name": "skater",
+    "prettyNameSingular": "Skater",
+    "prettyNamePlural": "Skater"
+  },
+  {
+    "id": 151,
+    "idno": "sprawler",
+    "name": "sprawler",
+    "prettyNameSingular": "Sprawler",
+    "prettyNamePlural": "Sprawler"
+  },
+  {
+    "id": 152,
+    "idno": "swimmer",
+    "name": "swimmer",
+    "prettyNameSingular": "Swimmer",
+    "prettyNamePlural": "Swimmer"
+  },
+  {
+    "id": 153,
+    "idno": "planktonic",
+    "name": "planktonic",
+    "prettyNameSingular": "Planktonic",
+    "prettyNamePlural": "Planktonic"
+  }
+]

@@ -1,0 +1,5392 @@
+[
+  {
+    "id": 4,
+    "value": "1.3",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 4,
+    "value": "1",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 4,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 4,
+    "value": "0",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 4,
+    "value": "4.5",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 4,
+    "value": "1.8",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 4,
+    "value": "4.9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 4,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 4,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 4,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 5,
+    "value": "0",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 5,
+    "value": "0",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 5,
+    "value": "2.3",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 5,
+    "value": "2.3",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 5,
+    "value": "1.5",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 5,
+    "value": "1.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 5,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 5,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 6,
+    "value": "1.3",
+    "ptvCode": "ptv_range_bug_key_min"
+  },
+  {
+    "id": 6,
+    "value": "2",
+    "ptvCode": "ptv_range_burton_gerritsen_min"
+  },
+  {
+    "id": 6,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 6,
+    "value": "6.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 6,
+    "value": "1.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 6,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 6,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 7,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 7,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 7,
+    "value": "6.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 7,
+    "value": "1.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 7,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 7,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 18,
+    "value": "4",
+    "ptvCode": "ptv_range_bug_key_min"
+  },
+  {
+    "id": 18,
+    "value": "6",
+    "ptvCode": "ptv_range_burton_gerritsen_min"
+  },
+  {
+    "id": 18,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 18,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 18,
+    "value": "2.9",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 18,
+    "value": "1.8",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 18,
+    "value": "8.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 18,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 18,
+    "value": "7",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 18,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 19,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 19,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 19,
+    "value": "2.9",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 19,
+    "value": "2.9",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 19,
+    "value": "6.6",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 19,
+    "value": "6.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 19,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 19,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 31,
+    "value": "3.6",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 31,
+    "value": "3.6",
+    "ptvCode": "ptv_range_bug_key_min"
+  },
+  {
+    "id": 31,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 31,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 31,
+    "value": "1.9",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 31,
+    "value": "1.9",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 31,
+    "value": "3.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 31,
+    "value": "3.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 31,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 31,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 32,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 32,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 32,
+    "value": "1.9",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 32,
+    "value": "1.9",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 32,
+    "value": "3.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 32,
+    "value": "3.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 32,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 32,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 33,
+    "value": "2.5",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 33,
+    "value": "2.5",
+    "ptvCode": "ptv_range_bug_key_min"
+  },
+  {
+    "id": 33,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 33,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_min"
+  },
+  {
+    "id": 33,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 33,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 33,
+    "value": "1.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 33,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 33,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 33,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 35,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 35,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 35,
+    "value": "3.3",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 35,
+    "value": "3.3",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 35,
+    "value": "2.5",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 35,
+    "value": "2.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 35,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 35,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 65,
+    "value": "4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 65,
+    "value": "5.3",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 70,
+    "value": "8",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 70,
+    "value": "5.3",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 70,
+    "value": "8",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 71,
+    "value": "8",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 71,
+    "value": "8",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 71,
+    "value": "4.6",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 71,
+    "value": "4.6",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 71,
+    "value": "6.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 71,
+    "value": "6.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 76,
+    "value": "7.2",
+    "ptvCode": "ptv_range_bug_key_min"
+  },
+  {
+    "id": 76,
+    "value": "7.2",
+    "ptvCode": "ptv_range_burton_gerritsen_min"
+  },
+  {
+    "id": 88,
+    "value": "6.5",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 92,
+    "value": "8",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 92,
+    "value": "10",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 96,
+    "value": "8",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 101,
+    "value": "8",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 104,
+    "value": "8",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 104,
+    "value": "10",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 107,
+    "value": "7.4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 107,
+    "value": "8",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 108,
+    "value": "9.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 108,
+    "value": "8",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 109,
+    "value": "3.2",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 109,
+    "value": "5",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 109,
+    "value": "2.7",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 109,
+    "value": "2.4",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 109,
+    "value": "5.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 109,
+    "value": "5.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 109,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 109,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 110,
+    "value": "2.7",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 110,
+    "value": "5.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 110,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 111,
+    "value": "4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 111,
+    "value": "7",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 111,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 111,
+    "value": "4.9",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 111,
+    "value": "7.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 111,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 112,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 112,
+    "value": "4.9",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 112,
+    "value": "7.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 112,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 113,
+    "value": "6.4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 113,
+    "value": "5",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 113,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 113,
+    "value": "3.2",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 113,
+    "value": "5.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 113,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 114,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 114,
+    "value": "3.2",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 114,
+    "value": "5.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 114,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 115,
+    "value": "6.4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 115,
+    "value": "6",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 115,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 115,
+    "value": "7.9",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 115,
+    "value": "4.1",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 115,
+    "value": "10",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 115,
+    "value": "1.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 116,
+    "value": "8",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 118,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 118,
+    "value": "5",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 118,
+    "value": "9.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 119,
+    "value": "4.5",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 119,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 119,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 119,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 119,
+    "value": "4",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 119,
+    "value": "2.75",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 119,
+    "value": "6.9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 119,
+    "value": "1.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 119,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 119,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 120,
+    "value": "4",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 120,
+    "value": "6.9",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 120,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 121,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 121,
+    "value": "3.2",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 121,
+    "value": "6.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 121,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 122,
+    "value": "2.9",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 122,
+    "value": "4.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 122,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 124,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 130,
+    "value": "2.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 130,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 132,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 132,
+    "value": "2.75",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 132,
+    "value": "2.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 132,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 134,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 134,
+    "value": "3",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 134,
+    "value": "5.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 134,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 135,
+    "value": "6.4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 135,
+    "value": "5",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 135,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 135,
+    "value": "3.7",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 135,
+    "value": "3.6",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 135,
+    "value": "6.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 135,
+    "value": "5.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 136,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 136,
+    "value": "3.7",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 136,
+    "value": "5.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 138,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 138,
+    "value": "3.6",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 138,
+    "value": "6.3",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 140,
+    "value": "7",
+    "ptvCode": "ptv_range_burton_gerritsen_min"
+  },
+  {
+    "id": 140,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 140,
+    "value": "7",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 140,
+    "value": "8.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 142,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 142,
+    "value": "7",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 142,
+    "value": "8.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 143,
+    "value": "6.4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 143,
+    "value": "5",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 143,
+    "value": "10",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 143,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 143,
+    "value": "6.7",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 143,
+    "value": "1.9",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 143,
+    "value": "9.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 143,
+    "value": "6.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 144,
+    "value": "6.7",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 144,
+    "value": "8.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 147,
+    "value": "8.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 151,
+    "value": "10",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 151,
+    "value": "9.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 152,
+    "value": "2.3",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 152,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 152,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 152,
+    "value": "4",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 152,
+    "value": "3.5",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 152,
+    "value": "4.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 152,
+    "value": "2.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 152,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 152,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 153,
+    "value": "3.5",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 153,
+    "value": "2.5",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 153,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 154,
+    "value": "5",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 154,
+    "value": "3.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 155,
+    "value": "10",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 155,
+    "value": "3.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 156,
+    "value": "2",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 156,
+    "value": "1.8",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 156,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 156,
+    "value": "3.1",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 156,
+    "value": "2.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 156,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 157,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 157,
+    "value": "3.1",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 157,
+    "value": "2.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 157,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 158,
+    "value": "0",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 158,
+    "value": "0.2",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 158,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 159,
+    "value": "0.2",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 159,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 160,
+    "value": "6",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 160,
+    "value": "10",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 160,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 160,
+    "value": "5.7",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 160,
+    "value": "4.4",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 160,
+    "value": "6.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 160,
+    "value": "6.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 160,
+    "value": "10",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 161,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 162,
+    "value": "6",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 162,
+    "value": "9",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 162,
+    "value": "6",
+    "ptvCode": "ptv_range_burton_gerritsen_min"
+  },
+  {
+    "id": 162,
+    "value": "10",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 162,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 162,
+    "value": "8.3",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 162,
+    "value": "2.7",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 162,
+    "value": "10",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 162,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 162,
+    "value": "10",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 162,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 163,
+    "value": "10",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 163,
+    "value": "8.1",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 163,
+    "value": "9.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 163,
+    "value": "10",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 164,
+    "value": "7.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 164,
+    "value": "8",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 165,
+    "value": "2.9",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 165,
+    "value": "6.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 165,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 166,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 166,
+    "value": "3.5",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 166,
+    "value": "6.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 166,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 167,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 168,
+    "value": "8",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 168,
+    "value": "8",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 168,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 168,
+    "value": "10",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 168,
+    "value": "9.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 169,
+    "value": "8",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 170,
+    "value": "1",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 170,
+    "value": "2.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 171,
+    "value": "2.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 172,
+    "value": "6",
+    "ptvCode": "ptv_range_bug_key_min"
+  },
+  {
+    "id": 172,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 172,
+    "value": "3.5",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 172,
+    "value": "8.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 172,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 173,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 174,
+    "value": "7",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 175,
+    "value": "3.5",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 175,
+    "value": "3",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 175,
+    "value": "7",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 175,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 175,
+    "value": "7.2",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 175,
+    "value": "2.2",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 175,
+    "value": "10",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 175,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 175,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 175,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 176,
+    "value": "2.2",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 176,
+    "value": "4.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 176,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 177,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 177,
+    "value": "2.3",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 177,
+    "value": "4.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 177,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 178,
+    "value": "7",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 181,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 181,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 182,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 182,
+    "value": "5.6",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 182,
+    "value": "3.7",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 182,
+    "value": "9.9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 186,
+    "value": "4.9",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 186,
+    "value": "6",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 186,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 186,
+    "value": "5",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 186,
+    "value": "4.8",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 186,
+    "value": "8.7",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 186,
+    "value": "2.9",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 186,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 186,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 187,
+    "value": "2.9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 187,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 188,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 188,
+    "value": "4.8",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 188,
+    "value": "8.7",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 188,
+    "value": "4.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 188,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 189,
+    "value": "10",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 189,
+    "value": "7",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 191,
+    "value": "10",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 191,
+    "value": "0",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 191,
+    "value": "10",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 194,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 194,
+    "value": "7.2",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 194,
+    "value": "4",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 194,
+    "value": "7.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 194,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 195,
+    "value": "4.3",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 195,
+    "value": "2.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 195,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 196,
+    "value": "2.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 196,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 197,
+    "value": "4.3",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 197,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 197,
+    "value": "9",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 197,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 197,
+    "value": "5.6",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 197,
+    "value": "1.7",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 197,
+    "value": "9.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 197,
+    "value": "1.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 197,
+    "value": "9",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 197,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 198,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 198,
+    "value": "3.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 199,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 199,
+    "value": "2.8",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 199,
+    "value": "8.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 199,
+    "value": "1.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 199,
+    "value": "5.5",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 200,
+    "value": "3.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 201,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 202,
+    "value": "3",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 202,
+    "value": "3.2",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 202,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 202,
+    "value": "1.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 202,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 203,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 203,
+    "value": "1.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 203,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 204,
+    "value": "3.4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 204,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 204,
+    "value": "7",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 204,
+    "value": "3.1",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 204,
+    "value": "7.6",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 204,
+    "value": "3.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 204,
+    "value": "7",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 204,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 205,
+    "value": "7",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 205,
+    "value": "3.1",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 205,
+    "value": "7.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 205,
+    "value": "7",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 206,
+    "value": "3.4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 206,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 206,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 206,
+    "value": "2.9",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 206,
+    "value": "1.2",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 206,
+    "value": "5.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 206,
+    "value": "0.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 206,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 206,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 207,
+    "value": "2.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 207,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 208,
+    "value": "0.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 209,
+    "value": "2.9",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 209,
+    "value": "4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 209,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 209,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 210,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 210,
+    "value": "2.1",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 210,
+    "value": "5.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 210,
+    "value": "0.3",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 210,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 210,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 211,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 211,
+    "value": "1.3",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 211,
+    "value": "2.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 211,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 212,
+    "value": "4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 212,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 212,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 212,
+    "value": "3.1",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 212,
+    "value": "4.7",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 212,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 212,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 212,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 213,
+    "value": "3.1",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 213,
+    "value": "1.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 213,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 214,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 214,
+    "value": "3.1",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 214,
+    "value": "4.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 214,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 215,
+    "value": "4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 215,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 215,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 215,
+    "value": "5.1",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 215,
+    "value": "1.9",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 215,
+    "value": "7.5",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 215,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 215,
+    "value": "7",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 215,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 216,
+    "value": "1.3",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 216,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 217,
+    "value": "1.9",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 217,
+    "value": "2.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 217,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 218,
+    "value": "2.4",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 218,
+    "value": "1.2",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 218,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 220,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 220,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 221,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 221,
+    "value": "3.1",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 221,
+    "value": "7.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 221,
+    "value": "1.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 221,
+    "value": "7",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 222,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 222,
+    "value": "2.7",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 222,
+    "value": "5.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 222,
+    "value": "2",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 222,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 224,
+    "value": "4.3",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 224,
+    "value": "2",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 224,
+    "value": "1",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 224,
+    "value": "4",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 224,
+    "value": "2.8",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 224,
+    "value": "6.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 224,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 224,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 224,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 226,
+    "value": "6.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 226,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 227,
+    "value": "1",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 227,
+    "value": "2.8",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 227,
+    "value": "1.2",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 227,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 228,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 228,
+    "value": "3.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 228,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 229,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 229,
+    "value": "3.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 229,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 230,
+    "value": "2",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 230,
+    "value": "1.5",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 230,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 231,
+    "value": "1.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 231,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 232,
+    "value": "4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 232,
+    "value": "3.2",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 232,
+    "value": "1.6",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 232,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 233,
+    "value": "3.2",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 233,
+    "value": "1.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 233,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 234,
+    "value": "7",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 234,
+    "value": "4.3",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 234,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 234,
+    "value": "3.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 234,
+    "value": "2.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 234,
+    "value": "7",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 234,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 235,
+    "value": "2.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 235,
+    "value": "7",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 236,
+    "value": "6",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 236,
+    "value": "9.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 237,
+    "value": "9.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 238,
+    "value": "5",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 238,
+    "value": "9",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 238,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 238,
+    "value": "9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 240,
+    "value": "8",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 242,
+    "value": "7",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 243,
+    "value": "7",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 244,
+    "value": "6",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 244,
+    "value": "7.5",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 245,
+    "value": "7.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 248,
+    "value": "6",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 250,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 251,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 252,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 253,
+    "value": "4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 253,
+    "value": "3",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 253,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 253,
+    "value": "3.5",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 253,
+    "value": "8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 253,
+    "value": "6.3",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 253,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 253,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 254,
+    "value": "3.5",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 254,
+    "value": "6.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 254,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 255,
+    "value": "7",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 255,
+    "value": "5",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 255,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 255,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 255,
+    "value": "3.7",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 255,
+    "value": "2.8",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 255,
+    "value": "8.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 255,
+    "value": "6.2",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 255,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 255,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 256,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 256,
+    "value": "3.7",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 256,
+    "value": "8.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 256,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 257,
+    "value": "7",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 257,
+    "value": "9",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 257,
+    "value": "9",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 257,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 257,
+    "value": "6.1",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 257,
+    "value": "5.1",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 257,
+    "value": "9.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 257,
+    "value": "9",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 257,
+    "value": "9",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 258,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 258,
+    "value": "5.1",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 259,
+    "value": "8",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 259,
+    "value": "9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 259,
+    "value": "9",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 260,
+    "value": "9",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 260,
+    "value": "9",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 260,
+    "value": "9.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 260,
+    "value": "9.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 260,
+    "value": "9",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 260,
+    "value": "9",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 261,
+    "value": "3",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 261,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 261,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 261,
+    "value": "6.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 261,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 262,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 262,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 262,
+    "value": "6.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 262,
+    "value": "6.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 262,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 262,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 263,
+    "value": "4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 263,
+    "value": "5",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 263,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 263,
+    "value": "1",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 263,
+    "value": "8.9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 263,
+    "value": "1.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 263,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 263,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 264,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 264,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 264,
+    "value": "7",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 264,
+    "value": "7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 265,
+    "value": "4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 265,
+    "value": "1",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 265,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 265,
+    "value": "8.7",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 265,
+    "value": "2.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 265,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 267,
+    "value": "6.2",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 267,
+    "value": "6.2",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 267,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 267,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 268,
+    "value": "7",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 270,
+    "value": "4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 270,
+    "value": "9",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 270,
+    "value": "9",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 270,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 270,
+    "value": "8.2",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 270,
+    "value": "10",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 270,
+    "value": "7.3",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 270,
+    "value": "10",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 270,
+    "value": "8",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 271,
+    "value": "8",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 271,
+    "value": "8",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 271,
+    "value": "9.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 271,
+    "value": "9.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 271,
+    "value": "9",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 271,
+    "value": "9",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 272,
+    "value": "2.5",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 272,
+    "value": "2.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 272,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 272,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 273,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 273,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 273,
+    "value": "1.8",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 273,
+    "value": "1.8",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 273,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 273,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 274,
+    "value": "3.1",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 274,
+    "value": "3.1",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 274,
+    "value": "1.6",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 274,
+    "value": "1.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 274,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 274,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 275,
+    "value": "2.1",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 275,
+    "value": "2.1",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 275,
+    "value": "1.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 275,
+    "value": "1.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 276,
+    "value": "4.5",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 276,
+    "value": "4.5",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 276,
+    "value": "4.9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 276,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 276,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 276,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 277,
+    "value": "1",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 277,
+    "value": "1.3",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 277,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 277,
+    "value": "1",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 277,
+    "value": "3",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 277,
+    "value": "0.2",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 277,
+    "value": "2.8",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 278,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 278,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 278,
+    "value": "2.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 278,
+    "value": "2.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 278,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 278,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 279,
+    "value": "1",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 279,
+    "value": "1.3",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 279,
+    "value": "1.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 279,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 279,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 280,
+    "value": "1.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 280,
+    "value": "1.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 281,
+    "value": "1.3",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 281,
+    "value": "0",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 281,
+    "value": "0",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 281,
+    "value": "0.7",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 282,
+    "value": "0",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 282,
+    "value": "0",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 282,
+    "value": "0.7",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 282,
+    "value": "0.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 283,
+    "value": "1.3",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 283,
+    "value": "2",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 283,
+    "value": "3.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 283,
+    "value": "0.3",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 283,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 283,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 284,
+    "value": "3.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 284,
+    "value": "3.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 284,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 284,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 285,
+    "value": "2",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 285,
+    "value": "1.3",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 285,
+    "value": "1.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 286,
+    "value": "1.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 286,
+    "value": "1.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 287,
+    "value": "1.3",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 287,
+    "value": "2",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 287,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 287,
+    "value": "5.6",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 287,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 287,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 287,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 288,
+    "value": "4.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 288,
+    "value": "4.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 288,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 288,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 289,
+    "value": "0.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 290,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 290,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 290,
+    "value": "5.6",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 290,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 290,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 290,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 291,
+    "value": "0.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 291,
+    "value": "0.3",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 292,
+    "value": "1.8",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 292,
+    "value": "2.2",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 292,
+    "value": "1.7",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 293,
+    "value": "2.2",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 293,
+    "value": "2.2",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 293,
+    "value": "1.7",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 293,
+    "value": "1.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 294,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 294,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 295,
+    "value": "2.2",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 295,
+    "value": "2.2",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 296,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 296,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 296,
+    "value": "2.6",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 296,
+    "value": "2.6",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 296,
+    "value": "8.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 296,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 296,
+    "value": "7",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 296,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 297,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 297,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 297,
+    "value": "1.8",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 297,
+    "value": "1.8",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 297,
+    "value": "3.6",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 297,
+    "value": "3.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 297,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 297,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 298,
+    "value": "7.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 298,
+    "value": "7.3",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 298,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 298,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 300,
+    "value": "0.6",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 301,
+    "value": "0.6",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 301,
+    "value": "0.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 302,
+    "value": "1",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 302,
+    "value": "2.2",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 302,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 302,
+    "value": "1.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 302,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 302,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 302,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 303,
+    "value": "1.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 303,
+    "value": "1.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 303,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 303,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 304,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 304,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 304,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 304,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 304,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 304,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 305,
+    "value": "2",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 305,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 305,
+    "value": "2.9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 305,
+    "value": "0.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 306,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 306,
+    "value": "5.6",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 306,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 307,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 307,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 307,
+    "value": "5.6",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 307,
+    "value": "5.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 307,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 307,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 308,
+    "value": "0",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 308,
+    "value": "0.8",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 308,
+    "value": "1.5",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 308,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 308,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 309,
+    "value": "1.5",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 309,
+    "value": "1.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 310,
+    "value": "0.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 311,
+    "value": "0.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 311,
+    "value": "0.3",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 312,
+    "value": "3",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 312,
+    "value": "0",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 312,
+    "value": "1.8",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 312,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 312,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 313,
+    "value": "1.8",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 313,
+    "value": "1.8",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 313,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 313,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 313,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 313,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 314,
+    "value": "6",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 316,
+    "value": "2.9",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 316,
+    "value": "1",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 316,
+    "value": "1",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 316,
+    "value": "1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 316,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 317,
+    "value": "1",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 317,
+    "value": "1",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 317,
+    "value": "1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 317,
+    "value": "1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 317,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 317,
+    "value": "1",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 318,
+    "value": "4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 318,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 318,
+    "value": "8",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 318,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 318,
+    "value": "3.1",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 318,
+    "value": "2.4",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 318,
+    "value": "6.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 318,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 318,
+    "value": "8",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 318,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 319,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 319,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 319,
+    "value": "3.1",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 319,
+    "value": "3.1",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 319,
+    "value": "6.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 319,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 319,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 319,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 320,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 320,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 320,
+    "value": "2.4",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 320,
+    "value": "2.4",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 320,
+    "value": "4.2",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 320,
+    "value": "4.2",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 320,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 320,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 321,
+    "value": "8",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 321,
+    "value": "8",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 321,
+    "value": "3",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 321,
+    "value": "3",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 321,
+    "value": "5.7",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 321,
+    "value": "5.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 321,
+    "value": "8",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 321,
+    "value": "8",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 322,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 322,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 322,
+    "value": "4.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 322,
+    "value": "4.3",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 322,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 322,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 323,
+    "value": "6",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 323,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 323,
+    "value": "4",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 323,
+    "value": "3.9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 324,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 324,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 324,
+    "value": "4",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 324,
+    "value": "4",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 324,
+    "value": "3.9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 324,
+    "value": "3.9",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 325,
+    "value": "0",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 325,
+    "value": "0",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 325,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 325,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 326,
+    "value": "0",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 326,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 326,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 326,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 326,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 327,
+    "value": "1.5",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 327,
+    "value": "3",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 327,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 327,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 327,
+    "value": "2.6",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 327,
+    "value": "2.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 327,
+    "value": "0.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 327,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 328,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 328,
+    "value": "2.6",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 328,
+    "value": "2.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 328,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 329,
+    "value": "1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 329,
+    "value": "1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 330,
+    "value": "4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 330,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 330,
+    "value": "6.7",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 330,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 331,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 331,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 331,
+    "value": "6.7",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 331,
+    "value": "6.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 331,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 331,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 332,
+    "value": "6",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 332,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 332,
+    "value": "7",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 332,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 332,
+    "value": "3.4",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 332,
+    "value": "2.7",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 332,
+    "value": "4.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 332,
+    "value": "3.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 332,
+    "value": "7",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 332,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 333,
+    "value": "7",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 333,
+    "value": "7",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 333,
+    "value": "2.7",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 333,
+    "value": "2.7",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 333,
+    "value": "4.4",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 333,
+    "value": "4.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 333,
+    "value": "7",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 333,
+    "value": "7",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 335,
+    "value": "4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 335,
+    "value": "2",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 335,
+    "value": "2.8",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 335,
+    "value": "1.9",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 335,
+    "value": "4.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 335,
+    "value": "2.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 335,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 336,
+    "value": "2.8",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 336,
+    "value": "2.8",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 336,
+    "value": "4.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 336,
+    "value": "4.3",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 336,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 336,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 337,
+    "value": "1.9",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 337,
+    "value": "1.9",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 337,
+    "value": "2.6",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 337,
+    "value": "2.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 337,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 337,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 338,
+    "value": "1.5",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 338,
+    "value": "0",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 338,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 338,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 339,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 339,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 339,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 339,
+    "value": "0",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 340,
+    "value": "1.1",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 340,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 341,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 341,
+    "value": "0",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 341,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 341,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 342,
+    "value": "0.8",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 342,
+    "value": "1.6",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 342,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 343,
+    "value": "1.6",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 343,
+    "value": "1.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 343,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 343,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 344,
+    "value": "3",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 344,
+    "value": "7",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 345,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 346,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 346,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 346,
+    "value": "4.9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 346,
+    "value": "4.9",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 347,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 347,
+    "value": "3",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 347,
+    "value": "2.9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 347,
+    "value": "2.9",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 347,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 347,
+    "value": "2",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 348,
+    "value": "6.4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 348,
+    "value": "6",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 348,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 348,
+    "value": "7.9",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 348,
+    "value": "4.1",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 348,
+    "value": "10",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 348,
+    "value": "1.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 349,
+    "value": "4.5",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 349,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 349,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 349,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 349,
+    "value": "4",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 349,
+    "value": "2.75",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 349,
+    "value": "6.9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 349,
+    "value": "1.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 349,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 349,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 350,
+    "value": "6.4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 350,
+    "value": "5",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 350,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 350,
+    "value": "3.7",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 350,
+    "value": "3.6",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 350,
+    "value": "6.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 350,
+    "value": "5.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 351,
+    "value": "7",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 351,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 351,
+    "value": "7",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 351,
+    "value": "8.5",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 352,
+    "value": "6.4",
+    "ptvCode": "ptv_range_bug_key_max"
+  },
+  {
+    "id": 352,
+    "value": "5",
+    "ptvCode": "ptv_range_burton_gerritsen_max"
+  },
+  {
+    "id": 352,
+    "value": "9",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 352,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 352,
+    "value": "6.7",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 352,
+    "value": "1.9",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 352,
+    "value": "9.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 352,
+    "value": "6.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 728,
+    "value": "6.4",
+    "ptvCode": "ptv_range_bug_key_min"
+  },
+  {
+    "id": 728,
+    "value": "6",
+    "ptvCode": "ptv_range_burton_gerritsen_min"
+  },
+  {
+    "id": 728,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 728,
+    "value": "7.9",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 728,
+    "value": "4.1",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 728,
+    "value": "10",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 728,
+    "value": "1.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 729,
+    "value": "8",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 732,
+    "value": "4.5",
+    "ptvCode": "ptv_range_bug_key_min"
+  },
+  {
+    "id": 732,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_min"
+  },
+  {
+    "id": 732,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 732,
+    "value": "2",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 732,
+    "value": "4",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 732,
+    "value": "2.75",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 732,
+    "value": "6.9",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 732,
+    "value": "1.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 732,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 732,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 733,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 733,
+    "value": "2.75",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 733,
+    "value": "2.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 733,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 739,
+    "value": "6.4",
+    "ptvCode": "ptv_range_bug_key_min"
+  },
+  {
+    "id": 739,
+    "value": "5",
+    "ptvCode": "ptv_range_burton_gerritsen_min"
+  },
+  {
+    "id": 739,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 739,
+    "value": "3.7",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 739,
+    "value": "3.6",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 739,
+    "value": "6.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 739,
+    "value": "5.55",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 740,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 740,
+    "value": "3.6",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 740,
+    "value": "6.3",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 743,
+    "value": "7",
+    "ptvCode": "ptv_range_burton_gerritsen_min"
+  },
+  {
+    "id": 743,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 743,
+    "value": "7",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 743,
+    "value": "8.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 744,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 744,
+    "value": "7",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 744,
+    "value": "8.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 745,
+    "value": "6.4",
+    "ptvCode": "ptv_range_bug_key_min"
+  },
+  {
+    "id": 745,
+    "value": "5",
+    "ptvCode": "ptv_range_burton_gerritsen_min"
+  },
+  {
+    "id": 745,
+    "value": "10",
+    "ptvCode": "ptv_range_midatlantic_max"
+  },
+  {
+    "id": 745,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 745,
+    "value": "6.7",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 745,
+    "value": "1.9",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 745,
+    "value": "9.8",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 745,
+    "value": "6.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 746,
+    "value": "10",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 746,
+    "value": "9.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 747,
+    "value": "2.3",
+    "ptvCode": "ptv_range_bug_key_min"
+  },
+  {
+    "id": 747,
+    "value": "4",
+    "ptvCode": "ptv_range_burton_gerritsen_min"
+  },
+  {
+    "id": 747,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 747,
+    "value": "4",
+    "ptvCode": "ptv_range_midwest_max"
+  },
+  {
+    "id": 747,
+    "value": "3.5",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 747,
+    "value": "4.3",
+    "ptvCode": "ptv_range_southeast_max"
+  },
+  {
+    "id": 747,
+    "value": "2.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 747,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_max"
+  },
+  {
+    "id": 747,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 748,
+    "value": "3.5",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 748,
+    "value": "2.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 748,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 758,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 758,
+    "value": "5",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 758,
+    "value": "9.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 761,
+    "value": "4",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 761,
+    "value": "6.9",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 761,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 764,
+    "value": "6",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 764,
+    "value": "3.2",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 764,
+    "value": "6.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 764,
+    "value": "6",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 767,
+    "value": "2.9",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 767,
+    "value": "4.7",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 767,
+    "value": "4",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 770,
+    "value": "2.1",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 770,
+    "value": "3",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 773,
+    "value": "5",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 773,
+    "value": "3",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 773,
+    "value": "5.4",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 773,
+    "value": "5",
+    "ptvCode": "ptv_range_upper_midwest_min"
+  },
+  {
+    "id": 776,
+    "value": "4",
+    "ptvCode": "ptv_range_midatlantic_min"
+  },
+  {
+    "id": 776,
+    "value": "3.7",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 776,
+    "value": "5.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 779,
+    "value": "6.7",
+    "ptvCode": "ptv_range_midwest_min"
+  },
+  {
+    "id": 779,
+    "value": "8.6",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 782,
+    "value": "8.5",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 783,
+    "value": "5",
+    "ptvCode": "ptv_range_bug_key_min"
+  },
+  {
+    "id": 783,
+    "value": "3.8",
+    "ptvCode": "ptv_range_southeast_min"
+  },
+  {
+    "id": 784,
+    "value": "3.8",
+    "ptvCode": "ptv_range_southeast_min"
+  }
+]

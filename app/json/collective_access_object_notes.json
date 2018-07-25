@@ -1,0 +1,1246 @@
+[
+  {
+    "id": 10,
+    "notes": "add tarsus to glossary"
+  },
+  {
+    "id": 11,
+    "notes": "tarsi"
+  },
+  {
+    "id": 17,
+    "notes": "prolegs"
+  },
+  {
+    "id": 28,
+    "notes": "nota"
+  },
+  {
+    "id": 29,
+    "notes": "add to glossary: frontoclypeus, scalloped, intersegmental, sclerite"
+  },
+  {
+    "id": 30,
+    "notes": "add to glossary: intersegmental, sclerite"
+  },
+  {
+    "id": 60,
+    "notes": "I thought Collembola is the Order? ITIS lists Collembola as both the Order and Class for genus Podura..."
+  },
+  {
+    "id": 65,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 66,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 69,
+    "notes": "Burrton and Gerritsen PTV: 8\n\nwhere should I get information on attributes and behaviors?"
+  },
+  {
+    "id": 70,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 71,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 77,
+    "notes": "Omnivore. "
+  },
+  {
+    "id": 78,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 79,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 81,
+    "notes": "Non-annotated taxon"
+  },
+  {
+    "id": 82,
+    "notes": "Non-annotated taxon"
+  },
+  {
+    "id": 83,
+    "notes": "Non-annotated taxon\n\nwhere can I get attributes and behaviors"
+  },
+  {
+    "id": 84,
+    "notes": "Non-annotated taxon"
+  },
+  {
+    "id": 85,
+    "notes": "Non-annotated taxon"
+  },
+  {
+    "id": 88,
+    "notes": "where can I get info. on attributes and behaviors?"
+  },
+  {
+    "id": 93,
+    "notes": "Where should I get information on attributes and behaviors"
+  },
+  {
+    "id": 96,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 97,
+    "notes": "non-annotated taxon\n\nneed to select genus for imaging"
+  },
+  {
+    "id": 101,
+    "notes": "Omnivore.\nnon-annotated taxon"
+  },
+  {
+    "id": 102,
+    "notes": "Omnivore.\nnon-annotated taxon"
+  },
+  {
+    "id": 104,
+    "notes": "non-annotated taxon\n\nWhere should I get information on attributes and behaviors?"
+  },
+  {
+    "id": 105,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 108,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 111,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 112,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 118,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 120,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 121,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 122,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 123,
+    "notes": "Collector/Gatherers: Generally.\nClingers: few Climbers. \nBased on Merritt et al Elmidae larvae and adult characteristics. "
+  },
+  {
+    "id": 124,
+    "notes": "Engulfer/Predator: Generally.\nClimber: Generally. "
+  },
+  {
+    "id": 125,
+    "notes": "Engulfer/Predator: Generally.\nClimber: Generally."
+  },
+  {
+    "id": 126,
+    "notes": "Engulfer/Predator: Generally.\nClimber: Generally."
+  },
+  {
+    "id": 127,
+    "notes": "Collector/Gatherers: Generally.\nClingers: few Climbers. \nBased on Merritt et al Elmidae larvae and adult characteristics. "
+  },
+  {
+    "id": 128,
+    "notes": "Collector/Gatherers: Generally.\nClingers: few Climbers. \nBased on Merritt et al Elmidae larvae and adult characteristics. "
+  },
+  {
+    "id": 129,
+    "notes": "Collector/Gatherers: Generally.\nClingers: few Climbers. \nBased on Merritt et al Elmidae larvae and adult characteristics. "
+  },
+  {
+    "id": 130,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 133,
+    "notes": "Collector/Gatherers: Generally.\nClingers: few Climbers. \nBased on Merritt et al Elmidae larvae and adult characteristics. "
+  },
+  {
+    "id": 134,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 136,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 137,
+    "notes": "Climber: Generally.\nSwimmer: Generally.\nEngulfer/Predator: Generally."
+  },
+  {
+    "id": 139,
+    "notes": "Climbers: Generally.\nSwimmers: Generally.\nEngulfer/Predator: Generally."
+  },
+  {
+    "id": 144,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 145,
+    "notes": "Climbers: Generally.\nEngulfer/Predator: Generally.\n"
+  },
+  {
+    "id": 148,
+    "notes": "Burrowers: Sand and gravel.\nCollector/Gatherer: Generally. "
+  },
+  {
+    "id": 149,
+    "notes": "Climbers: Generally.\nEngulfer/Predator: Generally."
+  },
+  {
+    "id": 154,
+    "notes": "Shredder/Detritivore: Generally.\nClinger: Generally. "
+  },
+  {
+    "id": 157,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 158,
+    "notes": "Clinger: ventral sucker.\n\nnon-annotated taxon"
+  },
+  {
+    "id": 159,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 163,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 164,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 165,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 166,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 167,
+    "notes": "gigapan still needed\nnon-annotated taxon"
+  },
+  {
+    "id": 168,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 169,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 170,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 171,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 172,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 173,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 174,
+    "notes": "Collector/Gatherer: Generally. \nShredder/Herbivore: Miners.\nBurrower: Generally."
+  },
+  {
+    "id": 176,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 177,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 178,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 179,
+    "notes": "This genus is not aquatic/semi-aquatic. Choose another genus.\nnon-annotated taxon"
+  },
+  {
+    "id": 180,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 181,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 182,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 183,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 185,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 187,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 188,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 190,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 192,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 198,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 200,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 201,
+    "notes": "non-annotated taxon\nnot on list"
+  },
+  {
+    "id": 202,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 203,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 207,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 208,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 210,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 211,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 213,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 214,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 216,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 217,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 218,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 220,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 221,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 225,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 226,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 229,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 230,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 231,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 232,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 233,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 235,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 236,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 237,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 238,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 239,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 240,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 241,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 243,
+    "notes": "\n"
+  },
+  {
+    "id": 244,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 245,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 246,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 247,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 249,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 259,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 260,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 261,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 262,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 263,
+    "notes": "Climber: Some"
+  },
+  {
+    "id": 267,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 268,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 269,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 272,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 273,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 274,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 275,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 276,
+    "notes": "Collector/Gatherer: Facultative; especially in early instars\n\nnon-annotated taxon"
+  },
+  {
+    "id": 277,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 278,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 279,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 280,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 284,
+    "notes": "Collector/Gatherer: Facultative.\nShredder/Detritivore: Generally. "
+  },
+  {
+    "id": 285,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 286,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 288,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 291,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 292,
+    "notes": "non-annotated taxon\n\n"
+  },
+  {
+    "id": 293,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 294,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 295,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 296,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 297,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 298,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 299,
+    "notes": "non-annotated taxon "
+  },
+  {
+    "id": 300,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 301,
+    "notes": "non-annotated taxon\n"
+  },
+  {
+    "id": 302,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 303,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 304,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 305,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 308,
+    "notes": "non-annotated taxon, but providing life history information revised from that shown on the calendar"
+  },
+  {
+    "id": 309,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 310,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 311,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 312,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 313,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 314,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 315,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 320,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 321,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 322,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 323,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 324,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 325,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 326,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 329,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 330,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 331,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 332,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 333,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 334,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 336,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 340,
+    "notes": "non-annotated taxon\n"
+  },
+  {
+    "id": 341,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 344,
+    "notes": "Common names for various kinds in this family include hydrobes, pebblesnails, siltsnails, and springsnails."
+  },
+  {
+    "id": 347,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 348,
+    "notes": "Engulfer/Predator: Generally.\nClimbers: Generally.\nPTV values for larvae are based on the PTV values of adults. "
+  },
+  {
+    "id": 350,
+    "notes": "PTV values for larvae are based on PTV values of adults. \nEngulfer/Predator: Generally.\nClimber: Generally. "
+  },
+  {
+    "id": 351,
+    "notes": "Engulfer/Predator: Some.\nShredder/Herbivores: Generally; chewers. "
+  },
+  {
+    "id": 352,
+    "notes": "Collector/Gatherer: Generally.\nDiver: Generally."
+  },
+  {
+    "id": 480,
+    "notes": "this would be best to see in lateral view, but we don't have an image"
+  },
+  {
+    "id": 509,
+    "notes": "For characters such as the retreat, that will have to be shown as supplementary pop-up images, which gigapan should I put the IPs under? Not just for this character. For example for the genus, we need an image of the frontoclypeus, this is not visible in lateral view, it may sometimes be visible in ventral view as the head curves upward. Do I put the pop-up under the lateral view anyway, and just make good notes in the diagnostic character description about how to best position the animal to see it?"
+  },
+  {
+    "id": 537,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 725,
+    "notes": "dark background"
+  },
+  {
+    "id": 726,
+    "notes": "lateral with light background"
+  },
+  {
+    "id": 728,
+    "notes": "Used same approved life history description as for adult Dytiscidae"
+  },
+  {
+    "id": 732,
+    "notes": "Used same approved life history description here as was used for Elmid adults.\n\nPTV values for larvae are based on the PTV values of adults. "
+  },
+  {
+    "id": 739,
+    "notes": "I reused the same approved life history descriptions from the Gyrinid adults."
+  },
+  {
+    "id": 755,
+    "notes": "Where can I get information on attributes and behaviors?"
+  },
+  {
+    "id": 757,
+    "notes": "Where can I get information on attributes and behaviors?"
+  },
+  {
+    "id": 758,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 759,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 760,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 761,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 762,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 763,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 764,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 765,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 766,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 767,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 768,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 769,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 770,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 771,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 772,
+    "notes": "non-annotate taxon"
+  },
+  {
+    "id": 773,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 774,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 775,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 776,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 777,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 778,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 779,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 780,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 781,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 784,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 785,
+    "notes": "Non-annotated taxon"
+  },
+  {
+    "id": 786,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 787,
+    "notes": "non-annotated taxon"
+  },
+  {
+    "id": 791,
+    "notes": "anal prolegs"
+  },
+  {
+    "id": 793,
+    "notes": "apically, apices, apical"
+  },
+  {
+    "id": 795,
+    "notes": "basally"
+  },
+  {
+    "id": 800,
+    "notes": "carinae"
+  },
+  {
+    "id": 809,
+    "notes": "coxae, coxal"
+  },
+  {
+    "id": 810,
+    "notes": "crenation"
+  },
+  {
+    "id": 812,
+    "notes": "denticles"
+  },
+  {
+    "id": 816,
+    "notes": "duns"
+  },
+  {
+    "id": 819,
+    "notes": "elytra"
+  },
+  {
+    "id": 825,
+    "notes": "filtering, filter"
+  },
+  {
+    "id": 826,
+    "notes": "foretrochantins"
+  },
+  {
+    "id": 829,
+    "notes": "frontoclypeal"
+  },
+  {
+    "id": 831,
+    "notes": "genae, genal"
+  },
+  {
+    "id": 834,
+    "notes": "hemimetabolous"
+  },
+  {
+    "id": 835,
+    "notes": "imagoes"
+  },
+  {
+    "id": 841,
+    "notes": "mask"
+  },
+  {
+    "id": 842,
+    "notes": "labial"
+  },
+  {
+    "id": 844,
+    "notes": "lamellae"
+  },
+  {
+    "id": 847,
+    "notes": "larvae, larval"
+  },
+  {
+    "id": 850,
+    "notes": "maxillae, maxillary"
+  },
+  {
+    "id": 851,
+    "notes": "medially, medial"
+  },
+  {
+    "id": 854,
+    "notes": "meso"
+  },
+  {
+    "id": 855,
+    "notes": "mesonota"
+  },
+  {
+    "id": 856,
+    "notes": "mesopleura"
+  },
+  {
+    "id": 857,
+    "notes": "meta"
+  },
+  {
+    "id": 860,
+    "notes": "nota"
+  },
+  {
+    "id": 861,
+    "notes": "nymphs"
+  },
+  {
+    "id": 862,
+    "notes": "operculate, operculate gills"
+  },
+  {
+    "id": 863,
+    "notes": "palps, palpal"
+  },
+  {
+    "id": 864,
+    "notes": "palpi, palpal"
+  },
+  {
+    "id": 869,
+    "notes": "perchers"
+  },
+  {
+    "id": 873,
+    "notes": "pleura, pleural"
+  },
+  {
+    "id": 875,
+    "notes": "pro"
+  },
+  {
+    "id": 878,
+    "notes": "sa1, sa2, sa3"
+  },
+  {
+    "id": 880,
+    "notes": "sclerites"
+  },
+  {
+    "id": 882,
+    "notes": "scraping, scrape, scrapers"
+  },
+  {
+    "id": 885,
+    "notes": "setae"
+  },
+  {
+    "id": 889,
+    "notes": "spinners"
+  },
+  {
+    "id": 890,
+    "notes": "subimagos, subimagoes"
+  },
+  {
+    "id": 891,
+    "notes": "sulci"
+  },
+  {
+    "id": 892,
+    "notes": "sutures, sutural"
+  },
+  {
+    "id": 896,
+    "notes": "terga"
+  },
+  {
+    "id": 897,
+    "notes": "tibiae"
+  },
+  {
+    "id": 899,
+    "notes": "tubercular"
+  },
+  {
+    "id": 900,
+    "notes": "ventrally"
+  },
+  {
+    "id": 907,
+    "notes": "dorsally, dorsum"
+  },
+  {
+    "id": 911,
+    "notes": "labral"
+  },
+  {
+    "id": 912,
+    "notes": "laterally"
+  },
+  {
+    "id": 913,
+    "notes": "metanota, metanotal"
+  },
+  {
+    "id": 914,
+    "notes": "ocelli"
+  },
+  {
+    "id": 915,
+    "notes": "stemmata"
+  },
+  {
+    "id": 922,
+    "notes": "spinules"
+  },
+  {
+    "id": 923,
+    "notes": "spiracles"
+  },
+  {
+    "id": 924,
+    "notes": "striae"
+  },
+  {
+    "id": 925,
+    "notes": "urogomphi"
+  },
+  {
+    "id": 940,
+    "notes": "mesosternal"
+  },
+  {
+    "id": 952,
+    "notes": "add trochantin to glossary and include here"
+  },
+  {
+    "id": 955,
+    "notes": "benthos"
+  },
+  {
+    "id": 956,
+    "notes": "burrowers, burrow"
+  },
+  {
+    "id": 958,
+    "notes": "climbers, climbing, climb"
+  },
+  {
+    "id": 959,
+    "notes": "clingers, cling, clinging"
+  },
+  {
+    "id": 961,
+    "notes": "collectors-gatherers, collecting-gatherers, collecting and gathering, collect and gather, collector-gatherers"
+  },
+  {
+    "id": 962,
+    "notes": "divers"
+  },
+  {
+    "id": 963,
+    "notes": "engulfing predators, engulf"
+  },
+  {
+    "id": 964,
+    "notes": "forelegs"
+  },
+  {
+    "id": 965,
+    "notes": "hind legs"
+  },
+  {
+    "id": 968,
+    "notes": "leaf packs"
+  },
+  {
+    "id": 971,
+    "notes": "depositional"
+  },
+  {
+    "id": 974,
+    "notes": "piercing herbivores, pierce, piercing"
+  },
+  {
+    "id": 975,
+    "notes": "predators, piercing predators"
+  },
+  {
+    "id": 978,
+    "notes": "prosternal"
+  },
+  {
+    "id": 979,
+    "notes": "scraper-grazers"
+  },
+  {
+    "id": 981,
+    "notes": "shredding-detritivores, detritus, shredding detritivores, detritivores, detritivorous shredders"
+  },
+  {
+    "id": 983,
+    "notes": "shredding herbivores, algae, herbivores, shredding, shred, shredder-herbivores, shredders-herbivores"
+  },
+  {
+    "id": 985,
+    "notes": "sprawl, sprawlers, sprawling, sprawled"
+  },
+  {
+    "id": 986,
+    "notes": "swimmers, swimming"
+  },
+  {
+    "id": 990,
+    "notes": "Is this just to separate from Haliplidae? Do we really need to include this?"
+  },
+  {
+    "id": 1000,
+    "notes": "add cupule to glossary"
+  },
+  {
+    "id": 1019,
+    "notes": "add wing pads to glossary"
+  },
+  {
+    "id": 1022,
+    "notes": "add wing pads to glossary"
+  },
+  {
+    "id": 1036,
+    "notes": "For Diagnostic characters I can not change the text for each taxon with the same character, i.e. all taxon with this DC will have the same text. BUT I can specify it for the Interest points (IP's) for each taxon. The IPs are what shows up on the front end of the website. So for the IP's I will specify if it is the only genus east of the Rockies, or in the US, or in the world.\n\nNot sure how these will be pinned on the insect, but I feel that it is important to include or else people may just think we did not include any genus level characters."
+  },
+  {
+    "id": 1037,
+    "notes": "add spinneret to glossary"
+  },
+  {
+    "id": 1038,
+    "notes": "add membranous to glossary"
+  },
+  {
+    "id": 1044,
+    "notes": "Once examples of cases and tubes are added as diagnostic characters for other groups make sure to link them as contrasting characters"
+  },
+  {
+    "id": 1059,
+    "notes": "opercula"
+  },
+  {
+    "id": 1065,
+    "notes": "transversely"
+  },
+  {
+    "id": 1068,
+    "notes": "compound eyes"
+  },
+  {
+    "id": 1124,
+    "notes": "add abdominal, dorsolateral, and tergite to glossary?"
+  },
+  {
+    "id": 1126,
+    "notes": "add prothorax to dictionary"
+  },
+  {
+    "id": 1134,
+    "notes": "add lamellate to the glossary"
+  }
+]

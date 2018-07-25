@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3,
+    "name": "sensitive",
+    "prettyNameSingular": "Sensitive",
+    "rank": 1
+  },
+  {
+    "id": 14,
+    "name": "sensitive",
+    "prettyNameSingular": "Sensitive",
+    "rank": 1
+  },
+  {
+    "id": 14,
+    "name": "less_sensitive",
+    "prettyNameSingular": "Less Sensitive",
+    "rank": 2
+  },
+  {
+    "id": 20,
+    "name": "sensitive",
+    "prettyNameSingular": "Sensitive",
+    "rank": 1
+  },
+  {
+    "id": 52,
+    "name": "sensitive",
+    "prettyNameSingular": "Sensitive",
+    "rank": 1
+  },
+  {
+    "id": 53,
+    "name": "sensitive",
+    "prettyNameSingular": "Sensitive",
+    "rank": 1
+  },
+  {
+    "id": 53,
+    "name": "less_sensitive",
+    "prettyNameSingular": "Less Sensitive",
+    "rank": 2
+  },
+  {
+    "id": 54,
+    "name": "sensitive",
+    "prettyNameSingular": "Sensitive",
+    "rank": 1
+  },
+  {
+    "id": 54,
+    "name": "less_sensitive",
+    "prettyNameSingular": "Less Sensitive",
+    "rank": 2
+  },
+  {
+    "id": 54,
+    "name": "tolerant",
+    "prettyNameSingular": "Tolerant",
+    "rank": 3
+  },
+  {
+    "id": 55,
+    "name": "less_sensitive",
+    "prettyNameSingular": "Less Sensitive",
+    "rank": 2
+  },
+  {
+    "id": 56,
+    "name": "less_sensitive",
+    "prettyNameSingular": "Less Sensitive",
+    "rank": 2
+  },
+  {
+    "id": 57,
+    "name": "less_sensitive",
+    "prettyNameSingular": "Less Sensitive",
+    "rank": 2
+  },
+  {
+    "id": 75,
+    "name": "less_sensitive",
+    "prettyNameSingular": "Less Sensitive",
+    "rank": 2
+  },
+  {
+    "id": 106,
+    "name": "less_sensitive",
+    "prettyNameSingular": "Less Sensitive",
+    "rank": 2
+  }
+]

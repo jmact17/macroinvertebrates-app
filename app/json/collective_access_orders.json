@@ -1,0 +1,178 @@
+[
+  {
+    "id": 52,
+    "classId": 2,
+    "commonName": "Adult Beetles",
+    "scientificName": "Coleoptera",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "etymology": "<i>coleo </i> 'sheathed' + <i>ptera </i> 'wing' (Greek)\n",
+    "description": "Beetles are the most diverse group of plants or animals on earth, with over 300,000 species. More than 16,000 of these species live in water for at least part of their lives. Beetles have egg, <u>larval</u>, pupal, and adult life stages. For different species, one or all of egg, <u>larval</u>, or adult life stages live in the water, but usually the pupae are terrestrial. Some <u>larvae</u> have slender gills for breathing underwater, others simply take oxygen through the soft cuticle or pierce stems or roots of aquatic plants. Adults do not have gills, but have various other strategies--Some hold an air bubble against breathing holes on the sides of their bodies and replenish the bubble periodically at the water surface; others maintain a thin layer of permanently trapped air over those breathing holes. Aquatic beetles can be found in water that is either flowing or still, and some even thrive in brackish environments.",
+    "expandedCharacterList": "Adults <strong>with hardened forewings (<u>elytra</u>) covering the hind wings.</strong> "
+  },
+  {
+    "id": 727,
+    "classId": 2,
+    "commonName": "Larval Beetles ",
+    "scientificName": "Coleoptera",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "etymology": " <i>coleo</i> 'sheathed' + <i>ptera</i> 'wing' (Greek)\n",
+    "description": "Beetles are the most diverse group of plants or animals on earth, with over 300,000 species. More than 16,000 of these species live in water for at least part of their lives. Beetles have egg, <u>larval</u>, pupal, and adult life stages. For different species, one or all of egg, <u>larval</u>, or adult life stages live in the water, but usually the pupae are terrestrial. Some <u>larvae</u> have slender gills for breathing underwater, others simply take oxygen through the soft cuticle or pierce stems or roots of aquatic plants. Adults do not have gills, but have various other strategies--Some hold an air bubble against breathing holes on the sides of their bodies and replenish the bubble periodically at the water surface; others maintain a thin layer of permanently trapped air over those breathing holes. Aquatic beetles can be found in water that is either flowing or still, and some even thrive in brackish environments.",
+    "expandedCharacterList": "<u>Larvae</u>:<strong> Usually without <u>lateral</u> abdominal gills</strong>. If gills present, then 4 hooks clustered on segment 10. <strong><u>Thoracic</u> legs each usually with 4 or 5 segments and with 1 or 2 claws</strong>; if without legs, head distinctly <u>sclerotized</u> and posterior body (thorax and abdomen) simple, without gills, hair brushes, suckers, or breathing tube.<strong> Eye spots usually present</strong>, but <u>compound eyes</u> absent."
+  },
+  {
+    "id": 53,
+    "classId": 2,
+    "commonName": "True Flies",
+    "scientificName": "Diptera",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "etymology": "  <i>di</i> 'two' + <i>ptera</i> 'wings' (Greek)",
+    "description": "The Diptera are holometabolous, meaning they have egg, <u>larval</u>, pupal, and adult life stages. For aquatic species, all life stages except the adult usually are aquatic. Greater than 51,000 species are known to be aquatic or semiaquatic; this is more than the number of aquatic species in all other insect orders combined. <u>Larvae</u> in this order are often maggot-like and never have segmented legs. Adults can be readily recognized by the absence of hind wings; they have front wings, but instead of hind wings they have club-like appendages (halteres) used for balance during flight. Adult flies are often thought of as pests because some bite, some vector diseases such as malaria, or swarm in high numbers. However, both <u>larvae</u> and adults are important links in aquatic and terrestrial food webs.",
+    "expandedCharacterList": "Wings and <u>wing pads</u> absent. Eye spots sometimes visible, but <u>compound eyes</u> absent. <strong>Segmented legs absent,</strong> but sometimes fleshy <u>prolegs</u> present. Sometimes with distinct head, often without head or with head drawn deeply into thorax. Body flattened, cylindrical, or maggot-like."
+  },
+  {
+    "id": 20,
+    "classId": 2,
+    "commonName": "Mayflies",
+    "scientificName": "Ephemeroptera",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "etymology": "<i>ephemeros</i> 'short lived' + <i>ptera</i> 'wings' (Greek)",
+    "description": "Mayflies, with over 3,400 species, make up one of the oldest orders of insects, with the first fossils dating to about 275 million years ago. They are <u>hemimetabolous</u>, without a pupal stage; however, they are unique in that they have a <u>subimago</u> stage, an extra life stage between the <u>larva</u> and the adult in which the insect has wings, but is still sexually immature. Most of their life is spent as aquatic <u>larvae</u> and most species spend only a few hours to no more than 3 days as flying adults. Different families and genera can be found in a variety of flowing-water and some still-water habitats. They can be <u>burrowers</u> in loose sediments, flat-bodied sprawlers on rocks, or fish-like and very streamlined in shape, making good swimmers. <u>Larvae</u> can be easily identified by having only a single claw on each foot, gills on the top or sides of the abdomen, and the presence of two or three slender tails.",
+    "expandedCharacterList": "Wings developing in <u>wing pads</u>. Mouthparts suitable for chewing. Gills present on tops and sides of abdomen. Segmented legs present.<strong> One tarsal claw per leg. Usually with 3 tails (sometimes 2).</strong>"
+  },
+  {
+    "id": 54,
+    "classId": 2,
+    "commonName": "True Bugs",
+    "scientificName": "Hemiptera",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "etymology": "<i>hemi</i> 'half' + <i>ptera</i> 'wings' (Greek)",
+    "description": "Commonly all insects are called “bugs”; however, the term “bug” actually refers to a specific order of insects, the Hemiptera, or so-called “true bugs.” Not all members of the group are aquatic, however there are nearly 5,000 aquatic or semiaquatic species worldwide. They are <u>hemimetabolous</u>, meaning that the life cycle does not have a pupal stage, and adults and <u>larvae</u> look very similar, except for the lack of wings when immature (<u>wing pads</u> may be present). True bugs can almost always be distinguished from other insects by the presence of a pointed beak or <u>rostrum</u>; this is a set of piercing-sucking mouthparts, usually long, that is held beneath the body (<u>ventrally</u>) when not feeding. These insects are often herbivores, feeding on plant fluids, or <u>predators</u> that inject their prey with digestive enzymes which liquefy the tissues so that they can be easily sucked back up through the straw-like mouth.",
+    "expandedCharacterList": "Adults: With or without wings. If wings present, forewings typically leathery or hard <u>basally</u> and translucent and flexible <u>apically</u>. <u>Nymphs</u>: With or without <u>wing pads</u>. Segmented legs present. Mandibles hidden within<strong> needle-like beak </strong>in adults and <u>nymphs</u>."
+  },
+  {
+    "id": 55,
+    "classId": 2,
+    "commonName": "Aquatic Caterpillars, Snout Moths",
+    "scientificName": "Lepidoptera",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "etymology": "<i>Lepido</i> 'scale' + <i>ptera</i> 'wings' (Greek)",
+    "description": "Most moths are terrestrial, however a few of the caterpillars of the family Crambidae are truly aquatic (about 740 species worldwide, 160 in North America). They are holometabolous, meaning they have egg, <u>larval</u>, pupal, and adult stages. They can be found in a variety of <u>lentic</u> and <u>lotic</u> habitats. Most <u>larvae</u> feed on floating plants or algae on rock surfaces. Often, first instar <u>larvae</u> are <u>hydrophilic</u> (water-loving) and absorb oxygen directly from the water. As the <u>larvae</u> become larger some species become <u>hydrophobic</u> (water-resistant) with a layer of air held against the body. This is advantageous, as oxygen diffuses more rapidly through air than water. Similar to the closely related Trichoptera (caddisflies), some species make cases or tents out of plant material and silk. They often have a close relationship with a host plant on which they both live and feed; these plant feeders often cover themselves with pieces of leaf or they <u>burrow</u> in the stem. The algal-feeding species of genus <em>Petrophila </em>live in streams and spin a silk tent on a rock or other solid substrate from beneath which they graze on the algae. The caterpillars pupate in or beneath the plant or silk material, and emerge as terrestrial moths.",
+    "expandedCharacterList": "Caterpillars with wings and <u>wing pads</u> absent. Eye spots usually present, but <u>compound eyes</u> absent. <strong>Short segmented legs present on thorax</strong>, not as long as abdomen. <strong>Underside of abdomen with several pairs of <u>prolegs</u> (fleshy nubs) with tiny hooks.</strong>"
+  },
+  {
+    "id": 56,
+    "classId": 2,
+    "commonName": "Alderflies, Dobsonflies, and Fishflies",
+    "scientificName": "Megaloptera",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "etymology": "<i>megalo</i> 'short lived' + <i>ptera</i> 'wings' (Greek)",
+    "description": "The members of this group are holometabolous, meaning that they have egg, <u>larval</u>, pupal, and adult life stages, but only the <u>larval</u> life stage is aquatic. <u>Larvae</u> of some genera can be quite large and all are predators of smaller invertebrates. They can be found in still or flowing water habitats; however, at the genus and species levels their habitat preferences are more particular. <u>Larvae</u> can be readily identified by the presence of paired <u>lateral</u> filaments or gills along the sides of the abdomen. Eggs are laid on plants or other objects overhanging the water, from where the young <u>larvae</u> drop into the water after hatching from their eggs. Pupae are in chambers dug in the soil or under soft rotting shoreline logs or stumps or in dry streambeds. Adults are aerial, flying in the day or night; with many nocturnal and most active at dusk; they can be quite large but likely do not feed.",
+    "expandedCharacterList": "Larval wings/<u>wing pads</u> absent. Eye spots present, but <u>compound eyes</u> absent. Segmented legs present on thorax.<strong> Abdominal segment 9 with either one slender tail or pair of <u>anal prolegs</u>, each with two hooks. Seven or eight pairs of filaments or gills <u>laterally</u> on abdomen</strong>, with<strong> </strong>never more than one pair per segment."
+  },
+  {
+    "id": 57,
+    "classId": 2,
+    "commonName": "Dragonflies and Damselflies",
+    "scientificName": "Odonata",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "etymology": "<i>odon</i> 'teeth' (as in \"flying teeth\") (Greek)",
+    "description": "The order Odonata is composed of two groups, the true dragonflies (Anisoptera) and the damselflies (Zygoptera). American damselfly <u>nymphs</u> have leaf- or feather-like gills on the posterior end of the abdomen; dragonfly <u>nymphs</u> have 5 tightly grouped spikes instead. These are <u>hemimetabolous</u> insects, and so do not have a pupal stage. Adults and <u>nymphs</u> are <u>engulfing predators</u>, feeding mainly on small invertebrates. <u>Larvae</u> capture their prey by either stealth or by ambush, snatching them with their <u>labial mask</u>, an arm-like extremity that extends rapidly from below the face and brings the food to their chewing mandibles. As adults, dragonflies are often thicker bodied than damselflies and hold their wings to the sides when at rest. Damselflies have more slender abdomens and their eyes appear more widely separated than eyes of true dragonflies; when at rest, damselflies usually hold their wings together vertically above their bodies. Adults are strong flyers, often found near the water, where they capture flying insects in the air. Eggs are laid in plant tissues or other substrates above or below the water surface.",
+    "expandedCharacterList": "<u>Nymph</u> with <strong>mask-like <u>labium</u> </strong>below chewing mouthparts. Wings developing in <u>wing pads</u>. Segmented legs present, each with two claws. "
+  },
+  {
+    "id": 3,
+    "classId": 2,
+    "commonName": "Stoneflies",
+    "scientificName": "Plecoptera",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "etymology": "<i>pleco</i> 'folded' + <i>ptera</i> 'wings' (Greek)",
+    "description": "Stoneflies include over 3,500 species globally. They’re <u>hemimetabolous</u>, lacking a pupal stage. Eggs and <u>larvae</u> are aquatic, and most adults are terrestrial. <u>Larvae</u> are typically found in cold, clean streams, such that presence of <u>larvae</u> is indicative of good water quality. <u>Larvae</u> sometimes diapause (similar to hibernation), especially if living in an intermittent stream, where water levels may drop very low. There is a wide range of feeding strategies among the different species, but most start as <u>collecting-gatherers</u> and shift to <u>shredding-detritivores</u> or omnivorous-predators. Microhabitats where they live can be very specific as each genus is adapted to particular environmental conditions. Unlike mayfly <u>larvae</u>, stonefly <u>larvae</u> have two claws per foot, never have gills on the top of the abdomen, and never have more than two <u>cerci</u> (tails). Adults rarely fly far from the <u>larval</u> habitat.",
+    "expandedCharacterList": "Wings developing in <u>wing pads</u>. Mouthparts suitable for chewing. Gills <u>digitiform</u> and located near mouthparts, on neck, sides of thorax, or underside of base of abdomen, never on top or sides of abdomen. <strong>Two tarsal claws per leg. Only two tails (<u>cerci</u>)</strong>."
+  },
+  {
+    "id": 14,
+    "classId": 2,
+    "commonName": "Caddisflies",
+    "scientificName": "Trichoptera",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "etymology": "<i>tricho</i> 'hair' + <i>ptera</i> 'wings' (Greek)",
+    "description": "Caddisflies constitute the 7th largest order of insects, with over 16,000 species globally and 1.887 species in North America. They’re holometabolous, having egg, <u>larval</u>, pupal, and adult life stages. They spend most of their lives as <u>larvae</u> and can be found in almost all freshwater habitats. Collectively the species of the order are ecologically diverse. Different species are <u>scrapers</u>, detritivores, herbivores, <u>filterers</u>, and predators. Most <u>larvae</u> construct portable tube-like cases or fixed retreats, although some are free-living. The cases and retreats are made from rock or plant fragments glued together with silk from their mouth. Both cases and retreats are used for camouflage and physical protection as well as for improving efficiency of respiration by channeling oxygenated water across the undulating animal. <u>Larvae</u> can be identified by the usually-inconspicuous antennae and the pair of <u>anal prolegs</u> each bearing a single hook.",
+    "expandedCharacterList": "<u>Larvae</u>: Wings/<u>wing pads</u> absent. Eye spots present, but <u>compound eyes</u> absent. Antennae usually small, inconspicuous. Three pairs of segmented legs present on thorax.<strong> Pair of <u>anal prolegs</u>, each with single hook, located on last abdominal segment. <u>Larvae</u> can be free-living, in silken retreats attached to substrate, or in usually-portable tubes or cases made of sand, rocks, or plant material</strong>."
+  },
+  {
+    "id": 75,
+    "classId": 58,
+    "commonName": "Amphipods, scuds, sideswimmers",
+    "scientificName": "Amphipoda",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "etymology": "<i>amphi</i> 'double' + <i>poda</i> 'feet' (Greek)",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 106,
+    "classId": 58,
+    "commonName": "Isopods",
+    "scientificName": "Isopoda",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "etymology": "iso = equal, poda = feet",
+    "description": "Isopods are a type of non-insect arthropod, or crustacean. Most isopods live on land, however there are approximately 100 North American aquatic species, mostly belonging to the family Asellidae. They tend to be rather flat from top to bottom (depressed), not laterally. They often have mottled coloring. These are usually bottom dwelling sprawlers, found in shallow, freshwater habitats. Usually they are omnivores or detritivores.",
+    "expandedCharacterList": null
+  },
+  {
+    "id": 60,
+    "classId": 59,
+    "commonName": "",
+    "scientificName": "Poduromorpha",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "etymology": null,
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 64,
+    "classId": 63,
+    "commonName": "Freshwater Mussels",
+    "scientificName": "Unionoida",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "etymology": null,
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 67,
+    "classId": 63,
+    "commonName": "",
+    "scientificName": "Veneroida",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "etymology": null,
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 95,
+    "classId": 94,
+    "commonName": "",
+    "scientificName": "Rhynchobdellida",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "etymology": null,
+    "description": null,
+    "expandedCharacterList": null
+  }
+]

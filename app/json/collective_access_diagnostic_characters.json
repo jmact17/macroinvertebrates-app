@@ -1,0 +1,933 @@
+[
+  {
+    "id": 10,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Two Tarsal Claws",
+    "description": "Always with two tarsal claws per leg."
+  },
+  {
+    "id": 12,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Two Tails",
+    "description": "Always only two tails (cerci)."
+  },
+  {
+    "id": 15,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Prolegs With Single Hook",
+    "description": "Larvae with pair of anal prolegs (fleshy nubs), each with single hook, located on last abdominal segment."
+  },
+  {
+    "id": 16,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Free-living Or In Tubes",
+    "description": "Larvae can be free-living, in fixed retreats, or in cases made of sand, rocks, or plant material."
+  },
+  {
+    "id": 21,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Usually 3 Tails",
+    "description": "Usually with three tails (two cerci and one caudal filament, but sometimes without caudal filament)."
+  },
+  {
+    "id": 22,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Single Tarsal Claw",
+    "description": "Always with only one tarsal claw per leg."
+  },
+  {
+    "id": 468,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Needle-like Beak",
+    "description": "Larvae and adult with needle-like or straw-like beak (except for Corixidae which has sieve-like mouth parts)."
+  },
+  {
+    "id": 472,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Hemelytra",
+    "description": "Adults with hemelytra (forewings typically leathery or hard basally and translucent and flexible apically)."
+  },
+  {
+    "id": 512,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "1 Tail or 2 Prolegs ",
+    "description": "Abdominal segment 9 (the last segment) with either one tail or pair of anal prolegs (fleshy nubs), each with two hooks."
+  },
+  {
+    "id": 513,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Lateral Filaments",
+    "description": "Seven or eight pairs of filaments or gills laterally on abdomen (slender conical appendages on sides of abdomen)."
+  },
+  {
+    "id": 933,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Labial Mask",
+    "description": "Nymphs with mask-like labium (lower lip) covering the chewing mouth parts. This is an extendable arm-like appendage used to capture prey. It is always visible ventrally, but may be visible dorsally if it is extended."
+  },
+  {
+    "id": 942,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Abdominal Prolegs",
+    "description": "Underside of abdomen with several pairs of prolegs (fleshy nubs) with tiny hooks."
+  },
+  {
+    "id": 943,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Short Legs",
+    "description": " Short segmented legs present on thorax, not as long as abdomen. "
+  },
+  {
+    "id": 944,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Legs Absent",
+    "description": "Segmented legs absent from thorax, but sometimes with prolegs (fleshy nubs used for movement)."
+  },
+  {
+    "id": 945,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Elytra",
+    "description": "Adults with elytra (hardened forewings covering the membranous hind wings)."
+  },
+  {
+    "id": 946,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Lateral Gills USUALLY Absent",
+    "description": "Usually without lateral abdominal gills, except for Gyrinidae (4 hooks clustered on segment 10)."
+  },
+  {
+    "id": 947,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "USUALLY 4-5-Segmented Legs",
+    "description": "Thoracic legs usually with 4 or 5 segments and with 1 or 2 claws; if without legs, head distinctly sclerotized (hardened) and posterior body (thorax and abdomen) simple, without gills, hair brushes, suckers, or breathing tube. "
+  },
+  {
+    "id": 948,
+    "listItemTypeId": 30,
+    "typeName": "diag_char_order",
+    "name": "Eye Spots",
+    "description": "Eye spots usually present, but compound eyes absent."
+  },
+  {
+    "id": 24,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "All Nota Sclerotized",
+    "description": "Pro-, meso-, and metanota entirely covered by sclerites (i.e. the dorsal side of all 3 thoracic segments is hardened)."
+  },
+  {
+    "id": 25,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Ventral Branched Abdominal Gills",
+    "description": "Abdomen with rows of branched gills ventrally."
+  },
+  {
+    "id": 26,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Setal Fan On Prolegs",
+    "description": "Base of each anal proleg (fleshy nubs at end of body) with conspicuous tuft or fan of long hairs ."
+  },
+  {
+    "id": 27,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Retreat",
+    "description": "Larvae build stationary retreats of silk, detritus and rock fragments, often used for filter feeding. These usually fall apart when removed from the water, but you may see some rements when flping over rocks to search for larvae, it will look like a clup of loose slime (silk) and small rock pieces."
+  },
+  {
+    "id": 34,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Antenna Between Mandibles and Eyes",
+    "description": "As in all families of superfamily Limnephiloidea, the short, inconspicuous antennae are each located about midway between the base of the mandible and the eye. "
+  },
+  {
+    "id": 37,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Paraglossae and Glossae Subequal",
+    "description": "Paraglossae and Glossae extend to about the same length. This type of arrangement is associated with shredders."
+  },
+  {
+    "id": 38,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Tarsal Segments Subequal",
+    "description": "The first and second segment of the tarsus on all legs are the same length. The tarsus is the, most distal leg region (last part of a leg before the claw), often divided into subsegments. When counting tarsal segments, start with the semgent closest to the body. "
+  },
+  {
+    "id": 39,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Divergent Wing Pads ",
+    "description": "Wingpads are not parallel with body, angled away from the midline of the body."
+  },
+  {
+    "id": 473,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Eyes Contiguous With Head",
+    "description": "Similar in appearence to Belostomatidae (giant water bugs) except that margins of eyes are contiguous with anterior margin of head in Naucoridae; i.e. the eyes are right against the edge of the head."
+  },
+  {
+    "id": 474,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Raptorial Legs",
+    "description": "Forelegs are raptorial, suitable for use in predation, with broad femora, and weakly convex dorsally."
+  },
+  {
+    "id": 480,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Flat Head And Body",
+    "description": "Head and body dorsoventrally flattened (flattend from top to bottom). "
+  },
+  {
+    "id": 481,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Margin Around Eyes",
+    "description": "Lateral margins of head visible beside the eyes."
+  },
+  {
+    "id": 494,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Forelegs With Long Hair",
+    "description": "Femora (thighs) and tibia (shins) of forelegs have long setae along the inner margins. "
+  },
+  {
+    "id": 495,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Minnow-like",
+    "description": "Larvae with streamlined, minnow-like body shape."
+  },
+  {
+    "id": 514,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Lateral Filaments",
+    "description": "Abdominal segments 1–8 with paired, 2-segemented, lateral filaments (slender conical appendages on sides of abdomen)"
+  },
+  {
+    "id": 515,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Prolegs With Two Claws",
+    "description": "End of abdomen has a pair of anal prolegs (fleshy nubs at the end of the abdomen), each bearing a 2 claws. "
+  },
+  {
+    "id": 949,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Head Partially Hidden",
+    "description": "Head usually partially contracted into thorax. "
+  },
+  {
+    "id": 950,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Unique Antenna",
+    "description": "Each antenna 11-segmented, usually with enlarged basal segment and expanded 2nd segment covering remaining antennal segments."
+  },
+  {
+    "id": 951,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Transverse Coxae",
+    "description": "Forelegs (1st pair of legs) have the coxae (leg segment nearest the body) transverse (not round as in Elmidae)."
+  },
+  {
+    "id": 952,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Visible Trochantins",
+    "description": "Trochantins visible, unlike Elmidae. This is a small sclerite near where the leg connects with the body."
+  },
+  {
+    "id": 953,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "4 Eyes",
+    "description": " Compound eyes divided into separate dorsal and ventral portions ( \"4-eyed\" appearance)."
+  },
+  {
+    "id": 954,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Expanded Hind Coxae",
+    "description": "Each hind coxa (first segment of the last leg) expanded into a broad, flat, plate, ventrally covering the first 2 or 3 abdominal segments and most of hind femora."
+  },
+  {
+    "id": 988,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Extended Hind Coxae",
+    "description": "Hind coxae (basal most leg segment) each with median portion extending in posterior direction, dividing abdominal segment 1 into lateral sclerites, but not expanding into broad plates. "
+  },
+  {
+    "id": 989,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Large Spurs Absent",
+    "description": "Without large spur on end of each front tibia (shin). "
+  },
+  {
+    "id": 990,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Coxal Plate NOT Wedge-like",
+    "description": "Broad wedge-like hind coxal plate absent. "
+  },
+  {
+    "id": 991,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Scutellum Usually Visible",
+    "description": "Scutellum (triangular sclerite between the elytra) usually visible, if hidden, then front and middle tarsi apparently 4-segmented and hind tarsi each with 1 claw."
+  },
+  {
+    "id": 992,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Thread-like Antennae",
+    "description": "Antennae slender, thread-like"
+  },
+  {
+    "id": 993,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "5-Segmented Tarsi",
+    "description": "Each leg with 5 tarsal segments."
+  },
+  {
+    "id": 994,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Last Tarsal Segment Subequal",
+    "description": "Last tarsal segment about as long as other segments "
+  },
+  {
+    "id": 995,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Big Claws",
+    "description": "Big Claws"
+  },
+  {
+    "id": 996,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Long Maxillary Palpi",
+    "description": "Maxillary palpi usually longer than antennae. "
+  },
+  {
+    "id": 997,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Antenna Subequal To Head",
+    "description": "Antennae about as long head"
+  },
+  {
+    "id": 998,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Antennal Segment Articulation",
+    "description": "2nd antennal segment attached at apex of 1st (basal-most) segment "
+  },
+  {
+    "id": 999,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Clubbed Antennae",
+    "description": "Antennal segments 7–9 clubbed."
+  },
+  {
+    "id": 1000,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "5 Segments Before Cupule",
+    "description": "Antenna ually with 5 segments before cupule (cup-shaped, hairless, segment 6)"
+  },
+  {
+    "id": 1001,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Sickle-Shaped Mandibles",
+    "description": "Sickle-shaped mandibles without mola (grinding surface). "
+  },
+  {
+    "id": 1002,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "5-Segmented Swimming Legs",
+    "description": "Long, slender swimming legs 5-segmented, excluding 2 claws. "
+  },
+  {
+    "id": 1003,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "8-Segmented Abdomen",
+    "description": "Abdomen with 8 sements."
+  },
+  {
+    "id": 1004,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Operculum",
+    "description": "Segment 9 (posterior-most segment) with ventral lid-like flap (operculum) concealing thread-like gills and pair of hooks"
+  },
+  {
+    "id": 1005,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Brown, Sclerotized, Spindel-Shaped Body",
+    "description": "Body strongly sclerotized (hardened), dark brown or red-brown, roughly cylindrical or spindle-shaped,"
+  },
+  {
+    "id": 1006,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "5-Segmented Legs + Claws",
+    "description": "Legs 5-segmented plus 2 tarsal claws. "
+  },
+  {
+    "id": 1007,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Lateral Gills ",
+    "description": "Abdominal segments 1–9 with lateral gills. "
+  },
+  {
+    "id": 1008,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "4 Posterior Hooks",
+    "description": "Abdominal segment 10 (posterior-most segment) with 4 stout hooks."
+  },
+  {
+    "id": 1009,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "5-Segmented Legs + Claw",
+    "description": "Legs 5-segmented and each with single claw. "
+  },
+  {
+    "id": 1010,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Dorsal Projections",
+    "description": "Mature larvae usually with long, slender, stiff, needle-like dorsal projections from thoracic and abdominal segments"
+  },
+  {
+    "id": 1011,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Notched Upper Lip",
+    "description": "The labrum (upper lip) usually has a median notch. The labrum or upper-lip is a flap-like structure covring the mouthparts. You are looking for an indentation or dip along the far edge."
+  },
+  {
+    "id": 1012,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Long Antenna",
+    "description": "The antennae are usually long, two or three times or more width of the head"
+  },
+  {
+    "id": 1013,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Large Tusks",
+    "description": "Large Tusks for are located anterioly on the head. "
+  },
+  {
+    "id": 1014,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Fossorial Foretibiae ",
+    "description": "The Foretibiae (the shins of the first pair of legs), are expanded/enlarged, and used for burrowing in sediment."
+  },
+  {
+    "id": 1015,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Pointed Hind Tibiae",
+    "description": "Ventral apex of each hind tibia acutely pointed (i.e. the shins of the last pair of legs each have a point at the end)."
+  },
+  {
+    "id": 1016,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Fluffy Abdominal Gills",
+    "description": " Abdominal gills on segments 2–7 are conspicuous dorsaly, forked and elongate-lancolate, with fringed margins, giving the animal a fluffy appearance."
+  },
+  {
+    "id": 1017,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Operculate Gill On 2",
+    "description": "The gills on abdominal segment 2 are operculate or semioperculate. (i.e. the gills on this segment at least partially cover the gills on the preceeding segment). The gills are and roughly triangular or oval."
+  },
+  {
+    "id": 1018,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "1st Antennal Segment Long",
+    "description": "First antennal segment (segment nearest the head) long, subequal to length of rest of antenna."
+  },
+  {
+    "id": 1019,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Parallel Hind Wing Pads",
+    "description": "Hind wing pads more or less parallel with body axis, and typically longer than wide."
+  },
+  {
+    "id": 1020,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Hind Legs Don't Reach",
+    "description": "When extended, hind legs do not reach end abdomen."
+  },
+  {
+    "id": 1021,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Paralossae And Glossae Subequal",
+    "description": "Paraglossae and glossae about same length, suitable for shredding."
+  },
+  {
+    "id": 1022,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Divergent Hind Wing Pads ",
+    "description": "Hind wing pads (2nd pair of wing pads) conspicuously divergent from body axis"
+  },
+  {
+    "id": 1023,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Hind Legs Reach",
+    "description": "When extended hind legs reach about to end of abdomen."
+  },
+  {
+    "id": 1024,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Glossae Shorter Than Paraglossae",
+    "description": "Glossae much shorter than the paraglossae. "
+  },
+  {
+    "id": 1025,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Thoracic Gills",
+    "description": "Multi-branched, thread-like gills present laterally and ventrally on thorax, but not on abdomen."
+  },
+  {
+    "id": 1026,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Gills Absent",
+    "description": "Gills absent from thoracic and abdominal segments."
+  },
+  {
+    "id": 1027,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Tails Subequal To Abdomen",
+    "description": "Cerci (tails) are about the same length as the abdomen."
+  },
+  {
+    "id": 1028,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Gills Unlike Peltoperlidae",
+    "description": " Unlike Peltoperlidae, gills, if present, not conical, and thoracic sterna not overlapping. "
+  },
+  {
+    "id": 1029,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Antenna Next To Eye",
+    "description": "The antenna are small and are always situated directly next to the eye. This is the only caddisfly family with antenna in this location."
+  },
+  {
+    "id": 1030,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "\"Long\" Antenna",
+    "description": "This is the only caddisfly family where the larvae usually have “long” antenna. By long antenna we mean that they aren’t tiny little nubs we usually see on caddisflies, but more like short threads, easily visible in profile."
+  },
+  {
+    "id": 1031,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "T-Shaped Labrum",
+    "description": "Labrum (upper lip) membranous and T-shaped. If you don't see the labrum it's becuase in preserved specimens it’s often sucked into mouth and hidden from view. All other families have a sclerotized easily visible labrum."
+  },
+  {
+    "id": 1032,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Hatchet-shaped Foretrochantin",
+    "description": "The foretrochantin is a projecting sclerite (hard plate) at the base of each foreleg. This is the only family where the foretrochantin is hatched-shaped. Look from the ventral side, you may see the shape more clearly if the specimen is a bit tilted."
+  },
+  {
+    "id": 1033,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Only Metanotum Membranous",
+    "description": "Pro- and mesonota are sclerotized, but the metanotum mostly membranous, with some small sclerites (i.e. the dorsal sides of the 1st two thoracic segments are hardened, but the 3rd is membranous)."
+  },
+  {
+    "id": 1034,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Notched Mesonotum",
+    "description": "Mesonotum notched medially along the anterior margin. I.e. the middle thorasic segment has a 2 small incisions along the edge nearest the head."
+  },
+  {
+    "id": 1035,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Pectinate Spines On Maxillae",
+    "description": " Maxillae (second pair of jaws) each with row of conspicuous pectinate (comb-like) spines. "
+  },
+  {
+    "id": 1037,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Large Spinneret",
+    "description": "Large spinneret, half as long as head. This is a needle-like structure near the mouth, where the silk is extruded."
+  },
+  {
+    "id": 1038,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Hump Between Nota",
+    "description": "The Meso- and metanota (2nd and 3rd dorsal thorasic segments) are membranous (not hardened) with a large hump between them. "
+  },
+  {
+    "id": 1039,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Tarsi Flattened ",
+    "description": "Tarsi (toes- distal most leg region) flattened and tibiae (shins) shorter than tarsi"
+  },
+  {
+    "id": 1040,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Branching Retreat",
+    "description": "Larvae make branching tube-like retreats buried in sand or soft sediment, except tips of branches sticking above sediment. You can find these by using a seave in soft sandy sediment, look for branching sandy tubes, often with a bulbus end on one of the branches, carfully pull it apart to find the larva."
+  },
+  {
+    "id": 1041,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Meso- And Metanota Membranous.",
+    "description": "Meso- and metanota membranous. I.e. Dorsally, only the first thorasic segment is sclerotized (hardened), the rest of the thorax is membranous."
+  },
+  {
+    "id": 1042,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Sclerite On Segment IX",
+    "description": "The dorsal side of abdominal segment 9 has a sclerite (hardened plate or patch). Segment 9 is the last abdominal segment, at the end of the body."
+  },
+  {
+    "id": 1043,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Anal Prolegs Free",
+    "description": "Anal prolegs (fleshy nubs at the end of th body with hooks on them) are free, not closely fused to the abdomen."
+  },
+  {
+    "id": 1044,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Free-living",
+    "description": "Larvae are free-living (do not build a case or retreat) until pupation."
+  },
+  {
+    "id": 1122,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Large Postmentum",
+    "description": " Postmentum large, covering bases of maxillae"
+  },
+  {
+    "id": 1123,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Flat Body",
+    "description": "The body is dorsoventrally flattened (flat like a hamburger, not like a taco). "
+  },
+  {
+    "id": 1124,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Shield-Like",
+    "description": "The thoracic and abdominal tergites (dorsal hardened segmental plates) are expanded laterally as a thin shield covering the head and legs from above. This can make the animals resemble trilobites. This shape also helps them stick to rocks almost like a suction cup. "
+  },
+  {
+    "id": 1125,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Head Complete and Exposed",
+    "description": "Head complete and fully exposed. The head is not drawn into the thorax."
+  },
+  {
+    "id": 1126,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "With Or Without Prolegs",
+    "description": "Prolegs (fleshy nubs) can be present or absent on the prothorax (1st thoracic segment). Like in the specimen imaged here (<em>Probezzia</em>), if prolegs are absent the body is usually smooth, shiny, and cream colored, usually without any surface features except a few hairs especially posteriorly, and sometimes a single retractile anal proleg bearing a few hooks. Alternatively, if there is a pair of ventral prolegs on the prothorax, then the prothoracic and anal prolegs are usually paired (even if divison slight and only at apex) and there are distinct dorsal fleshy projections and/or setae along body."
+  },
+  {
+    "id": 1127,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Thoracic And Anal Prolegs",
+    "description": "Paired hook-bearing prolegs (fleshy nubs used for movement) are present on the prothorax and at the posterior end of the body. At first glance these may appear as a single proleg, but they are paired, the division may be slight and only at the apex of the proleg."
+  },
+  {
+    "id": 1128,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Head Retracted in Thorax",
+    "description": "The hardened head capsule is not visible from the outside, it is always deeply retracted inside thorax, and can only be viewed with dissection. "
+  },
+  {
+    "id": 1129,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Posterior Spiracles with Lobes",
+    "description": "The posterior spiracles are rimmed by 2–7 (usually 5) lobes often fringed with hair."
+  },
+  {
+    "id": 1130,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Labral Fans",
+    "description": "Head capsule usually with pair of conspicuous fans."
+  },
+  {
+    "id": 1131,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Abdomen Swollen Posteriorly",
+    "description": "Abdominal segments 5–8 are swollen, appearing ballooned or bowling-pin-like. Often these balooned posterior ends are attached to the substrate. "
+  },
+  {
+    "id": 1132,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Square Sepmioperculate Gills",
+    "description": "Paired gills on abdominal segment 2 are nearly square, and meeting or almost meeting medially (but NOT fused). These gills on segment 2 are at least partially covering the succeeding pairs (semioperculate)."
+  },
+  {
+    "id": 1133,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Segment 2 Without Gills",
+    "description": "This is the only mayfly family with gills absent on abdominal segment 2."
+  },
+  {
+    "id": 1134,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Double Lamellate Gills",
+    "description": "The gills on abdominal segments 2–7 are double-layered and lamellate (plate-like). The gills can be terminated in filaments or points and without fringe, or oval with fringe."
+  },
+  {
+    "id": 1135,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Antennae Longer Than Head",
+    "description": "The antennae are longer than the head. They are positioned anterior to the eyes, clearly visible from the dorsal side."
+  },
+  {
+    "id": 1136,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Anteapical Claws",
+    "description": "At least front tarsus (last leg segment) with anteapical claws. These are claws that protrude from leg before the apex."
+  },
+  {
+    "id": 1137,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Hind Femora Short",
+    "description": "The hind femora are shorter than the abdomen, or just barely longer."
+  },
+  {
+    "id": 1537,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Antennal Segment 1 Short",
+    "description": "Antennal segment 1 much shorter than the rest of the antenna."
+  },
+  {
+    "id": 1538,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Mask without Cleft",
+    "description": "Ligula (distal part of palm of mask) usually without median cleft. The mask is roughly triangular or square (not stalked as in Lestidae)."
+  },
+  {
+    "id": 1539,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Spoon-shaped Mask",
+    "description": "Labial mask spoon-shaped. This is a arm-like extremity that covers the mouth parts and is used for capturing prey."
+  },
+  {
+    "id": 1540,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Dorsal Premental Setae",
+    "description": "Dorsal premental setae present. These are hairs located inside the mask, on the palm. If the mask is closed you will have to use forceps to gently open it."
+  },
+  {
+    "id": 1541,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Palpal Setae",
+    "description": "Palpal Setae are present. These are hair along the margins of the palpal lobes (at end of mask)."
+  },
+  {
+    "id": 1542,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Median Groove",
+    "description": "Ventrally, there is a median groove extending from the basal hinge of the mask to about 1/3 to 1/2 way to the distal margin of mask. It is often faint."
+  },
+  {
+    "id": 1543,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Flat Mask",
+    "description": "Labial mask flattened. This is a arm-like extremity that covers the mouth parts and is used for capturing prey."
+  },
+  {
+    "id": 1544,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "4-Segmented Antennae",
+    "description": "The antennae are each 4-segmented, although the 4th segment is often small."
+  },
+  {
+    "id": 1545,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Median Groove Absent",
+    "description": "Unlike in Corduliidae, the prementum (basal hinge of the mask) is usually without a ventral basal medial groove."
+  },
+  {
+    "id": 1566,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Gill Tufts Absent",
+    "description": "Abdominal ventral gill tufts absent."
+  },
+  {
+    "id": 1567,
+    "listItemTypeId": 31,
+    "typeName": "diag_char_family",
+    "name": "Short Respiratory Tubes",
+    "description": "Respiratory tubes much shorter than anal prolegs."
+  },
+  {
+    "id": 29,
+    "listItemTypeId": 32,
+    "typeName": "diag_char_genus",
+    "name": "Notched Frontoclypeus",
+    "description": "Frontoclypeus is usually notched, and usually with a scalloped appearance. In the rare case that the frontoclypeus is not notched, the intersegmental sclerites will be small. "
+  },
+  {
+    "id": 30,
+    "listItemTypeId": 32,
+    "typeName": "diag_char_genus",
+    "name": "Small Intersegmental Sclerites",
+    "description": "These sclerites are usually small in this genus. In the rare case that they are large, the frontoclypeus will be notched. Look for the pair of intersegmental sclerites underneath the intersegmental fold (“fat roll” between segments) on the ventral side between the first two sets of legs. Try gently arching the specimen’s back, and they should “pop” out.  "
+  },
+  {
+    "id": 36,
+    "listItemTypeId": 32,
+    "typeName": "diag_char_genus",
+    "name": "Tall Sclerite At Base Of Lateral Hump",
+    "description": "Abdominal segment I with one tall vertical tear-drop-shaped sclerite at posterior edge of base of each lateral hump, almost as tall as hump. The sclerite is not necessarily symmetrical, but is narrower at one end than the other, like a tear-drop. It may be light in color and hard to see, look for a shiny surface. "
+  },
+  {
+    "id": 40,
+    "listItemTypeId": 32,
+    "typeName": "diag_char_genus",
+    "name": "Single Digitiform Coxal Gill",
+    "description": "Each coxa (most basal leg segment) with a single finger-like, segmented gill."
+  },
+  {
+    "id": 354,
+    "listItemTypeId": 32,
+    "typeName": "diag_char_genus",
+    "name": "Large Spinneret",
+    "description": "Large spinneret, half as long as head. "
+  },
+  {
+    "id": 488,
+    "listItemTypeId": 32,
+    "typeName": "diag_char_genus",
+    "name": "Gills On 1–6 Truncate",
+    "description": "Gills on abdominal segments 1–6 have truncate distal ends; the ends are often blunt or squared off, but always with at least part of apical edge straight."
+  },
+  {
+    "id": 489,
+    "listItemTypeId": 32,
+    "typeName": "diag_char_genus",
+    "name": "Gills On 7 Slender",
+    "description": "Gills on abdominal segment 7 are reduced to slender filaments, much skinnier than gills on preceeding segments."
+  },
+  {
+    "id": 516,
+    "listItemTypeId": 32,
+    "typeName": "diag_char_genus",
+    "name": "Gill Tufts Absent",
+    "description": "Abdominal ventral gill tufts absent. "
+  },
+  {
+    "id": 517,
+    "listItemTypeId": 32,
+    "typeName": "diag_char_genus",
+    "name": "Short Respiratory Tubes",
+    "description": "Respiratory tubes much shorter than anal prolegs."
+  },
+  {
+    "id": 1036,
+    "listItemTypeId": 32,
+    "typeName": "diag_char_genus",
+    "name": "Only 1 Genus",
+    "description": "There is only one genus in this family! If you've identified the family, you know the genus too."
+  }
+]

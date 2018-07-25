@@ -1,0 +1,30 @@
+[
+  {
+    "id": 161,
+    "idno": "northeast",
+    "name": "northeast",
+    "prettyNameSingular": "Northeast",
+    "prettyNamePlural": "Northeast"
+  },
+  {
+    "id": 162,
+    "idno": "southeast",
+    "name": "southeast",
+    "prettyNameSingular": "Southeast",
+    "prettyNamePlural": "Southeast"
+  },
+  {
+    "id": 163,
+    "idno": "midwest",
+    "name": "midwest",
+    "prettyNameSingular": "Midwest",
+    "prettyNamePlural": "Midwest"
+  },
+  {
+    "id": 164,
+    "idno": "widespread",
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)",
+    "prettyNamePlural": "Widespread (east of the Rocky Mtns.)"
+  }
+]

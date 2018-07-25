@@ -1,0 +1,1122 @@
+[
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1024,
+    "taxaObjectId": 4,
+    "diagCharType": "diag_char_family",
+    "name": "Glossae Shorter Than Paraglossae",
+    "description": "Glossae much shorter than the paraglossae. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1025,
+    "taxaObjectId": 4,
+    "diagCharType": "diag_char_family",
+    "name": "Thoracic Gills",
+    "description": "Multi-branched, thread-like gills present laterally and ventrally on thorax, but not on abdomen."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 39,
+    "taxaObjectId": 6,
+    "diagCharType": "diag_char_family",
+    "name": "Divergent Wing Pads ",
+    "description": "Wingpads are not parallel with body, angled away from the midline of the body."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1028,
+    "taxaObjectId": 6,
+    "diagCharType": "diag_char_family",
+    "name": "Gills Unlike Peltoperlidae",
+    "description": " Unlike Peltoperlidae, gills, if present, not conical, and thoracic sterna not overlapping. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1020,
+    "taxaObjectId": 6,
+    "diagCharType": "diag_char_family",
+    "name": "Hind Legs Don't Reach",
+    "description": "When extended, hind legs do not reach end abdomen."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1021,
+    "taxaObjectId": 6,
+    "diagCharType": "diag_char_family",
+    "name": "Paralossae And Glossae Subequal",
+    "description": "Paraglossae and glossae about same length, suitable for shredding."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 38,
+    "taxaObjectId": 6,
+    "diagCharType": "diag_char_family",
+    "name": "Tarsal Segments Subequal",
+    "description": "The first and second segment of the tarsus on all legs are the same length. The tarsus is the, most distal leg region (last part of a leg before the claw), often divided into subsegments. When counting tarsal segments, start with the semgent closest to the body. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 24,
+    "taxaObjectId": 18,
+    "diagCharType": "diag_char_family",
+    "name": "All Nota Sclerotized",
+    "description": "Pro-, meso-, and metanota entirely covered by sclerites (i.e. the dorsal side of all 3 thoracic segments is hardened)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 27,
+    "taxaObjectId": 18,
+    "diagCharType": "diag_char_family",
+    "name": "Retreat",
+    "description": "Larvae build stationary retreats of silk, detritus and rock fragments, often used for filter feeding. These usually fall apart when removed from the water, but you may see some rements when flping over rocks to search for larvae, it will look like a clup of loose slime (silk) and small rock pieces."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 26,
+    "taxaObjectId": 18,
+    "diagCharType": "diag_char_family",
+    "name": "Setal Fan On Prolegs",
+    "description": "Base of each anal proleg (fleshy nubs at end of body) with conspicuous tuft or fan of long hairs ."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 25,
+    "taxaObjectId": 18,
+    "diagCharType": "diag_char_family",
+    "name": "Ventral Branched Abdominal Gills",
+    "description": "Abdomen with rows of branched gills ventrally."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 494,
+    "taxaObjectId": 31,
+    "diagCharType": "diag_char_family",
+    "name": "Forelegs With Long Hair",
+    "description": "Femora (thighs) and tibia (shins) of forelegs have long setae along the inner margins. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 495,
+    "taxaObjectId": 31,
+    "diagCharType": "diag_char_family",
+    "name": "Minnow-like",
+    "description": "Larvae with streamlined, minnow-like body shape."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 34,
+    "taxaObjectId": 33,
+    "diagCharType": "diag_char_family",
+    "name": "Antenna Between Mandibles and Eyes",
+    "description": "As in all families of superfamily Limnephiloidea, the short, inconspicuous antennae are each located about midway between the base of the mandible and the eye. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 514,
+    "taxaObjectId": 109,
+    "diagCharType": "diag_char_family",
+    "name": "Lateral Filaments",
+    "description": "Abdominal segments 1–8 with paired, 2-segemented, lateral filaments (slender conical appendages on sides of abdomen)"
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 515,
+    "taxaObjectId": 109,
+    "diagCharType": "diag_char_family",
+    "name": "Prolegs With Two Claws",
+    "description": "End of abdomen has a pair of anal prolegs (fleshy nubs at the end of the abdomen), each bearing a 2 claws. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 949,
+    "taxaObjectId": 113,
+    "diagCharType": "diag_char_family",
+    "name": "Head Partially Hidden",
+    "description": "Head usually partially contracted into thorax. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 951,
+    "taxaObjectId": 113,
+    "diagCharType": "diag_char_family",
+    "name": "Transverse Coxae",
+    "description": "Forelegs (1st pair of legs) have the coxae (leg segment nearest the body) transverse (not round as in Elmidae)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 950,
+    "taxaObjectId": 113,
+    "diagCharType": "diag_char_family",
+    "name": "Unique Antenna",
+    "description": "Each antenna 11-segmented, usually with enlarged basal segment and expanded 2nd segment covering remaining antennal segments."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 952,
+    "taxaObjectId": 113,
+    "diagCharType": "diag_char_family",
+    "name": "Visible Trochantins",
+    "description": "Trochantins visible, unlike Elmidae. This is a small sclerite near where the leg connects with the body."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 990,
+    "taxaObjectId": 115,
+    "diagCharType": "diag_char_family",
+    "name": "Coxal Plate NOT Wedge-like",
+    "description": "Broad wedge-like hind coxal plate absent. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 988,
+    "taxaObjectId": 115,
+    "diagCharType": "diag_char_family",
+    "name": "Extended Hind Coxae",
+    "description": "Hind coxae (basal most leg segment) each with median portion extending in posterior direction, dividing abdominal segment 1 into lateral sclerites, but not expanding into broad plates. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 989,
+    "taxaObjectId": 115,
+    "diagCharType": "diag_char_family",
+    "name": "Large Spurs Absent",
+    "description": "Without large spur on end of each front tibia (shin). "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 991,
+    "taxaObjectId": 115,
+    "diagCharType": "diag_char_family",
+    "name": "Scutellum Usually Visible",
+    "description": "Scutellum (triangular sclerite between the elytra) usually visible, if hidden, then front and middle tarsi apparently 4-segmented and hind tarsi each with 1 claw."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 993,
+    "taxaObjectId": 119,
+    "diagCharType": "diag_char_family",
+    "name": "5-Segmented Tarsi",
+    "description": "Each leg with 5 tarsal segments."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 995,
+    "taxaObjectId": 119,
+    "diagCharType": "diag_char_family",
+    "name": "Big Claws",
+    "description": "Big Claws"
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 994,
+    "taxaObjectId": 119,
+    "diagCharType": "diag_char_family",
+    "name": "Last Tarsal Segment Subequal",
+    "description": "Last tarsal segment about as long as other segments "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 992,
+    "taxaObjectId": 119,
+    "diagCharType": "diag_char_family",
+    "name": "Thread-like Antennae",
+    "description": "Antennae slender, thread-like"
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 953,
+    "taxaObjectId": 135,
+    "diagCharType": "diag_char_family",
+    "name": "4 Eyes",
+    "description": " Compound eyes divided into separate dorsal and ventral portions ( \"4-eyed\" appearance)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 954,
+    "taxaObjectId": 140,
+    "diagCharType": "diag_char_family",
+    "name": "Expanded Hind Coxae",
+    "description": "Each hind coxa (first segment of the last leg) expanded into a broad, flat, plate, ventrally covering the first 2 or 3 abdominal segments and most of hind femora."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1000,
+    "taxaObjectId": 143,
+    "diagCharType": "diag_char_family",
+    "name": "5 Segments Before Cupule",
+    "description": "Antenna ually with 5 segments before cupule (cup-shaped, hairless, segment 6)"
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 997,
+    "taxaObjectId": 143,
+    "diagCharType": "diag_char_family",
+    "name": "Antenna Subequal To Head",
+    "description": "Antennae about as long head"
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 998,
+    "taxaObjectId": 143,
+    "diagCharType": "diag_char_family",
+    "name": "Antennal Segment Articulation",
+    "description": "2nd antennal segment attached at apex of 1st (basal-most) segment "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 999,
+    "taxaObjectId": 143,
+    "diagCharType": "diag_char_family",
+    "name": "Clubbed Antennae",
+    "description": "Antennal segments 7–9 clubbed."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 996,
+    "taxaObjectId": 143,
+    "diagCharType": "diag_char_family",
+    "name": "Long Maxillary Palpi",
+    "description": "Maxillary palpi usually longer than antennae. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1125,
+    "taxaObjectId": 160,
+    "diagCharType": "diag_char_family",
+    "name": "Head Complete and Exposed",
+    "description": "Head complete and fully exposed. The head is not drawn into the thorax."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1126,
+    "taxaObjectId": 160,
+    "diagCharType": "diag_char_family",
+    "name": "With Or Without Prolegs",
+    "description": "Prolegs (fleshy nubs) can be present or absent on the prothorax (1st thoracic segment). Like in the specimen imaged here (<em>Probezzia</em>), if prolegs are absent the body is usually smooth, shiny, and cream colored, usually without any surface features except a few hairs especially posteriorly, and sometimes a single retractile anal proleg bearing a few hooks. Alternatively, if there is a pair of ventral prolegs on the prothorax, then the prothoracic and anal prolegs are usually paired (even if divison slight and only at apex) and there are distinct dorsal fleshy projections and/or setae along body."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1125,
+    "taxaObjectId": 162,
+    "diagCharType": "diag_char_family",
+    "name": "Head Complete and Exposed",
+    "description": "Head complete and fully exposed. The head is not drawn into the thorax."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1127,
+    "taxaObjectId": 162,
+    "diagCharType": "diag_char_family",
+    "name": "Thoracic And Anal Prolegs",
+    "description": "Paired hook-bearing prolegs (fleshy nubs used for movement) are present on the prothorax and at the posterior end of the body. At first glance these may appear as a single proleg, but they are paired, the division may be slight and only at the apex of the proleg."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1128,
+    "taxaObjectId": 175,
+    "diagCharType": "diag_char_family",
+    "name": "Head Retracted in Thorax",
+    "description": "The hardened head capsule is not visible from the outside, it is always deeply retracted inside thorax, and can only be viewed with dissection. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1129,
+    "taxaObjectId": 175,
+    "diagCharType": "diag_char_family",
+    "name": "Posterior Spiracles with Lobes",
+    "description": "The posterior spiracles are rimmed by 2–7 (usually 5) lobes often fringed with hair."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1131,
+    "taxaObjectId": 186,
+    "diagCharType": "diag_char_family",
+    "name": "Abdomen Swollen Posteriorly",
+    "description": "Abdominal segments 5–8 are swollen, appearing ballooned or bowling-pin-like. Often these balooned posterior ends are attached to the substrate. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1125,
+    "taxaObjectId": 186,
+    "diagCharType": "diag_char_family",
+    "name": "Head Complete and Exposed",
+    "description": "Head complete and fully exposed. The head is not drawn into the thorax."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1130,
+    "taxaObjectId": 186,
+    "diagCharType": "diag_char_family",
+    "name": "Labral Fans",
+    "description": "Head capsule usually with pair of conspicuous fans."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1011,
+    "taxaObjectId": 195,
+    "diagCharType": "diag_char_family",
+    "name": "Notched Upper Lip",
+    "description": "The labrum (upper lip) usually has a median notch. The labrum or upper-lip is a flap-like structure covring the mouthparts. You are looking for an indentation or dip along the far edge."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1035,
+    "taxaObjectId": 195,
+    "diagCharType": "diag_char_family",
+    "name": "Pectinate Spines On Maxillae",
+    "description": " Maxillae (second pair of jaws) each with row of conspicuous pectinate (comb-like) spines. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1012,
+    "taxaObjectId": 197,
+    "diagCharType": "diag_char_family",
+    "name": "Long Antenna",
+    "description": "The antennae are usually long, two or three times or more width of the head"
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1011,
+    "taxaObjectId": 197,
+    "diagCharType": "diag_char_family",
+    "name": "Notched Upper Lip",
+    "description": "The labrum (upper lip) usually has a median notch. The labrum or upper-lip is a flap-like structure covring the mouthparts. You are looking for an indentation or dip along the far edge."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1132,
+    "taxaObjectId": 204,
+    "diagCharType": "diag_char_family",
+    "name": "Square Sepmioperculate Gills",
+    "description": "Paired gills on abdominal segment 2 are nearly square, and meeting or almost meeting medially (but NOT fused). These gills on segment 2 are at least partially covering the succeeding pairs (semioperculate)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1133,
+    "taxaObjectId": 206,
+    "diagCharType": "diag_char_family",
+    "name": "Segment 2 Without Gills",
+    "description": "This is the only mayfly family with gills absent on abdominal segment 2."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1016,
+    "taxaObjectId": 212,
+    "diagCharType": "diag_char_family",
+    "name": "Fluffy Abdominal Gills",
+    "description": " Abdominal gills on segments 2–7 are conspicuous dorsaly, forked and elongate-lancolate, with fringed margins, giving the animal a fluffy appearance."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1014,
+    "taxaObjectId": 212,
+    "diagCharType": "diag_char_family",
+    "name": "Fossorial Foretibiae ",
+    "description": "The Foretibiae (the shins of the first pair of legs), are expanded/enlarged, and used for burrowing in sediment."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1013,
+    "taxaObjectId": 212,
+    "diagCharType": "diag_char_family",
+    "name": "Large Tusks",
+    "description": "Large Tusks for are located anterioly on the head. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1015,
+    "taxaObjectId": 212,
+    "diagCharType": "diag_char_family",
+    "name": "Pointed Hind Tibiae",
+    "description": "Ventral apex of each hind tibia acutely pointed (i.e. the shins of the last pair of legs each have a point at the end)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 480,
+    "taxaObjectId": 215,
+    "diagCharType": "diag_char_family",
+    "name": "Flat Head And Body",
+    "description": "Head and body dorsoventrally flattened (flattend from top to bottom). "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 481,
+    "taxaObjectId": 215,
+    "diagCharType": "diag_char_family",
+    "name": "Margin Around Eyes",
+    "description": "Lateral margins of head visible beside the eyes."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1017,
+    "taxaObjectId": 222,
+    "diagCharType": "diag_char_family",
+    "name": "Operculate Gill On 2",
+    "description": "The gills on abdominal segment 2 are operculate or semioperculate. (i.e. the gills on this segment at least partially cover the gills on the preceeding segment). The gills are and roughly triangular or oval."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1134,
+    "taxaObjectId": 224,
+    "diagCharType": "diag_char_family",
+    "name": "Double Lamellate Gills",
+    "description": "The gills on abdominal segments 2–7 are double-layered and lamellate (plate-like). The gills can be terminated in filaments or points and without fringe, or oval with fringe."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 473,
+    "taxaObjectId": 242,
+    "diagCharType": "diag_char_family",
+    "name": "Eyes Contiguous With Head",
+    "description": "Similar in appearence to Belostomatidae (giant water bugs) except that margins of eyes are contiguous with anterior margin of head in Naucoridae; i.e. the eyes are right against the edge of the head."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 474,
+    "taxaObjectId": 242,
+    "diagCharType": "diag_char_family",
+    "name": "Raptorial Legs",
+    "description": "Forelegs are raptorial, suitable for use in predation, with broad femora, and weakly convex dorsally."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1136,
+    "taxaObjectId": 248,
+    "diagCharType": "diag_char_family",
+    "name": "Anteapical Claws",
+    "description": "At least front tarsus (last leg segment) with anteapical claws. These are claws that protrude from leg before the apex."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1135,
+    "taxaObjectId": 248,
+    "diagCharType": "diag_char_family",
+    "name": "Antennae Longer Than Head",
+    "description": "The antennae are longer than the head. They are positioned anterior to the eyes, clearly visible from the dorsal side."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1137,
+    "taxaObjectId": 248,
+    "diagCharType": "diag_char_family",
+    "name": "Hind Femora Short",
+    "description": "The hind femora are shorter than the abdomen, or just barely longer."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1018,
+    "taxaObjectId": 255,
+    "diagCharType": "diag_char_family",
+    "name": "1st Antennal Segment Long",
+    "description": "First antennal segment (segment nearest the head) long, subequal to length of rest of antenna."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1537,
+    "taxaObjectId": 257,
+    "diagCharType": "diag_char_family",
+    "name": "Antennal Segment 1 Short",
+    "description": "Antennal segment 1 much shorter than the rest of the antenna."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1538,
+    "taxaObjectId": 257,
+    "diagCharType": "diag_char_family",
+    "name": "Mask without Cleft",
+    "description": "Ligula (distal part of palm of mask) usually without median cleft. The mask is roughly triangular or square (not stalked as in Lestidae)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1540,
+    "taxaObjectId": 263,
+    "diagCharType": "diag_char_family",
+    "name": "Dorsal Premental Setae",
+    "description": "Dorsal premental setae present. These are hairs located inside the mask, on the palm. If the mask is closed you will have to use forceps to gently open it."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1542,
+    "taxaObjectId": 263,
+    "diagCharType": "diag_char_family",
+    "name": "Median Groove",
+    "description": "Ventrally, there is a median groove extending from the basal hinge of the mask to about 1/3 to 1/2 way to the distal margin of mask. It is often faint."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1541,
+    "taxaObjectId": 263,
+    "diagCharType": "diag_char_family",
+    "name": "Palpal Setae",
+    "description": "Palpal Setae are present. These are hair along the margins of the palpal lobes (at end of mask)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1539,
+    "taxaObjectId": 263,
+    "diagCharType": "diag_char_family",
+    "name": "Spoon-shaped Mask",
+    "description": "Labial mask spoon-shaped. This is a arm-like extremity that covers the mouth parts and is used for capturing prey."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1544,
+    "taxaObjectId": 265,
+    "diagCharType": "diag_char_family",
+    "name": "4-Segmented Antennae",
+    "description": "The antennae are each 4-segmented, although the 4th segment is often small."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1543,
+    "taxaObjectId": 265,
+    "diagCharType": "diag_char_family",
+    "name": "Flat Mask",
+    "description": "Labial mask flattened. This is a arm-like extremity that covers the mouth parts and is used for capturing prey."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1545,
+    "taxaObjectId": 270,
+    "diagCharType": "diag_char_family",
+    "name": "Median Groove Absent",
+    "description": "Unlike in Corduliidae, the prementum (basal hinge of the mask) is usually without a ventral basal medial groove."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1539,
+    "taxaObjectId": 270,
+    "diagCharType": "diag_char_family",
+    "name": "Spoon-shaped Mask",
+    "description": "Labial mask spoon-shaped. This is a arm-like extremity that covers the mouth parts and is used for capturing prey."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1020,
+    "taxaObjectId": 281,
+    "diagCharType": "diag_char_family",
+    "name": "Hind Legs Don't Reach",
+    "description": "When extended, hind legs do not reach end abdomen."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1122,
+    "taxaObjectId": 281,
+    "diagCharType": "diag_char_family",
+    "name": "Large Postmentum",
+    "description": " Postmentum large, covering bases of maxillae"
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1019,
+    "taxaObjectId": 281,
+    "diagCharType": "diag_char_family",
+    "name": "Parallel Hind Wing Pads",
+    "description": "Hind wing pads more or less parallel with body axis, and typically longer than wide."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1022,
+    "taxaObjectId": 283,
+    "diagCharType": "diag_char_family",
+    "name": "Divergent Hind Wing Pads ",
+    "description": "Hind wing pads (2nd pair of wing pads) conspicuously divergent from body axis"
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1023,
+    "taxaObjectId": 283,
+    "diagCharType": "diag_char_family",
+    "name": "Hind Legs Reach",
+    "description": "When extended hind legs reach about to end of abdomen."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1021,
+    "taxaObjectId": 283,
+    "diagCharType": "diag_char_family",
+    "name": "Paralossae And Glossae Subequal",
+    "description": "Paraglossae and glossae about same length, suitable for shredding."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1026,
+    "taxaObjectId": 287,
+    "diagCharType": "diag_char_family",
+    "name": "Gills Absent",
+    "description": "Gills absent from thoracic and abdominal segments."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1021,
+    "taxaObjectId": 287,
+    "diagCharType": "diag_char_family",
+    "name": "Paralossae And Glossae Subequal",
+    "description": "Paraglossae and glossae about same length, suitable for shredding."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1027,
+    "taxaObjectId": 287,
+    "diagCharType": "diag_char_family",
+    "name": "Tails Subequal To Abdomen",
+    "description": "Cerci (tails) are about the same length as the abdomen."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1040,
+    "taxaObjectId": 306,
+    "diagCharType": "diag_char_family",
+    "name": "Branching Retreat",
+    "description": "Larvae make branching tube-like retreats buried in sand or soft sediment, except tips of branches sticking above sediment. You can find these by using a seave in soft sandy sediment, look for branching sandy tubes, often with a bulbus end on one of the branches, carfully pull it apart to find the larva."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1038,
+    "taxaObjectId": 306,
+    "diagCharType": "diag_char_family",
+    "name": "Hump Between Nota",
+    "description": "The Meso- and metanota (2nd and 3rd dorsal thorasic segments) are membranous (not hardened) with a large hump between them. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1037,
+    "taxaObjectId": 306,
+    "diagCharType": "diag_char_family",
+    "name": "Large Spinneret",
+    "description": "Large spinneret, half as long as head. This is a needle-like structure near the mouth, where the silk is extruded."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1039,
+    "taxaObjectId": 306,
+    "diagCharType": "diag_char_family",
+    "name": "Tarsi Flattened ",
+    "description": "Tarsi (toes- distal most leg region) flattened and tibiae (shins) shorter than tarsi"
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1029,
+    "taxaObjectId": 316,
+    "diagCharType": "diag_char_family",
+    "name": "Antenna Next To Eye",
+    "description": "The antenna are small and are always situated directly next to the eye. This is the only caddisfly family with antenna in this location."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1030,
+    "taxaObjectId": 318,
+    "diagCharType": "diag_char_family",
+    "name": "\"Long\" Antenna",
+    "description": "This is the only caddisfly family where the larvae usually have “long” antenna. By long antenna we mean that they aren’t tiny little nubs we usually see on caddisflies, but more like short threads, easily visible in profile."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1031,
+    "taxaObjectId": 327,
+    "diagCharType": "diag_char_family",
+    "name": "T-Shaped Labrum",
+    "description": "Labrum (upper lip) membranous and T-shaped. If you don't see the labrum it's becuase in preserved specimens it’s often sucked into mouth and hidden from view. All other families have a sclerotized easily visible labrum."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1032,
+    "taxaObjectId": 335,
+    "diagCharType": "diag_char_family",
+    "name": "Hatchet-shaped Foretrochantin",
+    "description": "The foretrochantin is a projecting sclerite (hard plate) at the base of each foreleg. This is the only family where the foretrochantin is hatched-shaped. Look from the ventral side, you may see the shape more clearly if the specimen is a bit tilted."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1043,
+    "taxaObjectId": 338,
+    "diagCharType": "diag_char_family",
+    "name": "Anal Prolegs Free",
+    "description": "Anal prolegs (fleshy nubs at the end of th body with hooks on them) are free, not closely fused to the abdomen."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1044,
+    "taxaObjectId": 338,
+    "diagCharType": "diag_char_family",
+    "name": "Free-living",
+    "description": "Larvae are free-living (do not build a case or retreat) until pupation."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1041,
+    "taxaObjectId": 338,
+    "diagCharType": "diag_char_family",
+    "name": "Meso- And Metanota Membranous.",
+    "description": "Meso- and metanota membranous. I.e. Dorsally, only the first thorasic segment is sclerotized (hardened), the rest of the thorax is membranous."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1042,
+    "taxaObjectId": 338,
+    "diagCharType": "diag_char_family",
+    "name": "Sclerite On Segment IX",
+    "description": "The dorsal side of abdominal segment 9 has a sclerite (hardened plate or patch). Segment 9 is the last abdominal segment, at the end of the body."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1034,
+    "taxaObjectId": 342,
+    "diagCharType": "diag_char_family",
+    "name": "Notched Mesonotum",
+    "description": "Mesonotum notched medially along the anterior margin. I.e. the middle thorasic segment has a 2 small incisions along the edge nearest the head."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1033,
+    "taxaObjectId": 342,
+    "diagCharType": "diag_char_family",
+    "name": "Only Metanotum Membranous",
+    "description": "Pro- and mesonota are sclerotized, but the metanotum mostly membranous, with some small sclerites (i.e. the dorsal sides of the 1st two thoracic segments are hardened, but the 3rd is membranous)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1002,
+    "taxaObjectId": 728,
+    "diagCharType": "diag_char_family",
+    "name": "5-Segmented Swimming Legs",
+    "description": "Long, slender swimming legs 5-segmented, excluding 2 claws. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1003,
+    "taxaObjectId": 728,
+    "diagCharType": "diag_char_family",
+    "name": "8-Segmented Abdomen",
+    "description": "Abdomen with 8 sements."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1001,
+    "taxaObjectId": 728,
+    "diagCharType": "diag_char_family",
+    "name": "Sickle-Shaped Mandibles",
+    "description": "Sickle-shaped mandibles without mola (grinding surface). "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1005,
+    "taxaObjectId": 732,
+    "diagCharType": "diag_char_family",
+    "name": "Brown, Sclerotized, Spindel-Shaped Body",
+    "description": "Body strongly sclerotized (hardened), dark brown or red-brown, roughly cylindrical or spindle-shaped,"
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1004,
+    "taxaObjectId": 732,
+    "diagCharType": "diag_char_family",
+    "name": "Operculum",
+    "description": "Segment 9 (posterior-most segment) with ventral lid-like flap (operculum) concealing thread-like gills and pair of hooks"
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1008,
+    "taxaObjectId": 739,
+    "diagCharType": "diag_char_family",
+    "name": "4 Posterior Hooks",
+    "description": "Abdominal segment 10 (posterior-most segment) with 4 stout hooks."
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1006,
+    "taxaObjectId": 739,
+    "diagCharType": "diag_char_family",
+    "name": "5-Segmented Legs + Claws",
+    "description": "Legs 5-segmented plus 2 tarsal claws. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1007,
+    "taxaObjectId": 739,
+    "diagCharType": "diag_char_family",
+    "name": "Lateral Gills ",
+    "description": "Abdominal segments 1–9 with lateral gills. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1009,
+    "taxaObjectId": 743,
+    "diagCharType": "diag_char_family",
+    "name": "5-Segmented Legs + Claw",
+    "description": "Legs 5-segmented and each with single claw. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1010,
+    "taxaObjectId": 743,
+    "diagCharType": "diag_char_family",
+    "name": "Dorsal Projections",
+    "description": "Mature larvae usually with long, slender, stiff, needle-like dorsal projections from thoracic and abdominal segments"
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1123,
+    "taxaObjectId": 747,
+    "diagCharType": "diag_char_family",
+    "name": "Flat Body",
+    "description": "The body is dorsoventrally flattened (flat like a hamburger, not like a taco). "
+  },
+  {
+    "relationshipTypeCode": "dc_to_family",
+    "diagCharId": 1124,
+    "taxaObjectId": 747,
+    "diagCharType": "diag_char_family",
+    "name": "Shield-Like",
+    "description": "The thoracic and abdominal tergites (dorsal hardened segmental plates) are expanded laterally as a thin shield covering the head and legs from above. This can make the animals resemble trilobites. This shape also helps them stick to rocks almost like a suction cup. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_genus",
+    "diagCharId": 40,
+    "taxaObjectId": 7,
+    "diagCharType": "diag_char_genus",
+    "name": "Single Digitiform Coxal Gill",
+    "description": "Each coxa (most basal leg segment) with a single finger-like, segmented gill."
+  },
+  {
+    "relationshipTypeCode": "dc_to_genus",
+    "diagCharId": 29,
+    "taxaObjectId": 19,
+    "diagCharType": "diag_char_genus",
+    "name": "Notched Frontoclypeus",
+    "description": "Frontoclypeus is usually notched, and usually with a scalloped appearance. In the rare case that the frontoclypeus is not notched, the intersegmental sclerites will be small. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_genus",
+    "diagCharId": 30,
+    "taxaObjectId": 19,
+    "diagCharType": "diag_char_genus",
+    "name": "Small Intersegmental Sclerites",
+    "description": "These sclerites are usually small in this genus. In the rare case that they are large, the frontoclypeus will be notched. Look for the pair of intersegmental sclerites underneath the intersegmental fold (“fat roll” between segments) on the ventral side between the first two sets of legs. Try gently arching the specimen’s back, and they should “pop” out.  "
+  },
+  {
+    "relationshipTypeCode": "dc_to_genus",
+    "diagCharId": 1036,
+    "taxaObjectId": 32,
+    "diagCharType": "diag_char_genus",
+    "name": "Only 1 Genus",
+    "description": "There is only one genus in this family! If you've identified the family, you know the genus too."
+  },
+  {
+    "relationshipTypeCode": "dc_to_genus",
+    "diagCharId": 36,
+    "taxaObjectId": 35,
+    "diagCharType": "diag_char_genus",
+    "name": "Tall Sclerite At Base Of Lateral Hump",
+    "description": "Abdominal segment I with one tall vertical tear-drop-shaped sclerite at posterior edge of base of each lateral hump, almost as tall as hump. The sclerite is not necessarily symmetrical, but is narrower at one end than the other, like a tear-drop. It may be light in color and hard to see, look for a shiny surface. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_genus",
+    "diagCharId": 516,
+    "taxaObjectId": 110,
+    "diagCharType": "diag_char_genus",
+    "name": "Gill Tufts Absent",
+    "description": "Abdominal ventral gill tufts absent. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_genus",
+    "diagCharId": 517,
+    "taxaObjectId": 110,
+    "diagCharType": "diag_char_genus",
+    "name": "Short Respiratory Tubes",
+    "description": "Respiratory tubes much shorter than anal prolegs."
+  },
+  {
+    "relationshipTypeCode": "dc_to_genus",
+    "diagCharId": 1036,
+    "taxaObjectId": 196,
+    "diagCharType": "diag_char_genus",
+    "name": "Only 1 Genus",
+    "description": "There is only one genus in this family! If you've identified the family, you know the genus too."
+  },
+  {
+    "relationshipTypeCode": "dc_to_genus",
+    "diagCharId": 488,
+    "taxaObjectId": 219,
+    "diagCharType": "diag_char_genus",
+    "name": "Gills On 1–6 Truncate",
+    "description": "Gills on abdominal segments 1–6 have truncate distal ends; the ends are often blunt or squared off, but always with at least part of apical edge straight."
+  },
+  {
+    "relationshipTypeCode": "dc_to_genus",
+    "diagCharId": 489,
+    "taxaObjectId": 219,
+    "diagCharType": "diag_char_genus",
+    "name": "Gills On 7 Slender",
+    "description": "Gills on abdominal segment 7 are reduced to slender filaments, much skinnier than gills on preceeding segments."
+  },
+  {
+    "relationshipTypeCode": "dc_to_genus",
+    "diagCharId": 1036,
+    "taxaObjectId": 243,
+    "diagCharType": "diag_char_genus",
+    "name": "Only 1 Genus",
+    "description": "There is only one genus in this family! If you've identified the family, you know the genus too."
+  },
+  {
+    "relationshipTypeCode": "dc_to_genus",
+    "diagCharId": 1036,
+    "taxaObjectId": 307,
+    "diagCharType": "diag_char_genus",
+    "name": "Only 1 Genus",
+    "description": "There is only one genus in this family! If you've identified the family, you know the genus too."
+  },
+  {
+    "relationshipTypeCode": "dc_to_genus",
+    "diagCharId": 1036,
+    "taxaObjectId": 339,
+    "diagCharType": "diag_char_genus",
+    "name": "Only 1 Genus",
+    "description": "There is only one genus in this family! If you've identified the family, you know the genus too."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 12,
+    "taxaObjectId": 3,
+    "diagCharType": "diag_char_order",
+    "name": "Two Tails",
+    "description": "Always only two tails (cerci)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 10,
+    "taxaObjectId": 3,
+    "diagCharType": "diag_char_order",
+    "name": "Two Tarsal Claws",
+    "description": "Always with two tarsal claws per leg."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 16,
+    "taxaObjectId": 14,
+    "diagCharType": "diag_char_order",
+    "name": "Free-living Or In Tubes",
+    "description": "Larvae can be free-living, in fixed retreats, or in cases made of sand, rocks, or plant material."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 15,
+    "taxaObjectId": 14,
+    "diagCharType": "diag_char_order",
+    "name": "Prolegs With Single Hook",
+    "description": "Larvae with pair of anal prolegs (fleshy nubs), each with single hook, located on last abdominal segment."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 22,
+    "taxaObjectId": 20,
+    "diagCharType": "diag_char_order",
+    "name": "Single Tarsal Claw",
+    "description": "Always with only one tarsal claw per leg."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 21,
+    "taxaObjectId": 20,
+    "diagCharType": "diag_char_order",
+    "name": "Usually 3 Tails",
+    "description": "Usually with three tails (two cerci and one caudal filament, but sometimes without caudal filament)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 945,
+    "taxaObjectId": 52,
+    "diagCharType": "diag_char_order",
+    "name": "Elytra",
+    "description": "Adults with elytra (hardened forewings covering the membranous hind wings)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 944,
+    "taxaObjectId": 53,
+    "diagCharType": "diag_char_order",
+    "name": "Legs Absent",
+    "description": "Segmented legs absent from thorax, but sometimes with prolegs (fleshy nubs used for movement)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 472,
+    "taxaObjectId": 54,
+    "diagCharType": "diag_char_order",
+    "name": "Hemelytra",
+    "description": "Adults with hemelytra (forewings typically leathery or hard basally and translucent and flexible apically)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 468,
+    "taxaObjectId": 54,
+    "diagCharType": "diag_char_order",
+    "name": "Needle-like Beak",
+    "description": "Larvae and adult with needle-like or straw-like beak (except for Corixidae which has sieve-like mouth parts)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 942,
+    "taxaObjectId": 55,
+    "diagCharType": "diag_char_order",
+    "name": "Abdominal Prolegs",
+    "description": "Underside of abdomen with several pairs of prolegs (fleshy nubs) with tiny hooks."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 943,
+    "taxaObjectId": 55,
+    "diagCharType": "diag_char_order",
+    "name": "Short Legs",
+    "description": " Short segmented legs present on thorax, not as long as abdomen. "
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 512,
+    "taxaObjectId": 56,
+    "diagCharType": "diag_char_order",
+    "name": "1 Tail or 2 Prolegs ",
+    "description": "Abdominal segment 9 (the last segment) with either one tail or pair of anal prolegs (fleshy nubs), each with two hooks."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 513,
+    "taxaObjectId": 56,
+    "diagCharType": "diag_char_order",
+    "name": "Lateral Filaments",
+    "description": "Seven or eight pairs of filaments or gills laterally on abdomen (slender conical appendages on sides of abdomen)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 933,
+    "taxaObjectId": 57,
+    "diagCharType": "diag_char_order",
+    "name": "Labial Mask",
+    "description": "Nymphs with mask-like labium (lower lip) covering the chewing mouth parts. This is an extendable arm-like appendage used to capture prey. It is always visible ventrally, but may be visible dorsally if it is extended."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 948,
+    "taxaObjectId": 727,
+    "diagCharType": "diag_char_order",
+    "name": "Eye Spots",
+    "description": "Eye spots usually present, but compound eyes absent."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 946,
+    "taxaObjectId": 727,
+    "diagCharType": "diag_char_order",
+    "name": "Lateral Gills USUALLY Absent",
+    "description": "Usually without lateral abdominal gills, except for Gyrinidae (4 hooks clustered on segment 10)."
+  },
+  {
+    "relationshipTypeCode": "dc_to_order",
+    "diagCharId": 947,
+    "taxaObjectId": 727,
+    "diagCharType": "diag_char_order",
+    "name": "USUALLY 4-5-Segmented Legs",
+    "description": "Thoracic legs usually with 4 or 5 segments and with 1 or 2 claws; if without legs, head distinctly sclerotized (hardened) and posterior body (thorax and abdomen) simple, without gills, hair brushes, suckers, or breathing tube. "
+  }
+]

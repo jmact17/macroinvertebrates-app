@@ -1,0 +1,1166 @@
+[
+  {
+    "id": 790,
+    "term": "accessory",
+    "definition": "Usually used to describe a small secondary structure. For example an accessory flagellum refers to a small flagellum attached to the antenna, or an accessory hook often refers to a small hook protruding from a larger anal hook.",
+    "alternateForms": null
+  },
+  {
+    "id": 1060,
+    "term": "anal division",
+    "definition": "the last abdominal \"segment\" in larval Diptera (that actually consists of several segments).",
+    "alternateForms": null
+  },
+  {
+    "id": 791,
+    "term": "anal proleg",
+    "definition": "Proleg bearing hooks and located on the last segment of the abdomen, usually paired",
+    "alternateForms": "anal prolegs"
+  },
+  {
+    "id": 792,
+    "term": "anteapical",
+    "definition": "before the apex, ie. anteapical claws have the claw inserted basal to the tip of the tarsus.",
+    "alternateForms": null
+  },
+  {
+    "id": 793,
+    "term": "apex",
+    "definition": "the most distal point of an object. Plural form is apices.",
+    "alternateForms": "apically, apices, apical"
+  },
+  {
+    "id": 794,
+    "term": "apicolateral",
+    "definition": "toward the apex and toward the side.",
+    "alternateForms": null
+  },
+  {
+    "id": 795,
+    "term": "basal",
+    "definition": "the part of an appendage that is near the body.",
+    "alternateForms": "basally"
+  },
+  {
+    "id": 955,
+    "term": "benthic",
+    "definition": "pertaining to the bottom of a permanent body of water.",
+    "alternateForms": "benthos"
+  },
+  {
+    "id": 796,
+    "term": "biforous",
+    "definition": "with two openings.",
+    "alternateForms": null
+  },
+  {
+    "id": 904,
+    "term": "bilamellate",
+    "definition": "having or divided into 2 plates.",
+    "alternateForms": null
+  },
+  {
+    "id": 797,
+    "term": "biofilm",
+    "definition": "fungus, algae, and bacteria that forms a slippery, inconspicuous film over rocks and other substrates.",
+    "alternateForms": null
+  },
+  {
+    "id": 798,
+    "term": "bowed",
+    "definition": "bent or curved.",
+    "alternateForms": null
+  },
+  {
+    "id": 799,
+    "term": "brackish",
+    "definition": "refers to slightly salty water, such as in an estuary or salt marsh.",
+    "alternateForms": null
+  },
+  {
+    "id": 956,
+    "term": "burrower",
+    "definition": "an organism that lives in the sediments of streams and lakes.",
+    "alternateForms": "burrowers, burrow"
+  },
+  {
+    "id": 800,
+    "term": "carina",
+    "definition": "a ridge, or keel. Plural form is carinae.",
+    "alternateForms": "carinae"
+  },
+  {
+    "id": 801,
+    "term": "caudal",
+    "definition": "pertaining to the posterior end of the abdomen.",
+    "alternateForms": null
+  },
+  {
+    "id": 23,
+    "term": "caudal filament",
+    "definition": "tail, when there is only one, or the middle tail when there are three (the other two being cerci).",
+    "alternateForms": null
+  },
+  {
+    "id": 13,
+    "term": "cerci",
+    "definition": "pair of tails",
+    "alternateForms": null
+  },
+  {
+    "id": 957,
+    "term": "chelate",
+    "definition": "pincer-like.",
+    "alternateForms": null
+  },
+  {
+    "id": 802,
+    "term": "claval furrow",
+    "definition": "in Hemiptera, a large furrow on the forewing separating the clavas (posterior when the wings are spread) and the ebolium (anterior when the wings are spread).",
+    "alternateForms": null
+  },
+  {
+    "id": 803,
+    "term": "clavate",
+    "definition": "club-like, enlarged at the distal end.",
+    "alternateForms": null
+  },
+  {
+    "id": 804,
+    "term": "clavus",
+    "definition": "in Hempiptera, when the wings are spread, it is the part of the wing posterior to the claval furrow; the wing minus the ebolium. ",
+    "alternateForms": null
+  },
+  {
+    "id": 958,
+    "term": "climber",
+    "definition": "an organism that lives on plants or debris underwater with adaptations for moving along stems and roots.",
+    "alternateForms": "climbers, climbing, climb"
+  },
+  {
+    "id": 959,
+    "term": "clinger",
+    "definition": "An organism that attaches to surfaces in stream riffles; typically has adaptations (such as claws) or behaviors (like retreat construction) to live in these habitats.",
+    "alternateForms": "clingers, cling, clinging"
+  },
+  {
+    "id": 905,
+    "term": "clypeus",
+    "definition": "the front part of an insect's head below the frons to which the labrum is attached anteriorly.",
+    "alternateForms": null
+  },
+  {
+    "id": 960,
+    "term": "collector-filterer",
+    "definition": "organisms that filter out particles suspended in water to eat.",
+    "alternateForms": null
+  },
+  {
+    "id": 961,
+    "term": "collector-gatherer",
+    "definition": "organisms that feed on deposited sediments.",
+    "alternateForms": "collectors-gatherers, collecting-gatherers, collecting and gathering, collect and gather, collector-gatherers"
+  },
+  {
+    "id": 805,
+    "term": "collum",
+    "definition": "neck, posterior-most portion of the head in beetle larvae.",
+    "alternateForms": null
+  },
+  {
+    "id": 1068,
+    "term": "compound eye",
+    "definition": "an eye composed of several visual units, called ommatidia.",
+    "alternateForms": "compound eyes"
+  },
+  {
+    "id": 806,
+    "term": "concave",
+    "definition": "curved inward, caved in.",
+    "alternateForms": null
+  },
+  {
+    "id": 807,
+    "term": "conspicuous",
+    "definition": "easily visible.",
+    "alternateForms": null
+  },
+  {
+    "id": 808,
+    "term": "convex",
+    "definition": "curved outward, rounded.",
+    "alternateForms": null
+  },
+  {
+    "id": 809,
+    "term": "coxa",
+    "definition": "the leg segment nearest the body. Plural form is coxae.",
+    "alternateForms": "coxae, coxal"
+  },
+  {
+    "id": 810,
+    "term": "crenation",
+    "definition": "rounded projection.",
+    "alternateForms": "crenation"
+  },
+  {
+    "id": 811,
+    "term": "crenulated",
+    "definition": "scalloped, having a margin with repeated indentations and rounded projections.",
+    "alternateForms": null
+  },
+  {
+    "id": 1057,
+    "term": "cupule",
+    "definition": "the hairless, cup-shaped sixth segment of a water scavenger beetle's antennae.",
+    "alternateForms": null
+  },
+  {
+    "id": 906,
+    "term": "deciduous",
+    "definition": "falling off at certain periods. For example, this term is used to describe the gills of nymphs in the family Heptageniidae (Ephemeroptera), which fall off easily when handled.",
+    "alternateForms": null
+  },
+  {
+    "id": 812,
+    "term": "denticle",
+    "definition": "small tooth.",
+    "alternateForms": "denticles"
+  },
+  {
+    "id": 813,
+    "term": "digitiform",
+    "definition": "finger-like.",
+    "alternateForms": null
+  },
+  {
+    "id": 815,
+    "term": "dilated",
+    "definition": "enlarged, widely opened.",
+    "alternateForms": null
+  },
+  {
+    "id": 814,
+    "term": "distal",
+    "definition": "the part of an appendage that is furthest away from the body.",
+    "alternateForms": null
+  },
+  {
+    "id": 962,
+    "term": "diver",
+    "definition": "an organism that swims by rowing with its hind legs in lentic and lotic habitats; typically comes to surface of water for oxygen.",
+    "alternateForms": "divers"
+  },
+  {
+    "id": 907,
+    "term": "dorsal",
+    "definition": "on or of the upper surface.",
+    "alternateForms": "dorsally, dorsum"
+  },
+  {
+    "id": 816,
+    "term": "dun",
+    "definition": "common name for a subimago mayfly.",
+    "alternateForms": "duns"
+  },
+  {
+    "id": 817,
+    "term": "ecdysial line",
+    "definition": "any line where sclerites of the exoskeleton will separate during the molting process. These are found mostly on the midline of the top or underside of the head and on the midline of the top of the thorax.",
+    "alternateForms": null
+  },
+  {
+    "id": 818,
+    "term": "eclosion",
+    "definition": "when a larva hatches from an egg.",
+    "alternateForms": null
+  },
+  {
+    "id": 819,
+    "term": "elytron",
+    "definition": "hardened shell-like forewings of a beetle that cover the hind wings. Plural form is elytra.",
+    "alternateForms": "elytra"
+  },
+  {
+    "id": 820,
+    "term": "embolium",
+    "definition": "in Hemiptera, when the wings are spread, it is the part of the wing anterior to the claval furrow. If the wings are closed, it is the part of the wings nearest the lateral margin, not including the clavus. ",
+    "alternateForms": null
+  },
+  {
+    "id": 963,
+    "term": "engulfer-predator",
+    "definition": "an organism that attacks and eats whole animals or parts.",
+    "alternateForms": "engulfing predators, engulf"
+  },
+  {
+    "id": 821,
+    "term": "femora",
+    "definition": "the thigh. This is the second most basal leg segment, after the coxa.",
+    "alternateForms": null
+  },
+  {
+    "id": 822,
+    "term": "fibrilliform",
+    "definition": "thread-like.",
+    "alternateForms": null
+  },
+  {
+    "id": 823,
+    "term": "fibrils",
+    "definition": "thread-like protuberances.",
+    "alternateForms": null
+  },
+  {
+    "id": 824,
+    "term": "filamentous",
+    "definition": "with thread-like filaments.",
+    "alternateForms": null
+  },
+  {
+    "id": 825,
+    "term": "filterers",
+    "definition": "insects that feed by sifting suspended organic matter (including detritus, diatoms, algae, and sometimes meiofauna), from the water.",
+    "alternateForms": "filtering, filter"
+  },
+  {
+    "id": 964,
+    "term": "foreleg",
+    "definition": "prothoracic leg; a leg on the first thoracic segment.",
+    "alternateForms": "forelegs"
+  },
+  {
+    "id": 826,
+    "term": "foretrochantin",
+    "definition": "a part of a propleuron of a caddisfly that projects forward from the base of a foreleg.",
+    "alternateForms": "foretrochantins"
+  },
+  {
+    "id": 827,
+    "term": "foveate",
+    "definition": "punctate, or pitted, with evenly distributed indentations.",
+    "alternateForms": null
+  },
+  {
+    "id": 828,
+    "term": "frontal process",
+    "definition": "In mayflies of the family Ephemeridae, when looking dorsally, a cuticular lobe projecting forward from the anteriormost margin of the face.",
+    "alternateForms": null
+  },
+  {
+    "id": 829,
+    "term": "frontoclypeus",
+    "definition": "the face or front middle region of the head, usually defined by a pair of curved lines extending forward from the anterior end of the median dorsal ecdysial line.",
+    "alternateForms": "frontoclypeal"
+  },
+  {
+    "id": 830,
+    "term": "fusiform",
+    "definition": "spindle-shaped or football-shaped, tapered at both ends.",
+    "alternateForms": null
+  },
+  {
+    "id": 831,
+    "term": "gena",
+    "definition": "cheek. Plural form is genae.",
+    "alternateForms": "genae, genal"
+  },
+  {
+    "id": 832,
+    "term": "glabrous",
+    "definition": "without hair/setae.",
+    "alternateForms": null
+  },
+  {
+    "id": 833,
+    "term": "glossae",
+    "definition": "part of the mouth parts/ labrum, pair of lobes used much like a tongue. Smaller, and just inside of glossae. See image.",
+    "alternateForms": null
+  },
+  {
+    "id": 927,
+    "term": "gula",
+    "definition": "in prognathous insects, the fused lower ends of the postocciput forming a plate on the underside of the insect's head.",
+    "alternateForms": null
+  },
+  {
+    "id": 834,
+    "term": "hemimetabolist",
+    "definition": "a type of insect where the life cycle includes egg, larval, and adult stages, but lacks a pupal stage.",
+    "alternateForms": "hemimetabolous"
+  },
+  {
+    "id": 965,
+    "term": "hind leg",
+    "definition": "metathoracic leg; a leg on the third thoracic segment.",
+    "alternateForms": "hind legs"
+  },
+  {
+    "id": 938,
+    "term": "hydrofuge",
+    "definition": "water repelling.",
+    "alternateForms": null
+  },
+  {
+    "id": 966,
+    "term": "hydrofuge pile",
+    "definition": "water-repelling hairs.",
+    "alternateForms": null
+  },
+  {
+    "id": 1054,
+    "term": "hydrophilic",
+    "definition": "water-loving; attracted to water.",
+    "alternateForms": null
+  },
+  {
+    "id": 1055,
+    "term": "hydrophobic",
+    "definition": "water-repelling.",
+    "alternateForms": null
+  },
+  {
+    "id": 937,
+    "term": "hygropetric",
+    "definition": "life that needs to live on a thin film of water.",
+    "alternateForms": null
+  },
+  {
+    "id": 908,
+    "term": "hypognathous",
+    "definition": "having the head vertical and the mouth facing downward. ",
+    "alternateForms": null
+  },
+  {
+    "id": 909,
+    "term": "hypostoma",
+    "definition": "region of the lower genae (cheeks) behind the mandible.",
+    "alternateForms": null
+  },
+  {
+    "id": 967,
+    "term": "hypostomal groove",
+    "definition": "depression on the lower genae (cheeks) behind the mandible.",
+    "alternateForms": null
+  },
+  {
+    "id": 835,
+    "term": "imago",
+    "definition": "an adult insect.",
+    "alternateForms": "imagoes"
+  },
+  {
+    "id": 836,
+    "term": "inconspicuous",
+    "definition": "difficult to see.",
+    "alternateForms": null
+  },
+  {
+    "id": 837,
+    "term": "intermediate teeth",
+    "definition": "looking at a Simuliid larva, this refers to the small teeth between the larger teeth on the hypostoma",
+    "alternateForms": null
+  },
+  {
+    "id": 910,
+    "term": "interocular",
+    "definition": "between the eyes.",
+    "alternateForms": null
+  },
+  {
+    "id": 838,
+    "term": "intersegmental",
+    "definition": "between segments.",
+    "alternateForms": null
+  },
+  {
+    "id": 839,
+    "term": "intersegmental fold",
+    "definition": "where the membranous tissue bubbles up to fill the space between segments. In some caddisfly larvae this looks like a “fat roll.”",
+    "alternateForms": null
+  },
+  {
+    "id": 840,
+    "term": "keel",
+    "definition": "a ridge, or carina.",
+    "alternateForms": null
+  },
+  {
+    "id": 841,
+    "term": "labial mask",
+    "definition": "extendable mask-like mouth part of a dragonfly or damselfly nymph, used to capture prey. ",
+    "alternateForms": "mask"
+  },
+  {
+    "id": 842,
+    "term": "labium",
+    "definition": "lower lip.",
+    "alternateForms": "labial"
+  },
+  {
+    "id": 911,
+    "term": "labrum",
+    "definition": "upper lip, touching the clypeus in front of the mouth.",
+    "alternateForms": "labral"
+  },
+  {
+    "id": 843,
+    "term": "lacinia",
+    "definition": "inside edge of maxilla.",
+    "alternateForms": null
+  },
+  {
+    "id": 844,
+    "term": "lamella",
+    "definition": "a flat, plate-like structure. Plural form is lamellae.",
+    "alternateForms": "lamellae"
+  },
+  {
+    "id": 845,
+    "term": "lamelliform",
+    "definition": "plate-like or flap-like.",
+    "alternateForms": null
+  },
+  {
+    "id": 846,
+    "term": "lanceolate",
+    "definition": "lance-like or long and skinny.",
+    "alternateForms": null
+  },
+  {
+    "id": 847,
+    "term": "larva",
+    "definition": "immature feeding stage of an insect. Plural form is larvae. Latin=terrifying mask.",
+    "alternateForms": "larvae, larval"
+  },
+  {
+    "id": 912,
+    "term": "lateral",
+    "definition": "pertaining to, or attached to, the side.",
+    "alternateForms": "laterally"
+  },
+  {
+    "id": 968,
+    "term": "leaf pack",
+    "definition": "accumulations of leaves and other coarse particulate matter in front of or behind obstructions in the water flow, such as logs.",
+    "alternateForms": "leaf packs"
+  },
+  {
+    "id": 848,
+    "term": "lentic",
+    "definition": "describes an animal that lives in still, low oxygenated water.",
+    "alternateForms": null
+  },
+  {
+    "id": 969,
+    "term": "lentic-profundal",
+    "definition": "zone of a standing body of water where fine sediments from shallower parts of the lake mix with organic matter from deeper reaches of the lake.",
+    "alternateForms": null
+  },
+  {
+    "id": 1056,
+    "term": "ligula",
+    "definition": "the combination of the glossae and paraglossae, used like a tongue.",
+    "alternateForms": null
+  },
+  {
+    "id": 970,
+    "term": "littoral",
+    "definition": "the shore of a body of water.",
+    "alternateForms": null
+  },
+  {
+    "id": 849,
+    "term": "lotic",
+    "definition": "describes an animal that lives in flowing, highly oxygenated water.",
+    "alternateForms": null
+  },
+  {
+    "id": 971,
+    "term": "lotic-depositional",
+    "definition": "running-water pools and margins with fine sediments, some vascular plants growing in those sediments, and leaf litter forming the majority of detritus.",
+    "alternateForms": "depositional"
+  },
+  {
+    "id": 972,
+    "term": "lotic-erosional",
+    "definition": "running-water riffles with coarse sediments, some plants growing in those coarse sediments, and leaf packs and woody debris serving as the majority of detritus. ",
+    "alternateForms": null
+  },
+  {
+    "id": 850,
+    "term": "maxilla",
+    "definition": "second pair of jaws. Plural form is maxillae.",
+    "alternateForms": "maxillae, maxillary"
+  },
+  {
+    "id": 851,
+    "term": "median",
+    "definition": "in the middle, centered.",
+    "alternateForms": "medially, medial"
+  },
+  {
+    "id": 852,
+    "term": "meiofauna",
+    "definition": "small animals, usually small invertebrates.",
+    "alternateForms": null
+  },
+  {
+    "id": 1058,
+    "term": "membranous",
+    "definition": "thin and more or less transparent.",
+    "alternateForms": null
+  },
+  {
+    "id": 853,
+    "term": "mentum",
+    "definition": " part of the base of the labium, also referred to as the anterior ventral apotome.",
+    "alternateForms": null
+  },
+  {
+    "id": 854,
+    "term": "meso-",
+    "definition": "prefix referring to a structure on the second thoracic segment behind the head.",
+    "alternateForms": "meso"
+  },
+  {
+    "id": 855,
+    "term": "mesonotum",
+    "definition": "dorsal side of the second thoracic segment.",
+    "alternateForms": "mesonota"
+  },
+  {
+    "id": 856,
+    "term": "mesopleuron",
+    "definition": "the lateral portion of the middle thoracic segment.",
+    "alternateForms": "mesopleura"
+  },
+  {
+    "id": 940,
+    "term": "mesosternum",
+    "definition": "bottom side of the second thoracic segment. ",
+    "alternateForms": "mesosternal"
+  },
+  {
+    "id": 857,
+    "term": "meta-",
+    "definition": "prefix referring to a structure on the third thoracic segment behind the head.",
+    "alternateForms": "meta"
+  },
+  {
+    "id": 913,
+    "term": "metanotum",
+    "definition": "top side of the third thoracic segment.",
+    "alternateForms": "metanota, metanotal"
+  },
+  {
+    "id": 939,
+    "term": "metasternum",
+    "definition": "bottom side of the third thoracic segment.",
+    "alternateForms": null
+  },
+  {
+    "id": 936,
+    "term": "mola",
+    "definition": "roughened grinding area at base of each mandible of some insects.",
+    "alternateForms": null
+  },
+  {
+    "id": 858,
+    "term": "nasale",
+    "definition": "fused frons, clypeus, and labrum; anteriormost margin of the face in beetle larvae.",
+    "alternateForms": null
+  },
+  {
+    "id": 859,
+    "term": "neuston",
+    "definition": "small organisms that live in the surface layers of water.",
+    "alternateForms": null
+  },
+  {
+    "id": 1061,
+    "term": "neustonic",
+    "definition": "of or relating to the habit of living in the surface layers of water.",
+    "alternateForms": null
+  },
+  {
+    "id": 28,
+    "term": "notum",
+    "definition": "dorsal (top) side of a given thoracic segment. Plural form is nota.",
+    "alternateForms": "nota"
+  },
+  {
+    "id": 861,
+    "term": "nymph",
+    "definition": "larval or immature feeding stage of an insect, usually of non-holometabolous insects.",
+    "alternateForms": "nymphs"
+  },
+  {
+    "id": 973,
+    "term": "occiput",
+    "definition": "the part of the top of the head that is closest to the body.",
+    "alternateForms": null
+  },
+  {
+    "id": 914,
+    "term": "ocellus",
+    "definition": "in adult insects, a simple eye consisting of a single beadlike lens; in holometabolous larvae, simple eyes that make up the lateral eye-groups (also referred to as stemma). Plural form is ocelli.",
+    "alternateForms": "ocelli"
+  },
+  {
+    "id": 862,
+    "term": "operculate gill",
+    "definition": "a gill that covers the gill(s) on the next segment(s); usually these types of gills are flat and positioned on the dorsal (top) side of the abdomen.",
+    "alternateForms": "operculate, operculate gills"
+  },
+  {
+    "id": 1059,
+    "term": "operculum",
+    "definition": "a lid or cover. Plural form is opercula.",
+    "alternateForms": "opercula"
+  },
+  {
+    "id": 916,
+    "term": "palmate",
+    "definition": "like the palm of the hand with processes stemming from a singular point, used in reference to gill venation.",
+    "alternateForms": null
+  },
+  {
+    "id": 863,
+    "term": "palp",
+    "definition": "The paired and segmented appendages around the mouth arising from maxillae (one palp on each maxilla) and the labium (one pair); maxillary palps are the larger pair. Plural form is palps. See also palpus.",
+    "alternateForms": "palps, palpal"
+  },
+  {
+    "id": 864,
+    "term": "palpus",
+    "definition": "The paired and segmented appendages around the mouth arising from maxillae (one palpus on each maxilla) and the labium (one pair); maxillary palpi are the larger pair. Plural form is palpi. See also palp.",
+    "alternateForms": "palpi, palpal"
+  },
+  {
+    "id": 865,
+    "term": "paraglossae",
+    "definition": "part of the mouth parts/ labrum, pair of lobes used much like a tongue. Larger and just outside of glossae. See image.",
+    "alternateForms": null
+  },
+  {
+    "id": 866,
+    "term": "paralateral teeth",
+    "definition": "looking at a Simuliid larva, as you move away from the center of the hypostoma, paralateral teeth refers to any smaller teeth just beyond the large lateral teeth.",
+    "alternateForms": null
+  },
+  {
+    "id": 867,
+    "term": "patella",
+    "definition": "this is the knee, the leg segment found between the femora and tibia in some insects, but is usually absent.",
+    "alternateForms": null
+  },
+  {
+    "id": 868,
+    "term": "pectinate",
+    "definition": "comb-like.",
+    "alternateForms": null
+  },
+  {
+    "id": 869,
+    "term": "percher",
+    "definition": "style of flight seen in some Odonates, where the dragonfly frequently lands and rests (perches) during flight. ",
+    "alternateForms": "perchers"
+  },
+  {
+    "id": 870,
+    "term": "periphyton",
+    "definition": "fungus, algae, and bacteria that forms a slippery, inconspicuous film over rocks and other substrates.",
+    "alternateForms": null
+  },
+  {
+    "id": 871,
+    "term": "petiolate",
+    "definition": "stalk-like, narrow, long and skinny.",
+    "alternateForms": null
+  },
+  {
+    "id": 974,
+    "term": "piercer-herbivore",
+    "definition": "organism that pierces through vegetation and sucks plant fluids.",
+    "alternateForms": "piercing herbivores, pierce, piercing"
+  },
+  {
+    "id": 975,
+    "term": "piercer-predator",
+    "definition": "Organism that consumes prey by piercing through its tissues and sucking fluids.",
+    "alternateForms": "predators, piercing predators"
+  },
+  {
+    "id": 872,
+    "term": "pilosity",
+    "definition": "fine long hairs.",
+    "alternateForms": null
+  },
+  {
+    "id": 917,
+    "term": "pinnate",
+    "definition": "feathered; plumed; winged.  Used in reference to gill venation that appears feather-like.",
+    "alternateForms": null
+  },
+  {
+    "id": 976,
+    "term": "planktonic",
+    "definition": "organisms drifting or swimming with water movement.",
+    "alternateForms": null
+  },
+  {
+    "id": 873,
+    "term": "pleuron",
+    "definition": "side of a thoracic or abdominal segment. Plural form is pleura.",
+    "alternateForms": "pleura, pleural"
+  },
+  {
+    "id": 874,
+    "term": "plumose",
+    "definition": "plume-like or feather-like.",
+    "alternateForms": null
+  },
+  {
+    "id": 1062,
+    "term": "postgenal cleft",
+    "definition": "split located behind the cheeks (genae).",
+    "alternateForms": null
+  },
+  {
+    "id": 977,
+    "term": "primary hairs",
+    "definition": "hairs on the head, thorax, or abdomen.",
+    "alternateForms": null
+  },
+  {
+    "id": 875,
+    "term": "pro-",
+    "definition": "prefix referring to a structure on the first thoracic segment behind the head.",
+    "alternateForms": "pro"
+  },
+  {
+    "id": 17,
+    "term": "proleg",
+    "definition": "fleshy unsegmented nub, often paired, used for movement (e.g., on the abdomen of most caterpillars and some flies; on the thorax of some fly larvae).",
+    "alternateForms": "prolegs"
+  },
+  {
+    "id": 918,
+    "term": "pronotum",
+    "definition": "the top part of the first thoracic segment.",
+    "alternateForms": null
+  },
+  {
+    "id": 978,
+    "term": "prosternum",
+    "definition": "the bottom part of the first thoracic segment.",
+    "alternateForms": "prosternal"
+  },
+  {
+    "id": 919,
+    "term": "pubescence",
+    "definition": "clothed with soft, fine hairs.",
+    "alternateForms": null
+  },
+  {
+    "id": 920,
+    "term": "raptorial",
+    "definition": "adapted for grabbing prey.",
+    "alternateForms": null
+  },
+  {
+    "id": 877,
+    "term": "rostrum",
+    "definition": "beak, or elongate mouth part as in Coleoptera: Curculionidae (Weevels) or Hemiptera (true bugs).",
+    "alternateForms": null
+  },
+  {
+    "id": 878,
+    "term": "sa1, sa2, sa3",
+    "definition": "sa = setal area of a thoracic or abdominal segment, often marked by a sclerite or patch of setae--See image.",
+    "alternateForms": "sa1, sa2, sa3"
+  },
+  {
+    "id": 879,
+    "term": "scalloped",
+    "definition": "crenulated, having a margin with repeated indentations and rounded projections.",
+    "alternateForms": null
+  },
+  {
+    "id": 880,
+    "term": "sclerite",
+    "definition": "hardened plate, usually looks shiny.",
+    "alternateForms": "sclerites"
+  },
+  {
+    "id": 881,
+    "term": "sclerotized",
+    "definition": "hardened and usually darkened.",
+    "alternateForms": null
+  },
+  {
+    "id": 979,
+    "term": "scraper-grazer",
+    "definition": "organism that feeds on algae attached to organic and mineral surfaces.",
+    "alternateForms": "scraper-grazers"
+  },
+  {
+    "id": 882,
+    "term": "scrapers",
+    "definition": "refers to insects that graze on attatched biofilm/periphyton on rocks and other substrate.",
+    "alternateForms": "scraping, scrape, scrapers"
+  },
+  {
+    "id": 921,
+    "term": "scutellum",
+    "definition": "in Hemiptera, the triangular part of the mesothorax placed between the bases of the hemelytra, but in some groups partially or fully overlapping them.",
+    "alternateForms": null
+  },
+  {
+    "id": 980,
+    "term": "secondary hairs",
+    "definition": "randomly occurring hairs.",
+    "alternateForms": null
+  },
+  {
+    "id": 884,
+    "term": "semioperculate gill",
+    "definition": "a gill that only partially covers the gill(s) on the next segment(s).",
+    "alternateForms": null
+  },
+  {
+    "id": 885,
+    "term": "seta",
+    "definition": "hair. Plural form is setae.",
+    "alternateForms": "setae"
+  },
+  {
+    "id": 886,
+    "term": "setose",
+    "definition": "hairy; with setae.",
+    "alternateForms": null
+  },
+  {
+    "id": 981,
+    "term": "shredder-detritivore",
+    "definition": "organism that eats by chewing coarse particulate organic matter.",
+    "alternateForms": "shredding-detritivores, detritus, shredding detritivores, detritivores, detritivorous shredders"
+  },
+  {
+    "id": 982,
+    "term": "shredder-gouger",
+    "definition": "organism that eats by digging through wood.",
+    "alternateForms": null
+  },
+  {
+    "id": 983,
+    "term": "shredder-herbivore",
+    "definition": "organism that eats living aquatic plants and algae by chewing and mining.",
+    "alternateForms": "shredding herbivores, algae, herbivores, shredding, shred, shredder-herbivores, shredders-herbivores"
+  },
+  {
+    "id": 887,
+    "term": "skimmer",
+    "definition": "a style of flight seen in some Odonates where the dragonfly skims along the surface of the water, or more generally, they don't land frequently and seem to constantly be in flight while hunting.",
+    "alternateForms": null
+  },
+  {
+    "id": 888,
+    "term": "spatulate",
+    "definition": "broad at the end, like a spatula.",
+    "alternateForms": null
+  },
+  {
+    "id": 889,
+    "term": "spinner",
+    "definition": "common name for an adult mayfly (Ephemeroptera); imago.",
+    "alternateForms": "spinners"
+  },
+  {
+    "id": 1063,
+    "term": "spinneret",
+    "definition": "small tube-shaped appendage that exudes silk threads, especially seen in spiders and larval Trichoptera and Lepidoptera. In larvae, this is typically located on the labium (lower lip) of an individual.",
+    "alternateForms": null
+  },
+  {
+    "id": 903,
+    "term": "spinulate",
+    "definition": "severall small spines, spine-like processes, or hairs",
+    "alternateForms": null
+  },
+  {
+    "id": 922,
+    "term": "spinule",
+    "definition": "small spine. Plural form is spinules.",
+    "alternateForms": "spinules"
+  },
+  {
+    "id": 902,
+    "term": "spinulose",
+    "definition": "severall small spines, spine-like processes, or hairs.",
+    "alternateForms": null
+  },
+  {
+    "id": 923,
+    "term": "spiracle",
+    "definition": "external opening of the tracheal system; can look like a small pore on an insect's body.",
+    "alternateForms": "spiracles"
+  },
+  {
+    "id": 926,
+    "term": "spiracular disc",
+    "definition": "In amphipneustic and metapneustic Diptera larvae, disclike area with respiratory openings on the last segment.",
+    "alternateForms": null
+  },
+  {
+    "id": 985,
+    "term": "sprawler",
+    "definition": "live on the surface of submerged objects or sediment; adapted to keep sediment off of themselves and remain on top of the substrate.",
+    "alternateForms": "sprawl, sprawlers, sprawling, sprawled"
+  },
+  {
+    "id": 915,
+    "term": "stemma",
+    "definition": "simple eyes that make up the lateral eye-groups in holometabolous larvae. Plural form is stemmata. Similar to ocelli, but in clusters of more than 3; usually present in larvae of holomotabolus insects.",
+    "alternateForms": "stemmata"
+  },
+  {
+    "id": 935,
+    "term": "stemmata",
+    "definition": "simple eyes, similar to ocelli, but in clusters of more than 3; usually present in larvae of holomotabolus insects.",
+    "alternateForms": null
+  },
+  {
+    "id": 1069,
+    "term": "stipes",
+    "definition": "the second segment of the maxillae (second set of jaws). The lacinia, galea, and maxillary palps arise from the stipes.",
+    "alternateForms": null
+  },
+  {
+    "id": 924,
+    "term": "stria",
+    "definition": "a fine impressed line running lengthwise over the elytra of adult Coleoptera. Plural form is striae.",
+    "alternateForms": "striae"
+  },
+  {
+    "id": 890,
+    "term": "subimago",
+    "definition": "also known as a dun (common name). A life stage unique to the Ephemeroptera; a developmental stage between larval and adult stages in which the wings have developed but the genitalia have not. In this stage the wings appear clouded (unlike the glossy appearance in the adults). The mayflies leave the water as subimagos, fly to a safe location, and then molt one more time to become an adult.",
+    "alternateForms": "subimagos, subimagoes"
+  },
+  {
+    "id": 883,
+    "term": "submental",
+    "definition": "below the mentum.",
+    "alternateForms": null
+  },
+  {
+    "id": 891,
+    "term": "sulcus",
+    "definition": "groove with purely functional origin; i.e., any other groove on the body that is not a suture, such as those used for ecdysis or muscle attachment. Plural form is sulci.",
+    "alternateForms": "sulci"
+  },
+  {
+    "id": 892,
+    "term": "suture",
+    "definition": "groove marking the line of fusion of 2 formerly distinct plates.",
+    "alternateForms": "sutures, sutural"
+  },
+  {
+    "id": 986,
+    "term": "swimmer",
+    "definition": "organisms that are adapted to fishlike swimming; often cling to submerged objects and plants between bursts of swimming.",
+    "alternateForms": "swimmers, swimming"
+  },
+  {
+    "id": 893,
+    "term": "tarsal formula",
+    "definition": "the number of tarsal segments of each leg pair listed in order; ie. # of tarsal segments of foreleg, middle leg, hind leg.",
+    "alternateForms": null
+  },
+  {
+    "id": 894,
+    "term": "tarsungulus",
+    "definition": "fused tarsus and claw.",
+    "alternateForms": null
+  },
+  {
+    "id": 11,
+    "term": "tarsus",
+    "definition": "foot, most distal leg region (last part of a leg before the claw), often divided into subsegments. Plural form is tarsi.",
+    "alternateForms": "tarsi"
+  },
+  {
+    "id": 896,
+    "term": "tergum",
+    "definition": "dorsal side of a given abdominal segment. Plural form is terga.",
+    "alternateForms": "terga"
+  },
+  {
+    "id": 1064,
+    "term": "thoracic",
+    "definition": "belonging to the thorax.",
+    "alternateForms": null
+  },
+  {
+    "id": 897,
+    "term": "tibia",
+    "definition": "tibia, shin or calf - not counting the claw, this is the second-most distal segment of the leg, proximal to the tarsus. Plural form is tibiae.",
+    "alternateForms": "tibiae"
+  },
+  {
+    "id": 987,
+    "term": "tomentum",
+    "definition": "short, wooly, rough hair.",
+    "alternateForms": null
+  },
+  {
+    "id": 898,
+    "term": "trachea",
+    "definition": "internal tubes filled with air that the insect uses for breathing. Sometimes visible through the gills of aquatic insects, vein-like in appearance. ",
+    "alternateForms": null
+  },
+  {
+    "id": 1065,
+    "term": "transverse",
+    "definition": "broader than long, extending across something.",
+    "alternateForms": "transversely"
+  },
+  {
+    "id": 899,
+    "term": "tubercles",
+    "definition": "rounded projections.",
+    "alternateForms": "tubercular"
+  },
+  {
+    "id": 925,
+    "term": "urogomphus",
+    "definition": "in larval Coleoptera, paired processes extending from the end of the ninth abdominal tergum that are either jointed and moveable with muscles, or unjointed and immovable. Plural form is urogomphi.",
+    "alternateForms": "urogomphi"
+  },
+  {
+    "id": 1067,
+    "term": "vascular hydrophytes",
+    "definition": "aquatic plants with tissues that can conduct water and other nutrients.",
+    "alternateForms": null
+  },
+  {
+    "id": 900,
+    "term": "ventral",
+    "definition": "the underside of the animal, opposite of dorsal.",
+    "alternateForms": "ventrally"
+  },
+  {
+    "id": 901,
+    "term": "ventral apotome",
+    "definition": "triangular or rectangular sclerite between the genae on the ventral side of the head capsule of some caddisflies; sometimes divided by a single ventral ecdysal line where the genae meet in the middle, creating two smaller apotomes on either end of the suture, the anterior and posterior apotomes.",
+    "alternateForms": null
+  },
+  {
+    "id": 1066,
+    "term": "wing pads",
+    "definition": "undeveloped and encased wings located behind the thorax of hemimetabolous insect nymphs, including mayflies, stoneflies, true bugs, and dragonflies. ",
+    "alternateForms": null
+  }
+]

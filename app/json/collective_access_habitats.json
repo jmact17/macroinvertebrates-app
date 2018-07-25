@@ -1,0 +1,37 @@
+[
+  {
+    "id": 166,
+    "idno": "lotic_erosional",
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional",
+    "prettyNamePlural": "Lotic-erosional"
+  },
+  {
+    "id": 167,
+    "idno": "lotic_depositional",
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional",
+    "prettyNamePlural": "Lotic-depositional"
+  },
+  {
+    "id": 168,
+    "idno": "lentic_limnetic",
+    "name": "lentic_limnetic",
+    "prettyNameSingular": "Lentic-limnetic",
+    "prettyNamePlural": "Lentic-limnetic"
+  },
+  {
+    "id": 169,
+    "idno": "lentic_littoral",
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral",
+    "prettyNamePlural": "Lentic-littoral"
+  },
+  {
+    "id": 170,
+    "idno": "lentic_profundal",
+    "name": "lentic_profundal",
+    "prettyNameSingular": "Lentic-profundal",
+    "prettyNamePlural": "Lentic-profundal"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 59,
+    "phylumId": 1,
+    "commonName": "Springtails",
+    "scientificName": "Collembola",
+    "etymology": null,
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 2,
+    "phylumId": 1,
+    "commonName": "Insects",
+    "scientificName": "Insecta",
+    "etymology": null,
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 58,
+    "phylumId": 1,
+    "commonName": "Malacostracans",
+    "scientificName": "Malacostraca",
+    "etymology": null,
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 63,
+    "phylumId": 62,
+    "commonName": "Bivalves",
+    "scientificName": "Bivalvia",
+    "etymology": null,
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 94,
+    "phylumId": 89,
+    "commonName": "Leeches",
+    "scientificName": "Hirudinea",
+    "etymology": null,
+    "description": null,
+    "expandedCharacterList": null
+  }
+]

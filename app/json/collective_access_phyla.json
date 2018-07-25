@@ -1,0 +1,34 @@
+[
+  {
+    "id": 89,
+    "commonName": "Annelids",
+    "scientificName": "Annelida",
+    "etymology": null,
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 1,
+    "commonName": "Arthropods",
+    "scientificName": "Arthropoda",
+    "etymology": null,
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 62,
+    "commonName": "Mollusks",
+    "scientificName": "Mollusca",
+    "etymology": null,
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 98,
+    "commonName": "Flatworms",
+    "scientificName": "Platyhelminthes",
+    "etymology": null,
+    "description": null,
+    "expandedCharacterList": null
+  }
+]

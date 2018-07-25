@@ -1,0 +1,42 @@
+[
+  {
+    "id": 172,
+    "idno": "dorsal",
+    "name": "dorsal",
+    "prettyNameSingular": "Dorsal",
+    "prettyNamePlural": "Dorsal",
+    "rank": 1
+  },
+  {
+    "id": 173,
+    "idno": "lateral",
+    "name": "lateral",
+    "prettyNameSingular": "Lateral",
+    "prettyNamePlural": "Lateral",
+    "rank": 2
+  },
+  {
+    "id": 174,
+    "idno": "ventral",
+    "name": "ventral",
+    "prettyNameSingular": "Ventral",
+    "prettyNamePlural": "Ventral",
+    "rank": 3
+  },
+  {
+    "id": 175,
+    "idno": "case",
+    "name": "case",
+    "prettyNameSingular": "Case",
+    "prettyNamePlural": "Case",
+    "rank": 4
+  },
+  {
+    "id": 176,
+    "idno": "custom",
+    "name": "custom",
+    "prettyNameSingular": "Custom",
+    "prettyNamePlural": "Custom",
+    "rank": 5
+  }
+]

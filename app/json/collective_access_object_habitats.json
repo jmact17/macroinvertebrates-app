@@ -1,0 +1,1387 @@
+[
+  {
+    "id": 5,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 7,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 7,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 19,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 32,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 35,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 35,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 35,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 74,
+    "name": "lentic_limnetic",
+    "prettyNameSingular": "Lentic-limnetic"
+  },
+  {
+    "id": 74,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 74,
+    "name": "lentic_profundal",
+    "prettyNameSingular": "Lentic-profundal"
+  },
+  {
+    "id": 74,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 74,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 77,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 77,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 79,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 108,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 108,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 110,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 110,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 114,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 114,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 116,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 116,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 116,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 118,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 118,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 120,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 120,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 121,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 121,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 122,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 122,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 130,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 130,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 132,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 132,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 134,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 136,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 136,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 138,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 138,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 142,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 144,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 147,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 151,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 151,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 157,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 157,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 159,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 161,
+    "name": "lentic_limnetic",
+    "prettyNameSingular": "Lentic-limnetic"
+  },
+  {
+    "id": 161,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 163,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 163,
+    "name": "lentic_profundal",
+    "prettyNameSingular": "Lentic-profundal"
+  },
+  {
+    "id": 163,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 164,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 165,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 165,
+    "name": "lentic_profundal",
+    "prettyNameSingular": "Lentic-profundal"
+  },
+  {
+    "id": 165,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 166,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 166,
+    "name": "lentic_profundal",
+    "prettyNameSingular": "Lentic-profundal"
+  },
+  {
+    "id": 166,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 167,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 167,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 167,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 169,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 171,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 171,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 173,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 173,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 176,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 177,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 177,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 177,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 179,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 179,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 181,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 181,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 181,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 183,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 183,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 185,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 187,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 188,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 190,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 190,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 190,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 192,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 194,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 194,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 194,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 196,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 196,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 198,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 199,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 199,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 199,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 200,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 201,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 201,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 203,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 205,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 205,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 207,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 207,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 208,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 209,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 209,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 210,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 210,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 210,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 211,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 211,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 213,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 213,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 214,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 214,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 216,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 217,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 218,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 218,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 219,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 219,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 220,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 221,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 223,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 223,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 225,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 225,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 226,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 227,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 229,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 229,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 229,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 231,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 231,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 231,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 233,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 235,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 235,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 237,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 237,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 239,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 241,
+    "name": "lentic_limnetic",
+    "prettyNameSingular": "Lentic-limnetic"
+  },
+  {
+    "id": 241,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 241,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 243,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 245,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 245,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 247,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 247,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 249,
+    "name": "lentic_limnetic",
+    "prettyNameSingular": "Lentic-limnetic"
+  },
+  {
+    "id": 249,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 250,
+    "name": "lentic_limnetic",
+    "prettyNameSingular": "Lentic-limnetic"
+  },
+  {
+    "id": 250,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 252,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 254,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 254,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 256,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 256,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 258,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 258,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 259,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 259,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 260,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 260,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 262,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 264,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 264,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 267,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 267,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 271,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 271,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 272,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 272,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 273,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 274,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 275,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 276,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 276,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 278,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 278,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 280,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 282,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 282,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 284,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 284,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 286,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 286,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 288,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 290,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 290,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 291,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 293,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 293,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 294,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 295,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 296,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 297,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 298,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 298,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 299,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 299,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 301,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 301,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 303,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 304,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 307,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 309,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 311,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 313,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 315,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 315,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 317,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 317,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 319,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 319,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 319,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 320,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 320,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 320,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 321,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 321,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 321,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 322,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 322,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 324,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 326,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 326,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 328,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 329,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 331,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 331,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 333,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 334,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 334,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 334,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 336,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 337,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 339,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 341,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 341,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 343,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 346,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 346,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 347,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 347,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 537,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 729,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 729,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 729,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 733,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 733,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 740,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 740,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 744,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 744,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 746,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 746,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 748,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 758,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 758,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 761,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 761,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 764,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 767,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 767,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 770,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 770,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 773,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  },
+  {
+    "id": 776,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 776,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 779,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 779,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 782,
+    "name": "lentic_littoral",
+    "prettyNameSingular": "Lentic-littoral"
+  },
+  {
+    "id": 784,
+    "name": "lotic_depositional",
+    "prettyNameSingular": "Lotic-depositional"
+  },
+  {
+    "id": 784,
+    "name": "lotic_erosional",
+    "prettyNameSingular": "Lotic-erosional"
+  }
+]

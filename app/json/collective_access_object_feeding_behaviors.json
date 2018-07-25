@@ -1,0 +1,2482 @@
+[
+  {
+    "id": 4,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 5,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 6,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 6,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 6,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 7,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 7,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 7,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 18,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 18,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 18,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 19,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 19,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 31,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 31,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 32,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 32,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 33,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 33,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 33,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 33,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 35,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 35,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 65,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 66,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 69,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 70,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 71,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 73,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 74,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 76,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 77,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 78,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 79,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 82,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 83,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 84,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 85,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 88,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 92,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 93,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 96,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 97,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 104,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 105,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 107,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 108,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 109,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 110,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 111,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 111,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 112,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 113,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 113,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 114,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 114,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 115,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 116,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 117,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 118,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 119,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 119,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 119,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 120,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 120,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 121,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 121,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 121,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 122,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 123,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 123,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 123,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 124,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 125,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 126,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 127,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 127,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 128,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 128,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 128,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 129,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 129,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 129,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 130,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 130,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 130,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 131,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 132,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 133,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 133,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 133,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 134,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 134,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 135,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 136,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 137,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 138,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 139,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 140,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 140,
+    "name": "piercer_herbivore",
+    "prettyNameSingular": "Piercer / Herbivore"
+  },
+  {
+    "id": 140,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 141,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 141,
+    "name": "piercer_herbivore",
+    "prettyNameSingular": "Piercer / Herbivore"
+  },
+  {
+    "id": 141,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 142,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 142,
+    "name": "piercer_herbivore",
+    "prettyNameSingular": "Piercer / Herbivore"
+  },
+  {
+    "id": 142,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 143,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 144,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 144,
+    "name": "piercer_herbivore",
+    "prettyNameSingular": "Piercer / Herbivore"
+  },
+  {
+    "id": 144,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 145,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 146,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 147,
+    "name": "piercer_herbivore",
+    "prettyNameSingular": "Piercer / Herbivore"
+  },
+  {
+    "id": 148,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 149,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 150,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 151,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 151,
+    "name": "piercer_herbivore",
+    "prettyNameSingular": "Piercer / Herbivore"
+  },
+  {
+    "id": 152,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 153,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 154,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 154,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 155,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 155,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 156,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 157,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 158,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 159,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 160,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 160,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 160,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 161,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 162,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 162,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 162,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 162,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 163,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 163,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 163,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 164,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 164,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 165,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 166,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 166,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 166,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 167,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 168,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 168,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 169,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 169,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 170,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 170,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 171,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 171,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 172,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 173,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 174,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 174,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 174,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 174,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 175,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 175,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 175,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 175,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 176,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 177,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 178,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 179,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 180,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 181,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 182,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 183,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 184,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 185,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 185,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 186,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 186,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 186,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 186,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 187,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 187,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 187,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 188,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 189,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 190,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 190,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 191,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 192,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 193,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 194,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 194,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 194,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 195,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 195,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 196,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 196,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 197,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 197,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 198,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 199,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 199,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 200,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 201,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 202,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 202,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 203,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 203,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 204,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 204,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 205,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 205,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 206,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 206,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 206,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 206,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 207,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 208,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 208,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 208,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 209,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 209,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 210,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 210,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 211,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 212,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 212,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 212,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 213,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 213,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 213,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 214,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 214,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 215,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 215,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 216,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 216,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 217,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 217,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 218,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 218,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 219,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 219,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 220,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 220,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 221,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 221,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 222,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 222,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 223,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 223,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 224,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 224,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 224,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 225,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 225,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 225,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 226,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 226,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 227,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 227,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 228,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 228,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 229,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 230,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 230,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 231,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 231,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 232,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 233,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 234,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 235,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 236,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 237,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 238,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 238,
+    "name": "piercer_herbivore",
+    "prettyNameSingular": "Piercer / Herbivore"
+  },
+  {
+    "id": 238,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 238,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 239,
+    "name": "piercer_herbivore",
+    "prettyNameSingular": "Piercer / Herbivore"
+  },
+  {
+    "id": 240,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 241,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 242,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 243,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 244,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 245,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 246,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 247,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 248,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 249,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 250,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 251,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 251,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 252,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 253,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 254,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 255,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 256,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 257,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 258,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 259,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 260,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 261,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 262,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 263,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 264,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 265,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 267,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 268,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 269,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 270,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 271,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 272,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 273,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 274,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 275,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 276,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 276,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 277,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 278,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 279,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 279,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 279,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 280,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 280,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 280,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 281,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 282,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 282,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 283,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 283,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 284,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 284,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 285,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 286,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 287,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 288,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 289,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 290,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 290,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 291,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 292,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 292,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 292,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 292,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 293,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 293,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 293,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 293,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 294,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 295,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 296,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 296,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 296,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 297,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 298,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 299,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 299,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 300,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 300,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 301,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 301,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 302,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 302,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 302,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 303,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 303,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 304,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 304,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 305,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 305,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 306,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 307,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 308,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 309,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 310,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 311,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 312,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 313,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 314,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 314,
+    "name": "piercer_herbivore",
+    "prettyNameSingular": "Piercer / Herbivore"
+  },
+  {
+    "id": 314,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 315,
+    "name": "piercer_herbivore",
+    "prettyNameSingular": "Piercer / Herbivore"
+  },
+  {
+    "id": 315,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 316,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 317,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 318,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 318,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 318,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 318,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 318,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 319,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 319,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 319,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 320,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 320,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 320,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 321,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 321,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 322,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 323,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 323,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 323,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 324,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 324,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 324,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 325,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 326,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 326,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 327,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 328,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 329,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 330,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 330,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 331,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 331,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 331,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 332,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 332,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 333,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 333,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 333,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 334,
+    "name": "collector_filterer",
+    "prettyNameSingular": "Collector / Filterer"
+  },
+  {
+    "id": 334,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 334,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 335,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 335,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 336,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 337,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 337,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 338,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 339,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 339,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 339,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 339,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 340,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 340,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 341,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 341,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 342,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 343,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 344,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 345,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 346,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 347,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 347,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 348,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 349,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 349,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 349,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 350,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 351,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 351,
+    "name": "piercer_herbivore",
+    "prettyNameSingular": "Piercer / Herbivore"
+  },
+  {
+    "id": 351,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 352,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 537,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 537,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 537,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 537,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 728,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 729,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 732,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 732,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 732,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 733,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 733,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 739,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 740,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 743,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 743,
+    "name": "piercer_herbivore",
+    "prettyNameSingular": "Piercer / Herbivore"
+  },
+  {
+    "id": 743,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 744,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 744,
+    "name": "piercer_herbivore",
+    "prettyNameSingular": "Piercer / Herbivore"
+  },
+  {
+    "id": 744,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 745,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 746,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 747,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 748,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 758,
+    "name": "piercer_predator",
+    "prettyNameSingular": "Piercer / Predator"
+  },
+  {
+    "id": 761,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 761,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 764,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 764,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 764,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 767,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 770,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 770,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 770,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 773,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 773,
+    "name": "scraper_grazer",
+    "prettyNameSingular": "Scraper / Grazer"
+  },
+  {
+    "id": 776,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 779,
+    "name": "engulfer_predator",
+    "prettyNameSingular": "Engulfer / Predator"
+  },
+  {
+    "id": 782,
+    "name": "collector_gatherer",
+    "prettyNameSingular": "Collector / Gatherer"
+  },
+  {
+    "id": 783,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 783,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  },
+  {
+    "id": 784,
+    "name": "shredder_detritivore",
+    "prettyNameSingular": "Shredder / Detritivore"
+  },
+  {
+    "id": 784,
+    "name": "shredder_herbivore",
+    "prettyNameSingular": "Shredder / Herbivore"
+  }
+]

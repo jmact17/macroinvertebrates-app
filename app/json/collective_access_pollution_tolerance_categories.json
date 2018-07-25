@@ -1,0 +1,26 @@
+[
+  {
+    "id": 142,
+    "idno": "sensitive",
+    "name": "sensitive",
+    "prettyNameSingular": "Sensitive",
+    "prettyNamePlural": "Sensitive",
+    "rank": 1
+  },
+  {
+    "id": 143,
+    "idno": "less_sensitive",
+    "name": "less_sensitive",
+    "prettyNameSingular": "Less Sensitive",
+    "prettyNamePlural": "Less Sensitive",
+    "rank": 2
+  },
+  {
+    "id": 144,
+    "idno": "tolerant",
+    "name": "tolerant",
+    "prettyNameSingular": "Tolerant",
+    "prettyNamePlural": "Tolerant",
+    "rank": 3
+  }
+]

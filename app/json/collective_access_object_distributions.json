@@ -1,0 +1,787 @@
+[
+  {
+    "id": 5,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 7,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 19,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 32,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 35,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 74,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 77,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 79,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 108,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 110,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 114,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 116,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 118,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 120,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 121,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 122,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 130,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 132,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 134,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 136,
+    "name": "southeast",
+    "prettyNameSingular": "Southeast"
+  },
+  {
+    "id": 138,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 142,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 147,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 151,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 157,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 159,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 161,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 163,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 164,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 165,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 166,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 167,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 169,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 171,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 173,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 176,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 177,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 179,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 181,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 183,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 185,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 187,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 188,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 190,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 192,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 194,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 196,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 198,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 199,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 200,
+    "name": "midwest",
+    "prettyNameSingular": "Midwest"
+  },
+  {
+    "id": 200,
+    "name": "southeast",
+    "prettyNameSingular": "Southeast"
+  },
+  {
+    "id": 201,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 203,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 205,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 207,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 208,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 209,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 210,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 211,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 213,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 214,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 216,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 217,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 218,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 219,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 220,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 221,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 223,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 225,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 226,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 227,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 229,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 231,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 233,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 235,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 237,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 239,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 241,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 243,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 245,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 247,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 249,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 250,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 252,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 254,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 256,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 258,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 259,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 260,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 262,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 264,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 267,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 271,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 272,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 273,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 274,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 275,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 276,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 278,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 280,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 282,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 284,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 286,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 288,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 290,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 291,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 293,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 294,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 295,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 296,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 297,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 298,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 299,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 301,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 303,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 304,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 307,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 309,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 311,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 313,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 315,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 317,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 319,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 320,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 321,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 322,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 324,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 326,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 328,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 329,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 331,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 333,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 334,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 336,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 337,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 339,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 341,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 343,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 346,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 347,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 537,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 729,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 733,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 740,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 744,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 746,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 748,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 758,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 761,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 764,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 767,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 770,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 773,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 776,
+    "name": "southeast",
+    "prettyNameSingular": "Southeast"
+  },
+  {
+    "id": 779,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 782,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  },
+  {
+    "id": 784,
+    "name": "widespread",
+    "prettyNameSingular": "Widespread (east of the Rocky Mtns.)"
+  }
+]

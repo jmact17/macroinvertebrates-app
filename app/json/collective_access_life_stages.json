@@ -1,0 +1,23 @@
+[
+  {
+    "id": 178,
+    "idno": "adult",
+    "name": "adult",
+    "prettyNameSingular": "Adult",
+    "prettyNamePlural": "Adult"
+  },
+  {
+    "id": 179,
+    "idno": "larva",
+    "name": "larva",
+    "prettyNameSingular": "Larva",
+    "prettyNamePlural": "Larva"
+  },
+  {
+    "id": 180,
+    "idno": "pupa",
+    "name": "pupa",
+    "prettyNameSingular": "Pupa",
+    "prettyNamePlural": "Pupa"
+  }
+]

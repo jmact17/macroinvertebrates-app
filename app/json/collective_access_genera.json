@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 5,
+    "familyId": 4,
+    "commonName": "",
+    "scientificName": "Acroneuria",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "At least 18 species of <em>Acroneuria </em>occur in North America, living in small streams to large rivers. Mature <u>larvae</u> are <u>engulfing predators</u>, feeding mainly on Chironomidae (Diptera), Ephemeroptera, Plecoptera, and Trichoptera. Adults are unusually vagile, capable of flying long distances, so that they are widely distributed. This is a genus that is often imitated as wet or dry artificial flies by fly fishers.",
+    "expandedCharacterList": "Head with three <u>ocelli</u>, brown, usually with <strong>yellow M-shaped pattern anterior to <u>median</u> <u>ocellus</u></strong>.<strong> Postocular fringe (fringe of hair around eyes) with close-set row of several thick <u>spinules</u> (small spines)</strong>. <strong><u>Occiput</u> without conspicuous <u>transverse</u> ridge or row of <u>spinules</u></strong>, except some <u>spinules</u> sparsely present near postocular fringe. Fringe along margins of <u>pronotum</u> well developed, except incomplete <u>laterally</u>. <strong>Mesal surfaces of <u>cerci</u> fringed with silky <u>setae</u>, at least <u>basally</u></strong>."
+  },
+  {
+    "id": 273,
+    "familyId": 4,
+    "commonName": "",
+    "scientificName": "Agnetina",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 274,
+    "familyId": 4,
+    "commonName": "",
+    "scientificName": "Neoperla",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 275,
+    "familyId": 4,
+    "commonName": "",
+    "scientificName": "Paragnetina",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 276,
+    "familyId": 4,
+    "commonName": "",
+    "scientificName": "Perlesta",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 272,
+    "familyId": 6,
+    "commonName": "",
+    "scientificName": "Strophopteryx",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 7,
+    "familyId": 6,
+    "commonName": "",
+    "scientificName": "Taeniopteryx",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "The genus Taeniopteryx includes 11 known North American species. <u>Larvae</u> can be found in very diverse habitats ranging from cool or warm springs, rock or sand-bottomed streams, and sometimes even in intermittent streams; usually they are in fast water, but sometimes in depositional areas at stream margins. Typically they are <u>clingers</u> and <u>sprawlers</u> in coarse sediments, wood, <u>leaf packs</u>, or other debris. Sometimes they allow algae, fungus, and other debris to build up on their back to aid in camouflage, giving them a dirty appearance.",
+    "expandedCharacterList": "<strong><u>Coxa</u> each with single <u>digitiform</u>, segmented gill at mesal side of base.</strong>"
+  },
+  {
+    "id": 294,
+    "familyId": 18,
+    "commonName": "",
+    "scientificName": "Arctopsyche",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 19,
+    "familyId": 18,
+    "commonName": "",
+    "scientificName": "Cheumatopsyche",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "This common and widespread genus includes more than 40 species in North America. Like other members of the Hydropsychidae, they build fixed retreats with attached nets for filter feeding. Food includes algae, detritus, and some small invertebrate animals. They prefer streams with lots of riffles, especially warmer streams and rivers. Physically, they are similar in appearance to other hydropsychids, but can be distinguished because their <u>frontoclypeus</u> is usually notched; if it isn’t, the pair of intersegmental <u>sclerites</u> behind the <u>prosternum</u> are small, or both of these characters are usually present. ",
+    "expandedCharacterList": "Mandibles not flanged. <strong><u>Frontoclypeus</u> usually notched, or <u>thoracic</u> sternum with pair of small intersegmental <u>sclerites</u> behind <u>prosternum</u>, or usually both of these characters present. </strong><u>Ventrally</u>, <u>genae</u> divided mostly by only one fine longitudinal <u>ecdysial</u><u> line</u>. Anterior <u>ventral apotome</u> without bump along the <u>distal</u> margin. Posterior <u>ventral apotome</u> small, inconspicuous, no longer than wide. <u>Foretrochantins</u> forked. Abdominal gills each with about 10 branches arising near <u>distal</u> end. Abdominal segment VIII with pair of <u>sclerites</u> <u>ventrally</u>. <u>Sclerites</u> on abdominal sternum IX each notched along posterior edge. "
+  },
+  {
+    "id": 295,
+    "familyId": 18,
+    "commonName": "",
+    "scientificName": "Diplectrona",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 296,
+    "familyId": 18,
+    "commonName": "",
+    "scientificName": "Hydropsyche",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "The genus <em>Hydropsyche </em>is the largest in the Hydropsychidae family, including 80 species in America North of Mexico. <u>Larvae</u> build stationary retreats of silk, detritus, and rock fragments. A part of the entrance of the retreat often has a circular silken net woven to its upstream end, protruding across the current to filter bits of suspended food from the water. This how they earned their common name, “net spinners.” A <u>larva</u> defends its territory by making warning sounds as it scrapes its front <u>femora</u> against washboard-like files on the underside of the head.",
+    "expandedCharacterList": null
+  },
+  {
+    "id": 297,
+    "familyId": 18,
+    "commonName": "",
+    "scientificName": "Macrostemum",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 32,
+    "familyId": 31,
+    "commonName": "",
+    "scientificName": "Isonychia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "<em>Isonychia </em>is the only genus in the family Isonychiidae. There are about 15 known North American species. They have a widespread distribution east of the Rocky Mountains, and tend to be found swimming in fast flowing water. They have a <u>fusiform</u>, minnow-like body shape, making them strong <u>swimmers</u> and <u>clingers</u>. Long <u>setae</u> (hair) on the inner margins of the <u>femora</u> and <u>tibia</u> of <u>forelegs</u> are used for filter feeding, a trait unique to this group of mayflies. They are important in the trout and fly fishing community due to their frequent but periodic hatches (emergence of <u>subimagos</u>) in June–October.    ",
+    "expandedCharacterList": "<em>Isonychia </em>is the only genus in the family Isonychiidae, therefore the family level and genus level characters are the same. "
+  },
+  {
+    "id": 298,
+    "familyId": 33,
+    "commonName": "",
+    "scientificName": "Ironoquia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 299,
+    "familyId": 33,
+    "commonName": "",
+    "scientificName": "Platycentropus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 35,
+    "familyId": 33,
+    "commonName": "",
+    "scientificName": "Pycnopsyche",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "<em>Pycnopsyche </em>includes about 18 species, mostly from eastern North America. <u>Larvae</u> can be relatively large, up to 29 mm. The case may be made of plant or rock material, often a combination of the two. Species in this genus tend to prefer cool shaded streams, or small rivers, typically in wooded areas. <u>Larvae</u> are <u>scrapers</u> and <u>shredding detritivores</u>, ecologically important for breaking down leaf litter in the stream throughout the fall and winter. <u>Larvae</u> can be identified by the following characters: abdominal segment I with one tall vertical tear-drop-shaped <u>sclerite</u> at posterior edge of base of each <u>lateral</u> hump, almost as tall as hump. Abdominal gills mostly single. Chloride epithelia, each recognizable as oval region outlined with very fine dark line, are present only on abdominal sterna III–VII.",
+    "expandedCharacterList": "<u>Mesonotum</u> with <u>sclerotized</u> plates each about as long as wide. <u>Metanotal</u> <u>sa1</u> <u>sclerites</u> not fused although often touching. <strong>Abdominal segment I with one tall vertical tear-drop-shaped <u>sclerite</u> at posterior edge of base of each <u>lateral</u> hump, almost as tall as hump. Abdominal gills mostly single. Chloride epithelia are present only on abdominal sterna III–VII</strong>. Abdominal <u>tergum</u> IX with only one hair on each side of <u>sclerite</u>. Case a tube of rock fragments or plant materials, variously constructed, sometimes 3-sided in earlier instars."
+  },
+  {
+    "id": 66,
+    "familyId": 65,
+    "commonName": "",
+    "scientificName": "Elliptio",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 69,
+    "familyId": 68,
+    "commonName": "Asian Clam",
+    "scientificName": "Corbicula",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 71,
+    "familyId": 70,
+    "commonName": "",
+    "scientificName": "Pisidium",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 77,
+    "familyId": 76,
+    "commonName": "",
+    "scientificName": "Gammarus",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 79,
+    "familyId": 78,
+    "commonName": "",
+    "scientificName": "Podura",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 83,
+    "familyId": 82,
+    "commonName": "",
+    "scientificName": "Physa",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 85,
+    "familyId": 84,
+    "commonName": "",
+    "scientificName": "Helisoma",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 787,
+    "familyId": 96,
+    "commonName": "",
+    "scientificName": "Placobdella",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 108,
+    "familyId": 107,
+    "commonName": "",
+    "scientificName": "Asellus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 110,
+    "familyId": 109,
+    "commonName": "Dark Fishflies",
+    "scientificName": "Nigronia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "The genus <em>Nigronia </em>includes two North American species, <em>N</em>. <em>fasciata </em>and <em>N. serricornis</em>. They are found in <u>lotic-erosional</u> and -<u>depositional</u> habitats, usually in streams with coarse sediments and detritus, often <u>clinging</u>/<u>climbing</u> under or on rocks, especially under bark or in crevices of woody debris. Like other hellgrammites, they are <u>engulfing predators</u>. These species are found throughout eastern and central United States and Canada.",
+    "expandedCharacterList": "Head without conspicuous color pattern.<strong> Abdominal <u>ventral</u> gill tufts absent.</strong> Last pair of <u>dorsal</u> abdominal <u>spiracles</u> positioned at <u>distal</u> ends of short respiratory tubes and are about same size as other <u>spiracles</u>; <strong>respiratory tubes much shorter than <u>anal prolegs</u></strong>."
+  },
+  {
+    "id": 112,
+    "familyId": 111,
+    "commonName": "",
+    "scientificName": "Sialis",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 114,
+    "familyId": 113,
+    "commonName": "",
+    "scientificName": "Helichus",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": "This is a widespread genus with 7 North American species. Adults are <u>clingers</u> in fast water, feeding generally as <u>scrapers</u> and <u>shredders-herbivores</u>.",
+    "expandedCharacterList": "Antennae widely separated at bases.<strong> 2nd antennal segment enlarged, and shield-like, protecting remaining segments which may be retracted beneath it.</strong> <u>Pronotum</u> without groove near <u>lateral</u> margin. Parts of body and legs with fine wooly hair. Hairiness of last abdominal sternite different from other sternites, often bare. "
+  },
+  {
+    "id": 116,
+    "familyId": 115,
+    "commonName": "",
+    "scientificName": "Agabus",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": "There are at least 106 species of this genus in North America. Adults and <u>larvae</u> inhabit both fast and slow streams and <u>littoral</u> zones of <u>lentic</u> habitats. They are <u>piercing predators</u>. Adults are <u>climbers</u> on rooted plants and efficient <u>swimmers</u>.",
+    "expandedCharacterList": "Moderate-sized, 5 to 14 mm long, and black or brown, with <u>elytra</u> appearing leathery with small cracks or net-like. <u>Pronotum</u> margined. Males with <u>tarsi</u> of front legs swollen and bearing dense <u>setae</u> tipped with minute discs. Hind claws of equal length. <u>Meta</u>coxal lines not strongly convergent anterior of <u>meta</u>coxal lobes; <u>elytra</u> without longitudinal striae; meta<u>femora</u> with or without <u>setae</u> on postero<u>apical</u> angles."
+  },
+  {
+    "id": 118,
+    "familyId": 115,
+    "commonName": "",
+    "scientificName": "Copelatus",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": "<u>Larvae</u> and adults occur in slow-moving streams and among rooted plants of <u>lentic</u> habitats; both life stages are <u>piercing predators</u>. Adults are efficient <u>swimmers</u> and <u>divers</u>.",
+    "expandedCharacterList": "Smaller beetles 3.5-5.0 mm long. <u>Elytra</u> with longitudinal <u>striae</u>. <u>Meta</u>coxal lines strongly convergent and almost contacting <u>medial</u> line anterior of <u>meta</u>coxal lobes, then diverging anteriorly. Meta<u>femora</u> lacking groups of <u>setae</u> at postero<u>apical</u> angles."
+  },
+  {
+    "id": 120,
+    "familyId": 119,
+    "commonName": "",
+    "scientificName": "Ancyronyx variegatus",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 121,
+    "familyId": 119,
+    "commonName": "",
+    "scientificName": "Dubiraphia",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 122,
+    "familyId": 119,
+    "commonName": "",
+    "scientificName": "Macronychus glabratus",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 130,
+    "familyId": 119,
+    "commonName": "",
+    "scientificName": "Microcylloepus",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 132,
+    "familyId": 119,
+    "commonName": "",
+    "scientificName": "Optioservus",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": "This is a widespread genus with 13 North American species. <u>Larvae</u> and adults live in fast and slow portions of streams, <u>clinging</u> to substrate. Adults are <u>collectors-gatherers</u> of fine organic particles.",
+    "expandedCharacterList": "Antennae filiform, 10-11 segmented. <u>Pronotum</u> with <u>lateral</u> serrations, small teeth on <u>basal</u> margin, and short longitudinal <u>basal</u> <u>carinae</u>. Fore<u>tibiae</u> each with fringe of <u>tomentum</u>. Tarsal claws not unusually long or prominent. Hind <u>coxae</u> <u>transverse</u>. Pair of teeth arising from <u>lateral</u> margins of abdominal sternum IV clasping their respective epi<u>pleura</u> of the <u>elytra</u>."
+  },
+  {
+    "id": 134,
+    "familyId": 119,
+    "commonName": "",
+    "scientificName": "Stenelmis",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 136,
+    "familyId": 135,
+    "commonName": "",
+    "scientificName": "Dineutus",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 138,
+    "familyId": 135,
+    "commonName": "",
+    "scientificName": "Gyrinus",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": "This is a large and widespread genus with 41 species in North America. Adults are <u>swimmers</u> on the water surface (<u>neuston</u>) and <u>divers</u> in <u>lentic</u> habitats and slower parts of streams, scavengers and predators of small insects.",
+    "expandedCharacterList": "<u>Dorsal</u> and <u>ventral</u> <u>compound eyes</u> divided (“four-eyed” appearance). Upper eyes are separated from <u>lateral</u> margin of head by a distance equal to half the width of eye or more. <u>Pronotum</u> and <u>elytron</u> entirely <u>glabrous</u> (without hair). Each <u>elytron</u> with 11 conspicuous <u>striae</u>. <u>Scutellum</u> exposed, not covered or obscured. <u>Meso-</u> and <u>meta</u>tarsal segments 2, 3, and 4 are much wider than long. Body relatively small, about 4-7 mm in length."
+  },
+  {
+    "id": 142,
+    "familyId": 140,
+    "commonName": "",
+    "scientificName": "Peltodytes",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": "This widespread genus includes 18 North American species. Adults and <u>larvae</u> live mostly among rooted plants in <u>lentic</u> habitats, although some occur in fast-flowing streams. Adults are <u>swimmers</u>, <u>climbers</u>, and <u>clingers</u> that <u>pierce</u> and <u>shred</u> living plant tissue and prey on other insects.",
+    "expandedCharacterList": "<strong><u>Pronotum</u> rounded with distinct black blotch on each side of middle near posterior margin</strong>. Last segment of both <u>maxillary</u> and <u>labial</u> <u>palps</u> cone-shaped, as long as or longer than next to last segment. <u>Elytra</u> with fine <u>sutural</u> <u>striae</u> in at least <u>apical</u> half. <strong>Hind coxal plates large, covering all of abdomen <u>ventrally</u> except last abdominal sternite</strong>."
+  },
+  {
+    "id": 144,
+    "familyId": 143,
+    "commonName": "",
+    "scientificName": "Berosus",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 151,
+    "familyId": 143,
+    "commonName": "",
+    "scientificName": "Tropisternus",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": "This widespread genus includes 14 North American species. Adults and <u>larvae</u> occur in slow streams and <u>lentic</u> habitats. Adults are <u>swimmers</u>, <u>divers</u>, and <u>climbers</u> that feed as <u>piercing herbivores</u> and as <u>collectors-gatherers</u> of small bits of organic matter.",
+    "expandedCharacterList": "Adults are usually less than 12 mm in length. The <u>prosternum</u> has a small longitudinal groove. The <u>meso</u><u>-</u> and <u>metasternum</u> has a long, continuous, sharp spine extending between the hind <u>coxae</u>."
+  },
+  {
+    "id": 157,
+    "familyId": 156,
+    "commonName": "",
+    "scientificName": "Atherix",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 159,
+    "familyId": 158,
+    "commonName": "",
+    "scientificName": "Blepharicera",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 161,
+    "familyId": 160,
+    "commonName": "",
+    "scientificName": "Probezzia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "This widespread genus of biting midges includes 24 North American species. It is found in lakes near sandy shores, among rooted plants, and swimming in open water.",
+    "expandedCharacterList": "<u>Larva</u> long, slender, shiny, almost featureless. Head capsule <u>sclerotized</u>, more than 1.8–2.0 times as long as wide, and conspicuously constricted anteriorly. <u>Sclerotized</u> posterior collar of head with half-circle expansion. <u>Dorsal</u> <u>tubercles</u> and <u>setae</u> absent. <u>Setae</u> of last abdominal segment (anal division) about 1/3 length of segment.  <u>Anal proleg</u> absent."
+  },
+  {
+    "id": 163,
+    "familyId": 162,
+    "commonName": "",
+    "scientificName": "Chironomus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 164,
+    "familyId": 162,
+    "commonName": "",
+    "scientificName": "Diamesa",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 165,
+    "familyId": 162,
+    "commonName": "",
+    "scientificName": "Orthocladius",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 166,
+    "familyId": 162,
+    "commonName": "",
+    "scientificName": "Tanytarsus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 169,
+    "familyId": 168,
+    "commonName": "",
+    "scientificName": "Aedes",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 171,
+    "familyId": 170,
+    "commonName": "",
+    "scientificName": "Dixa",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 173,
+    "familyId": 172,
+    "commonName": "",
+    "scientificName": "Hemerodromia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 537,
+    "familyId": 174,
+    "commonName": "Shore Flies",
+    "scientificName": "Ephydridae",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "There are at least 72 genera with 464 species of shore and brine flies occurring in North America. Usually they live in lentic-littoral habitats among vascular hydrophytes or floating algal mats, but they are also found on marine shores or on lotic margins, sometimes in puddles, and sometimes in extreme habitats such as thermal springs, high salinity lakes, or pools of crude or waste petroleum. Typically they are burrowers or sprawlers, but sometimes climbers or planktonic. They feed as collectors-gatherers (often of dung or decomposing snails or other carrion), leaf-mining shredders-herbivores, scrapers, or engulfing predators.",
+    "expandedCharacterList": "External sclerotized portions of head absent, leaving only internal skeleton. Integument of posterior abdominal segments covered with setae or spinules or seta-bearing tubercles on some segments. Anal division somewhat tapered, usually ending in one or two elongate retractile respiratory tubes lacking dorsal tubercles, with spiracular plates distinctly separated."
+  },
+  {
+    "id": 176,
+    "familyId": 175,
+    "commonName": "",
+    "scientificName": "Antocha",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 177,
+    "familyId": 175,
+    "commonName": "",
+    "scientificName": "Hexatoma",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 179,
+    "familyId": 178,
+    "commonName": "",
+    "scientificName": "Musca",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 181,
+    "familyId": 180,
+    "commonName": "",
+    "scientificName": "Dicranota",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 183,
+    "familyId": 182,
+    "commonName": "",
+    "scientificName": "Telmatoscopus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 185,
+    "familyId": 184,
+    "commonName": "",
+    "scientificName": "Ptychoptera",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 187,
+    "familyId": 186,
+    "commonName": "",
+    "scientificName": "Prosimulium",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 188,
+    "familyId": 186,
+    "commonName": "",
+    "scientificName": "Simulium",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "This widespread genus includes at least 154 North American species. <u>Larvae</u> need moving water to feed with the filtering fans on their heads, either in streams or in wave-washed shores of lakes.",
+    "expandedCharacterList": "Fans of <u>setae</u> present on <u>labrum</u>, if closed, stalks still conspicuous. Head nearly parallel-sided. Antenna with proximal and/or <u>medial</u> segments lightly to darkly pigmented or, if colorless, then post<u>genal</u> cleft (<u>median</u> notch in postero<u>ventral</u> margin of head) extended anteriorly to, or beyond, <u>hypstomal</u><u> groove</u> (<u>transverse</u> line in exoskeleton between <u>ventral</u> bases of mandibles). Remaining characters needing study of slide-mounted <u>hypostoma</u> (jagged projection below mandibles): <u>Hypostoma</u> without intermediate teeth; paralateral teeth present. <u>Hypostoma</u> with <u>lateral</u> and sublateral teeth not clustered on prominent, common lobes (<u>median</u> and <u>lateral</u> teeth can be extended beyond sublateral teeth, but not prominent lobes). <u>Hypostoma</u> with <u>apex</u> of <u>median</u> tooth extended anteriorly to, or beyond <u>apices</u> of <u>lateral</u> teeth; sublateral teeth variously but distinctly posterior to <u>median</u> and <u>lateral</u> teeth. "
+  },
+  {
+    "id": 190,
+    "familyId": 189,
+    "commonName": "",
+    "scientificName": "Stratiomys",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 192,
+    "familyId": 191,
+    "commonName": "",
+    "scientificName": "Chrysogaster",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 194,
+    "familyId": 193,
+    "commonName": "",
+    "scientificName": "Tipula",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "This widespread genus includes more than 30 North American species in freshwater habitats. <u>Larvae</u> of aquatic species live in both fast- and slow-flowing portions of streams and in the weedy edges of lakes, where they <u>burrow</u> in detritus. There they usually shred dead plant material, but can also <u>shred</u> living plant tissue and gather tiny bits of organic matter. Some may also eat algae or small animals that are on the plant material they are shredding.",
+    "expandedCharacterList": "Body with short hairs evenly distributed. Lobes of spiracular disk short, rarely more than twice their <u>basal</u> width, with sparse or short hairs. Distance between posterior <u>spiracles</u> as great or greater than diameter of one <u>spiracle</u>."
+  },
+  {
+    "id": 196,
+    "familyId": 195,
+    "commonName": "",
+    "scientificName": "Ameletus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "<em>Ameletus </em>was previously included among genera of the Siphloneuridae, is now the only genus in the family Ameletidae. There are 34 known species in North America, most from west of the Rocky Mountains. <u>Larvae</u> are <u>fusiform</u> or streamlined in body shape, making them strong <u>swimmers</u> and <u>clingers</u>. They are <u>collector-gatherers</u> or <u>scraper-grazers</u>, feeding on detritus and diatoms. They tend to be found in cold, fast-flowing mountain streams, especially along edges, beneath undercut banks, and in root masses. The genus can often be confused with <em>Isonychia</em> or <em>Baetis</em>, but can be distinguished by its <u>maxillae</u>, each with a row of golden <u>pectinate</u> spines.",
+    "expandedCharacterList": "Body not flat. <u>Labrum</u> with notched <u>distal</u> margin and <strong><u>maxillae</u> each with row of golden <u>pectinate</u> spines</strong>. Tusks absent. <u>Thoracic</u> <u>notum</u> not turtle-shell-shaped. Abdominal <u>terga</u> usually without paired <u>tubercles</u>. Abdominal segment two with gills similar to those on other segments but NOT <u>operculate</u>/semioperculate; with single <u>lamellae</u> more or less oval and with a <u>sclerotized</u> band along <u>lateral</u> margin and usually with a similar <u>sclerotized</u> band on or near mesal margin; usually not fringed; never ending in filaments or points. <u>Forelegs</u> without long hairs. <u>Tibiae</u> and <u>tarsi</u> not bowed; claws usually not long and slender. Claws of all legs similar, usually sharply pointed, variable in length. Three tails about same length."
+  },
+  {
+    "id": 198,
+    "familyId": 197,
+    "commonName": "",
+    "scientificName": "Acentrella",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 199,
+    "familyId": 197,
+    "commonName": "",
+    "scientificName": "Baetis",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "This common and widespread genus includes at least 21 North American species. The <u>larvae</u> live in both rapid and quiet stretches of streams and among rooted plants at the edges of ponds and lakes. They have streamlined bodies that enable them to swim rapidly through the water; when resting, they <u>cling</u> or <u>climb</u> on rocks and other stable substrates. Mainly, they feed as <u>collectors-gatherers</u> of diatoms and tiny bits of organic detritus, occasionally <u>scraping</u> these materials from rock surfaces.",
+    "expandedCharacterList": "From among those of many genera of Baetidae, larvae distinguished by presence of <strong>well-developed <u>medial</u> corner of <u>maxillary</u> <u>palp</u> segment 2</strong>, villopore present on <u>ventral</u> base of some or all <u>femora</u>, tarsal claws each less than half as long as its <u>tarsus</u> and with single row of <u>denticles</u>, absence or presence of tiny hind <u>wing pads</u>, gills on abdominal segment 1-7 and simple (not folded on themselves), <strong><u>median</u> <u>caudal filament</u> (middle tail) longer than abdominal segment 10 but shorter than <u>cerci</u> (<u>lateral</u> tails)</strong>."
+  },
+  {
+    "id": 200,
+    "familyId": 197,
+    "commonName": "",
+    "scientificName": "Heterocloeon",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 203,
+    "familyId": 202,
+    "commonName": "",
+    "scientificName": "Baetisca",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 205,
+    "familyId": 204,
+    "commonName": "",
+    "scientificName": "Caenis",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "<u>Larvae</u> of the 12 North American species of this genus prefer slow-moving or stagnant water where there is an abundance of silt, and loose sediment, and are often found <u>sprawled</u> on/in the silt or <u>climbing</u> among the plants. They feed by <u>collecting and gathering</u> tiny bits of organic matter or by <u>scraping</u> algae and <u>biofilm</u> from rocks and other substrates in their habitat. The adults and <u>subimagos</u> of this group are short-lived and hatch (molt into adults) in large numbers. They are imitated by fly fishermen; however, you must time your fishing trip just right or you will miss the \"hatch.\" In addition, during the hatch, fish often feed almost exclusively on these insects, so fly-fishermen without matching tied-flies, are not likely to be successful.",
+    "expandedCharacterList": "<u>Maxillary</u> and <u>labial</u> <u>palps</u> three-segmented. Segments 2 and 3 of <u>labial</u> <u>palps</u> about same length or 3 shorter than 2, with few long <u>setae</u> and spines. <u>Ocelli</u> without neighboring <u>tubercles</u>. All legs subequal in length. Fore<u>tibiae</u> and <u>tarsi</u> each with row of stout spines along inner margin. Outer margins of <u>operculate gills</u> fringed with long <u>setae</u>."
+  },
+  {
+    "id": 207,
+    "familyId": 206,
+    "commonName": "",
+    "scientificName": "Attenella",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 208,
+    "familyId": 206,
+    "commonName": "",
+    "scientificName": "Drunella",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 209,
+    "familyId": 206,
+    "commonName": "",
+    "scientificName": "Ephemerella",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "There are 18 species of this common and widespread genus known in North America; in the East, adults of some of these are called Hendricksons or Sulphurs by fly fishers. <u>Larvae</u> inhabit all types of streams, where they <u>cling</u> to the substrate while collecting small particles of organic matter or <u>scraping</u> diatoms and algae and other <u>biofilm</u> from rocks and other surfaces.",
+    "expandedCharacterList": "<strong><u>Maxillary</u> <u>palps</u> well developed. </strong>Fore<u>femora</u> thicker than fore<u>tibiae</u>, lacking conspicuous anterior <u>tubercles</u>, spurs, or spines, but almost always with some bristle-like or robust <u>setae</u> on top. <strong>Gills arising from posterior margins of abdominal segments 3-7. </strong>Main part of <u>ventral</u> <u>lamella</u> of each abdominal gill 6 entire, not cleft. <strong><u>Caudal</u> filaments (tails) with many interfacing fine <u>setae</u> (at least 3 or 4 on a side of each segment)</strong>."
+  },
+  {
+    "id": 210,
+    "familyId": 206,
+    "commonName": "",
+    "scientificName": "Eurylophella",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 211,
+    "familyId": 206,
+    "commonName": "",
+    "scientificName": "Serratella",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 213,
+    "familyId": 212,
+    "commonName": "",
+    "scientificName": "Ephemera",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 214,
+    "familyId": 212,
+    "commonName": "",
+    "scientificName": "Hexagenia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "There are at least 7 species of this genus in North America, of which <em>Hexagenia limbata</em> is the most widespread and most famous among fly fishers, who eagerly anticipate a large \"Hex hatch\" of <u>subimagoes</u> (\"<u>duns</u>\") in <u>lotic-depositional</u> stretches of rivers and lakes with the appropriate marl substrate. The consistency of the sand-silt marl must be loose enough for <u>larvae</u> to burrow but dense enough for the walls of the burrow not to collapse. Undulation of a <u>larva</u>'s body and the feathery gills on its back moves oxygenated water and fine particles of food through the U-shaped burrow. The food is gathered from the sides of the burrow or filtered from the water.",
+    "expandedCharacterList": "<strong>Frontal process of head rounded or truncate</strong>, never forked or pointed. Most antennal segments with whorls of <u>setae</u>, much longer than an antennal segment. Abdominal segment 1 with pair of small, forked, unfringed gills. "
+  },
+  {
+    "id": 216,
+    "familyId": 215,
+    "commonName": "",
+    "scientificName": "Epeorus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 217,
+    "familyId": 215,
+    "commonName": "",
+    "scientificName": "Heptagenia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 218,
+    "familyId": 215,
+    "commonName": "",
+    "scientificName": "Leucrocuta",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 219,
+    "familyId": 215,
+    "commonName": "",
+    "scientificName": "Maccaffertium",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "There are at least 16 species with <u>larvae</u> found in both fast and slow <u>lotic</u> (flowing water) habitats of North America. Fly fishers know the <u>duns</u> of various species as \"March Browns\" and \"Light and Dark Cahills.\" <u>Larvae</u> are <u>clingers</u> in these streams and feed primarily as <u>scrapers</u> of attached algae, diatoms, and other <u>biofilm</u>, although they may simply collect fine organic particles facultatively.",
+    "expandedCharacterList": "<u>Maxillary</u> <u>palps</u> rarely protrude at sides of head. Second segment of each <u>maxillary</u> palp is short and inconspicuous. <strong>Gills on abdominal segments 1–6 have truncated <u>distal</u> ends, each with at least part of <u>apical</u> edge straight</strong>. <u>Fibrilliform</u> portion of gills on abdominal segments 2–6 each with many conspicuous filaments. Gills on abdominal segments 4–6 positioned <u>laterally</u>, and usually with broad <u>lamellae</u> (flat plate-like portion of gills). <strong>Gills on abdominal segment 7 reduced to slender filaments,</strong> and <u>trachea</u> absent or with few or no <u>lateral</u> branches. Posterior end of abdomen with three well-developed tails."
+  },
+  {
+    "id": 220,
+    "familyId": 215,
+    "commonName": "",
+    "scientificName": "Rhithrogena",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 221,
+    "familyId": 215,
+    "commonName": "",
+    "scientificName": "Stenacron",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 223,
+    "familyId": 222,
+    "commonName": "",
+    "scientificName": "Tricorythodes",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "There are 13 North American species in this genus. <u>Larvae</u> and adults are small, requiring fly fishers to tie their imitations of \"trichos\" on small hooks (size 22–26, depending on the species). <u>Larvae</u> sprawl on sediments in <u>lotic-depositional</u> and <u>lentic</u>-<u>littoral</u> habitats, or <u>cling</u> to stable substrates in those habitats. They feed as <u>collectors-gatherers</u> of tiny fragments of organic matter, occasionally <u>scraping</u> algae, diatoms, and other <u>biofilm</u> from stable substrates.",
+    "expandedCharacterList": "<strong>Head not wider than <u>pronotum</u>, without <u>frontoclypeal</u> or <u>genal</u> projections, males with small eyes. </strong>Submentum outer <u>apical</u> margins with long <u>setae</u>. <strong><u>Dorsal</u> surfaces of <u>femora</u> without <u>spatulate</u> <u>setae</u>. </strong><strong>Tarsal claws with many tiny teeth</strong> in one row along <u>basal</u> edge. <strong>Length of hind <u>femora</u> only about 1/2 to 3/4 the length of hind <u>tibiae</u> and <u>tarsi</u></strong>. <strong>Hind <u>wing pads</u> absent</strong>. <strong><u>Dorsally</u>, abdominal segments 1–6 without little spines along posterior edges</strong>."
+  },
+  {
+    "id": 225,
+    "familyId": 224,
+    "commonName": "",
+    "scientificName": "Habrophlebia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 226,
+    "familyId": 224,
+    "commonName": "",
+    "scientificName": "Leptophlebia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 227,
+    "familyId": 224,
+    "commonName": "",
+    "scientificName": "Paraleptophlebia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "This common and widespread genus includes about 39 species in North America. <u>Larvae</u> live on sediments and detritus in <u>lotic-erosional</u> (fast-water) habitats, where they are efficient <u>swimmers</u> and are <u>clingers</u> and <u>sprawlers</u> on the substrate. The feed as <u>collectors-gatherers</u> on coarse detritus and diatoms, occasionally shredding larger <u>detritus</u>. Fly fishers know different species as Blue Quills and Mahogany Duns.",
+    "expandedCharacterList": "<u><strong>Labrum</strong></u> <strong>with shallow, <u>median</u> notch along <u>distal</u> margin</strong>. <strong>Abdominal gills on segments 1–7 of similar shape, forked, but those on first segment slightly smaller. </strong>Tusks absent. <u>Mesonotum</u> without anterolateral lobes of Neoephemeridae. Hind <u>wing pads</u> absent. Gills on abdominal segment 2 four-sided, and meeting or almost meeting <u>medially</u> (but NOT fused), and at least partially covering succeeding pairs (semi<u>operculate</u>). Plate-like gills on abdominal segments 3–6 with fringed borders. Mature <u>larvae</u> 2–8 mm in length, not including tails."
+  },
+  {
+    "id": 229,
+    "familyId": 228,
+    "commonName": "",
+    "scientificName": "Siphloplecton",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 231,
+    "familyId": 230,
+    "commonName": "",
+    "scientificName": "Ephoron",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 233,
+    "familyId": 232,
+    "commonName": "",
+    "scientificName": "Anthopotamus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 235,
+    "familyId": 234,
+    "commonName": "",
+    "scientificName": "Siphlonurus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 237,
+    "familyId": 236,
+    "commonName": "",
+    "scientificName": "Belostoma",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 239,
+    "familyId": 238,
+    "commonName": "",
+    "scientificName": "Hesperocorixa",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 241,
+    "familyId": 240,
+    "commonName": "",
+    "scientificName": "Gerris",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 243,
+    "familyId": 242,
+    "commonName": "",
+    "scientificName": "Pelocoris",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": "The family Naucoridae includes 5 North American genera with roughly 20 species. However, <em>Pelocoris </em>is the only genus found in the East. <em>Pelocoris </em>typically inhabits ponds or quiet water. They are generally thought as <u>clingers</u>, but are good <u>swimmers</u> as well. They are <u>piercing predators</u>, feeding on other small invertebrates. Adults of some species have up to four million tiny <u>hydrophobic</u> hairs per square mm that help hold a bubble of air (plastron) against the <u>ventral</u> <u>spiracles</u> while underwater. Some species also fan this plastron with their hind legs, to increase the current moving across it, and thus increase the diffusion of oxygen from the water.",
+    "expandedCharacterList": "<strong>Similar in appearence to Belostomatidae (giant water bugs) except that margins of eyes are contiguous with anterior margin of head in Naucoridae</strong>. Beak cylindrical and 3- or 4-segmented. <u>Gula</u> present. Antennae shorter than head and located beneath eyes, not readily visible <u>dorsally</u>. Middle and <u>hind legs</u> have fringe-like hairs, useful for swimming. <strong>Legs are <u>raptorial</u>, suitable for use in predation, with broad <u>femora</u>, and weakly <u>convex</u> <u>dorsally</u>.</strong>"
+  },
+  {
+    "id": 245,
+    "familyId": 244,
+    "commonName": "",
+    "scientificName": "Ranatra",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 247,
+    "familyId": 246,
+    "commonName": "",
+    "scientificName": "Notonecta",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 249,
+    "familyId": 248,
+    "commonName": "",
+    "scientificName": "Microvelia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 250,
+    "familyId": 248,
+    "commonName": "",
+    "scientificName": "Rhagovelia",
+    "lifeStageName": "adult",
+    "lifeStagePrettyName": "Adult",
+    "description": "Usually when we think of striders, we picture insects skimming across the surface of still, open water. However, members of the genus <em>Rhagovelia </em>are different; they are sometimes nicknamed “Riffle Bugs” as they tend to show habitat preference towards surface water of stream riffles, or just downstream of them. There are about 10 species in North America. Members of this genus, like the rest of their family, are <u>piercing predators</u> and sometimes scavengers. They wait at the surface, feeding on dead or living small invertebrates that float or swim by.",
+    "expandedCharacterList": "<strong><u>Meso</u>thoracic <u>tarsi</u> deeply cleft, with flattened leaf-like claws, and <u>plumose</u> swimming hairs fanning from base of cleft</strong>. Hind <u>tarsi</u> each 2- or 3-segmented."
+  },
+  {
+    "id": 252,
+    "familyId": 251,
+    "commonName": "",
+    "scientificName": "Parapoynx",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "There are 7 North American species of this genus. <u>Larvae</u> of <em>Parapoynx </em>feed on pondweed (<em>Potamogeton</em>), watermilfoil (<em>Myriophyllum</em>), waterhyssop (<em>Bacopa</em>), eelgrass/tape grass (<em>Vallisneria</em>), and broadleaf plants such as yellow water-lily (<em>Nuphar</em>), water lily (<em>Nymphaea</em>), water-shield (<em>Brasenia</em>), floating-heart (<em>Nymphoides</em>), golden-club (<em>Orontium</em>), and other freshwater species. They often cut circular pieces from the edges of broadleaf species to cover themselves while feeding on the tops of the leaves, other times drilling from the top of the stem downward. Pupation occurs in a silk-lined chamber under the leaf patch or in the plant stem.",
+    "expandedCharacterList": "<strong>Body with <u>filamentous</u> gills, all branched.</strong>"
+  },
+  {
+    "id": 254,
+    "familyId": 253,
+    "commonName": "Spotted Darners",
+    "scientificName": "Boyeria",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "Two species of <em>Boyeria </em>occur in eastern North America. Unlike most genera of Aeshnidae, larvae of <em>Boyeria </em>are found in smaller, slowly flowing streams in woods, where they hide under rocks and heavy accumulations of leaves and sticks. <u>Larvae</u> are mostly dark except for banded legs and a conspicuous pale spot on the top of abdominal segment 8. Before molting to the adult stage, <u>larvae</u> crawl out of the water, about a foot (30 cm) above the water line, where they grasp the solid substrate, split their <u>larval</u> exoskeletons on the <u>dorsal</u> midline, and slowly emerge as adults.",
+    "expandedCharacterList": "<strong>Lobes at <u>apical</u> end of <u>labial</u> mask squarely truncated</strong>. Head roughly trapezoidal and strongly tapered posteriorly; with posterior corners of head, though somewhat rounded, roughly forming right angles. <u>Dorsal</u> side of abdomen rounded, without a <u>median</u> ridge. <strong><u>Dorsal</u> side of abdominal segment 8 usually with conspicuous pale spot</strong>. Paraprocts (ventrolateral pair of spine-like projections at the end of the abdomen) about as long as combined length of abdominal segments 9 and 10. Epiproct (dorsomedian spine-like projection at end of abdomen) tapering to pointed or cleft <u>apex</u>."
+  },
+  {
+    "id": 256,
+    "familyId": 255,
+    "commonName": "Jewelwings",
+    "scientificName": "Calopteryx",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "<em>Calopteryx</em>, with 5 North American species, is the most common and widespread genus in the Calopterygidae. Members of this genus live along the margins of <u>lotic-erosional</u> and <u>depositional</u> habitats, in areas of moderate or slower flow, where they <u>climb</u> slowly on plants or detritus. Like other members of the Odonata, they are <u>engulfing predators</u>.",
+    "expandedCharacterList": "<strong><u>Labial mask</u> with cleft reaching nearly halfway to base</strong>. Abdominal segments 9 and 10 without spines on postero<u>lateral</u> margins.<strong> <u>Lateral</u> <u>caudal</u> gills flat, not conspicuously triangular in cross-section.</strong>"
+  },
+  {
+    "id": 258,
+    "familyId": 257,
+    "commonName": "Dancers",
+    "scientificName": "Argia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "About 31 North American species are known in <em>Argia</em>. <u>Larvae</u> are relatively short and stocky and somewhat flattened (depressed) dorsoventrally. Head relatively longer than in other genera of Coenagrionidae.",
+    "expandedCharacterList": "<u>Setae</u> absent from <u>dorsal</u> palm of <u>labium</u>. <strong>Lobes at end of <u>labium</u> each with 2 <u>distal</u> hooks, both pointed.</strong> <u>Caudal</u> gills at least 2/3 as broad as long, sometimes thick and triangular in cross-section near base."
+  },
+  {
+    "id": 259,
+    "familyId": 257,
+    "commonName": "American Bluets",
+    "scientificName": "Enallagma",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 260,
+    "familyId": 257,
+    "commonName": "Forktails",
+    "scientificName": "Ischnura",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 262,
+    "familyId": 261,
+    "commonName": "",
+    "scientificName": "Cordulegaster",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 264,
+    "familyId": 263,
+    "commonName": "Baskettails",
+    "scientificName": "Epitheca",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "Ten species of Epitheca occur in North America. <u>Larvae</u> live on stalks of rooted plants and among plant detritus of small, woodland streams, ponds, lakes, and sometimes (in northern areas) in sphagnum bogs. They are <u>climbers</u> and <u>sprawlers</u> in these habitats, stalking their prey. Some are easily captured from stalks of rooted plants. Others are not easily dislodged from debris by ordinary methods--in order to capture most specimens, debris must be lifted from the water and specimens removed by hand.",
+    "expandedCharacterList": "<u>Distal</u> margin of <u>labial</u> mask scalloped, each notch shallow, so that lobes each less than half-circle. <u>Dorsal</u> midline of abdomen with well-developed <u>dorsal</u> hooks on some segments, best viewed <u>laterally</u>. <strong><u>Lateral</u> spines on abdominal segments 8 and 9, those on segment 9 at least twice as long as those on segment 8, at least as long as middorsal length of segment 9.</strong>"
+  },
+  {
+    "id": 346,
+    "familyId": 265,
+    "commonName": "",
+    "scientificName": "Lanthus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "<em>Lanthus </em>includes only 2 North American species. <u>Larvae</u> live in sandy or silty pools of rocky spring-fed brooks, <u>burrowing</u> shallowly to wait for prey to wander near and be snatched by the retractile <u>labium</u>. When removed from the water, they feign death for several minutes and are apt to be missed by the careless investigator.",
+    "expandedCharacterList": "<strong><u>Palpal</u> lobes (<u>distal</u> end of <u>labial</u><u> mask</u>) rounded, without <u>apical</u> hooks and usually bearing only microscopic teeth on inner margins.</strong> <strong>Large antennal segment 3 nearly oval, inner margin <u>convex</u>, </strong>about 2/3 as wide as long, widest in proximal half. Antennal segment 4 small, rounded, knob-like, much less that 1/4 as long as segment 3. Middle legs not closer together at base than <u>forelegs</u>. Fore- and middle legs usually with at least vestigial burrowing hooks on <u>tibiae</u>. <strong><u>Wing pads</u> parallel along midline.</strong> Abdomen much longer than broad, not flat (as in <em>Hagenius</em>). Middorsal hooks/knobs absent from abdominal segments. Abdominal segment 7 without <u>lateral</u> spines, segments 8 and 9 with very short <u>lateral</u> spines. <strong><u>Distal</u> margin of prementum usually with 4 <u>denticles</u></strong>; sides of prementum parallel toward base. Abdominal segment 9 with long, slender, claw-like <u>lateral</u> spines. Abdominal segment 10 much less than twice as long as any preceding segment."
+  },
+  {
+    "id": 267,
+    "familyId": 265,
+    "commonName": "Snaketails",
+    "scientificName": "Ophiogomphus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 269,
+    "familyId": 268,
+    "commonName": "",
+    "scientificName": "Lestes",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 271,
+    "familyId": 270,
+    "commonName": "",
+    "scientificName": "Libellula",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "There are 14 North American species of <em>Libellula</em>. <u>Larvae</u> are unusually hairy and generally covered with silt. They are <u>sprawlers</u> or shallow <u>burrowers</u> in silty bottoms of ponds and of pools at margins of streams, usually in warmer water than many other dragonflies.",
+    "expandedCharacterList": "<strong>Anterior margin of prementum pointed in center, with straight oblique sides finely scalloped (only visible under microscope at &gt;15X); small spine-like <u>setae</u> not originating from between each scallop.</strong> <strong>Eyes raised above <u>dorsal</u> surface of head</strong>, and situated on anterior fourth of head, covering the anterior corners. Abdomen tapering to sharp point."
+  },
+  {
+    "id": 278,
+    "familyId": 277,
+    "commonName": "",
+    "scientificName": "Allocapnia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 280,
+    "familyId": 279,
+    "commonName": "",
+    "scientificName": "Alloperla",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 282,
+    "familyId": 281,
+    "commonName": "",
+    "scientificName": "Leuctra",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "Not much is known about the life history of these larvae. Only 9 of the 26 species in North America are well described by science. Most are <u>detritivorous shredders</u>, like other shredders it is thought that they don’t get nutrients directly from the decaying leaves they eat, but from the <u>periphyton</u> and fungi growing on the leaves. Some may also be facultative <u>collector-gatherers</u>. They can be found in <u>lotic-erosional</u> and <u>depositional</u> habitats, usually preferring riffles. Typically, when found in small streams they are semivoltine (completing less than one generation per year), and in large warm streams they are univoltine (completing one generation per year). Generally, species of <em>Leuctra </em>are intolerant of pollution, but some species can tolerate low pH (very acid) conditions.",
+    "expandedCharacterList": "Body long and narrow (length greater than 8 times width). Abdomen almost completely hairless or with variable coverage of curved <u>setae</u>. Abdominal <u>terga</u> with posterior fringe of short <u>setae</u>, but last few segments with 2–4 long <u>setae</u>. <strong>Abdominal segments 1–4 divided ventrolaterally by membranous <u>pleural</u> folds that are often inconspicuous</strong>."
+  },
+  {
+    "id": 284,
+    "familyId": 283,
+    "commonName": "",
+    "scientificName": "Amphinemura",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "There are 16 North American species in this genus. Mature <u>larvae</u> are 5-8 mm in length. It is believed that all eastern species have a univoltine life cycle, having only one generation per year. Eggs often go through a diapause for up to 6 months. <u>Larvae</u> grow slowly during the cold part of the year, and faster when it is warm. <u>Larvae</u> emerge as adults in the Spring or Fall depending on the species. There has been little study on <u>larval</u> feeding habits, although they are thought to be mostly <u>shredding detritivores</u>. They are usually found in <u>lotic-erosional</u> and <u>depositional</u> habitats in detritus. They can be separated from other Nemourid genera by their paired cervical gills with 5 or more branches, arising from the base, each filament subequal in length.",
+    "expandedCharacterList": "A pair of gills emerge from the cervical <u>sclerites</u>;<strong> each cervical gill has 5 or more <u>filamentous</u> branches of about the same length</strong>, and all originating at the same place on the base of the gill."
+  },
+  {
+    "id": 286,
+    "familyId": 285,
+    "commonName": "",
+    "scientificName": "Tallaperla",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 288,
+    "familyId": 287,
+    "commonName": "",
+    "scientificName": "Clioperla",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 290,
+    "familyId": 287,
+    "commonName": "",
+    "scientificName": "Isoperla",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "The genus <em>Isoperla </em>contains over 57 species, making it one of the largest stonefly genera. <u>Larvae</u> prey on Chironomidae and Simuliidae (Diptera), Ephemeroptera, and Plecoptera; some feed as <u>collectors-gatherers</u>, especially when young. Members of this genus are mostly univoltine, meaning that they only have one generation per year. Emergence can occur throughout the spring and summer. To emerge, the <u>larvae</u> crawl out of the stream onto rocks or logs before molting to an adult. They are an important food source for trout in eastern streams. Fly fishermen often know them as the Light Stonefly, Light Brown Stonefly, or Little Yellow Stonefly, and often try to mimic the look of the <u>larvae</u> in their tied flies.",
+    "expandedCharacterList": "<u>Lacinia</u> usually each with two <u>apical</u> teeth, mesal tooth shorter and inner margin of <u>lacinia</u> without low knob. <strong>Abdomen often with dark longitudinal pigment bands</strong>. If abdominal pigment bands absent, triangular region among 3 <u>ocelli</u> completely covered by dark pigment, <u>occiput</u> (posterodorsal region of head) without pair of oval markings bordered by short thick <u>setae</u> and <u>occiput</u> and/or <u>pro</u>thoracic margin with <u>transverse</u> row of short stout <u>setae</u>, submental gills absent or barely projecting beyond sides of submentum, <u>mesosternal</u> Y-arms meeting or approaching posterior corners of furcal pits and no other <u>sutures</u> between furcal pits, and <u>femora</u> or <u>tibiae</u> or both with fringes of long <u>setae</u>.<br />\n "
+  },
+  {
+    "id": 291,
+    "familyId": 287,
+    "commonName": "",
+    "scientificName": "Remenus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 293,
+    "familyId": 292,
+    "commonName": "",
+    "scientificName": "Pteronarcys",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 301,
+    "familyId": 300,
+    "commonName": "",
+    "scientificName": "Apatania",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 303,
+    "familyId": 302,
+    "commonName": "",
+    "scientificName": "Brachycentrus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 304,
+    "familyId": 302,
+    "commonName": "",
+    "scientificName": "Micrasema",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 347,
+    "familyId": 305,
+    "commonName": "",
+    "scientificName": "Heteroplectron",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 307,
+    "familyId": 306,
+    "commonName": "",
+    "scientificName": "Phylocentropus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "<em>Phylocentropus </em>is the only genus in the family Dipseudopsidae in North America, with 5 species occurring here. <u>Larvae</u> make branching tube-like retreats buried in sand or soft sediment, the tips of the branches poke above the sediment. They tend to live in pools or along the edges of slow-moving water. They are found throughout the eastern and central United States. A large, movable <u>spinneret</u> is used to produce silk and shore up the sides of the retreat. Characters unique to this group include a large hump between membranous <u>meso</u><u>-</u> and <u>metanota</u>, and flattened <u>tarsi</u> longer than their <u>tibiae</u>.",
+    "expandedCharacterList": "Because <em>Phylocentropus </em>is the only genus in the family Dipsudopsidae, the genus-level and family-level diagnostic characters are the same."
+  },
+  {
+    "id": 309,
+    "familyId": 308,
+    "commonName": "",
+    "scientificName": "Glossosoma",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 311,
+    "familyId": 310,
+    "commonName": "",
+    "scientificName": "Goera",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 313,
+    "familyId": 312,
+    "commonName": "",
+    "scientificName": "Helicopsyche",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 315,
+    "familyId": 314,
+    "commonName": "",
+    "scientificName": "Hydroptila",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 317,
+    "familyId": 316,
+    "commonName": "",
+    "scientificName": "Lepidostoma",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "There are about 75 North American species in this commonly encountered genus. <u>Larvae</u> can be up to 12.5 mm long. Cases are usually made of plant materials, often four-sided, made of rectangular strips of bark or leaves; however sometimes of sand or plant stems; young <u>larvae</u> often build cases of sand, then transition to leaves as they grow. They prefer small or intermittent headwater streams and springs. They are primarily <u>shredding detritivores</u>.",
+    "expandedCharacterList": "Antero<u>ventral apotome</u> subequal to or longer than posteroventral <u>ecdysial</u><u> line</u> separating <u>genae</u>. <strong><u>Larval</u> case usually rectangular in cross section, constructed of rectangular pieces of leaves or bark</strong>, pieces may be in varying shapes or case may be of sand grains."
+  },
+  {
+    "id": 319,
+    "familyId": 318,
+    "commonName": "",
+    "scientificName": "Ceraclea",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "Formerly <em>Athripsodes </em>(in part). There are about 36 North American species. The <u>larvae</u> tend to be rather short and wide, especially at the first abdominal segment, and this is reflected in the shapes of their cases as well. The case is made of fine sand grains or plant materials and tends to be wide at the opening and narrower at the posterior end. It sometimes has flanges or wing-like expansions at the sides and over the head, allowing the case to sit on top of loose sand without sinking, much like how snowshoes prevent sinking into deep snow, or to present a low profile on rocks in fast current. Some species are predators of freshwater sponges; these species have silken cases embedded with sponge spicules. Others are herbivores and detritivores. These <u>larvae</u> can be found in <u>lentic</u> or <u>lotic</u> habitats depending on the species. <u>Larvae</u> of this group can be identified by a distinctive pair of dark, reverse-parenthesis-like bars on the <u>mesonotum</u> (<u>concave</u> <u>laterally</u>).",
+    "expandedCharacterList": "<u>Maxillary</u> <u>palps</u> extend little past <u>labrum</u>. Mandibles short and wide, with teeth clustered near <u>apices</u>. <strong><u>Mesonotum</u> with pair of dark, reverse parenthesis</strong> (<u>concave</u> <u>laterally</u>); abdomen broad <u>basally</u> but tapering toward <u>apex</u>. <u>Meso</u>thoracic legs with slightly curved and slender tarsal claws. <u>Tarsi</u> straight. Anal opening sometimes with patches of spines or hair. Abdominal gills clustered in groups of 2 or more. Cases of various shapes and materials, sometimes with spicules and pieces of freshwater sponges. "
+  },
+  {
+    "id": 320,
+    "familyId": 318,
+    "commonName": "",
+    "scientificName": "Nectopsyche",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 321,
+    "familyId": 318,
+    "commonName": "",
+    "scientificName": "Oecetis",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 322,
+    "familyId": 318,
+    "commonName": "",
+    "scientificName": "Triaenodes",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 324,
+    "familyId": 323,
+    "commonName": "",
+    "scientificName": "Molanna",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 326,
+    "familyId": 325,
+    "commonName": "",
+    "scientificName": "Psilotreta",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 328,
+    "familyId": 327,
+    "commonName": "",
+    "scientificName": "Chimarra",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "The <u>larvae</u> of this species are usually yellow or light orange in color, but turn white when preserved in ethanol. They live in warmer rivers where the <u>larvae</u> spin net-like retreats, used to filter detritus from the water for food. Sometimes the mesh is uniformly spaced, like other net spinners, but usually the mesh of these retreats is dense and irregular. The nets also tend to be clustered in groups of 5 or 6, and are found in crevices on the undersides of rocks, where the water can channel through. Fly-fishing enthusiasts sometimes tie their flies to mimic these <u>larvae</u>; they refer to them as yellow or orange caddisworms. The <u>larvae</u> can be distinguished from other genera in the family by the very asymmetrical, large notch at the anterior margin of the <u>frontoclypeus</u>. ",
+    "expandedCharacterList": "<strong><u>Frontoclypeus</u> with conspicuous, jagged asymmetrical notch on anterior margin</strong>. <strong><u>Seta</u> no. 18 on <u>ventral</u> surface of head positioned level with posterior point of <u>ventral apotome</u></strong>. <u>Foretrochantins</u> small and barely projecting away from body. <strong>Long, slender, <u>setae</u>-bearing process positioned sub<u>apically</u> on each <u>pro</u>thoracic <u>coxa</u></strong>."
+  },
+  {
+    "id": 329,
+    "familyId": 327,
+    "commonName": "",
+    "scientificName": "Dolophilodes",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 331,
+    "familyId": 330,
+    "commonName": "",
+    "scientificName": "Ptilostomis",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 333,
+    "familyId": 332,
+    "commonName": "",
+    "scientificName": "Neureclipsis",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 334,
+    "familyId": 332,
+    "commonName": "",
+    "scientificName": "Nyctiophylax",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 336,
+    "familyId": 335,
+    "commonName": "",
+    "scientificName": "Lype",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 337,
+    "familyId": 335,
+    "commonName": "",
+    "scientificName": "Psychomyia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "Psychomyia is represented by 3 North American species. <u>Larvae</u> live usually in cool streams on rocks and logs, where they build meandering silken tubes much longer than the <u>larva</u>. These tubes are covered with sand and fine detritus. They scrape and gather diatoms and other fine organic matter from the substrate around the openings of their tubes and sometimes <u>larvae</u> of other insects. Occasionally they harvest fungi and bacteria cultivated in the older end of the tube.",
+    "expandedCharacterList": "On the head, when looking <u>ventrally</u>, <strong><u>labium</u> with pair of <u>sclerites</u> each longer than broad</strong>. <strong>Teeth absent along <u>concave</u>, <u>ventral</u> edge of each anal claw</strong>. <u>Larvae</u> constructing silken tubular cases, covered in sand, usually several millimeters in length, and found on rocks."
+  },
+  {
+    "id": 339,
+    "familyId": 338,
+    "commonName": "",
+    "scientificName": "Rhyacophila",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "<em>Rhyacophila </em>is the only genus from the family Rhyacophilidae in the United States east of the Rocky Mountains; it is widespread except less common in the Great Plains (absent from southern Great Plains). The <u>larvae</u> exhibit a variety of feeding strategies, they may be <u>engulfing predators</u>, especially as mature <u>larvae</u>, but also <u>collector-gatherers</u>, <u>scraper-grazers</u>, or <u>shredder-herbivores</u>. <u>Larvae</u> are free-living, meaning that they do not live in a case or retreat, but simply move throughout the environment, <u>clinging</u> to the substrate and pursuing prey. Before pupation, they build a rock shelter and spin a semipermeable cocoon inside it. <u>Larvae</u> are often, but not always, green in color, and often have well-defined segments, giving the body a beaded appearance. They can be readily identified using the following characters: <u>sclerotized</u> <u>pronotum</u>, membranous <u>meso</u><u>-</u> and <u>metanota</u>, abdominal <u>tergum</u> IX with a <u>sclerite</u>, and <u>anal prolegs</u> free, not closely fused to segment IX.",
+    "expandedCharacterList": "<em>Rhyacophila </em>is the only genus from the family Rhyacophilidae in the United States east of the Rocky Mountains, so family-level and genus-level diagnostic characters are the same except eastern species lack <u>filamentous</u> gills. Mature <em>Rhyacophila</em> <u>larvae</u> are less than 25 mm (1 inch) long. Widespread."
+  },
+  {
+    "id": 341,
+    "familyId": 340,
+    "commonName": "",
+    "scientificName": "Agarodes",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 343,
+    "familyId": 342,
+    "commonName": "",
+    "scientificName": "Neophylax",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "<em>Neophylax </em>is the only genus of Thremmatidae occurring in the East. The genus includes 29 species in North America, most of them in the East. <u>Larvae</u> are obligate <u>scrapers</u> of diatoms, feeding mainly on the tops of stones in fast water. They are somewhat protected from fish predation by their stout stone cases with ballast stones added <u>laterally</u> to help prevent being swept downstream in the current. When preparing to pupate, they often aggregate on the undersides of larger rocks, each fastening the case to the rock and sealing each end of its case with a small stone. Many species prepare their cases for pupation in spring, but undergo diapause until fall before they actually pupate.",
+    "expandedCharacterList": "<u>Pronotum</u> without prominent longitudinal ridges as seen in western <em>Oligophlebodes</em>. <strong>Pair of small notches present <u>medially</u> along anterior margin of <u>mesonotum</u></strong>. <u>Larvae</u> constructing stout coarse rock cases, often with several small ballast stones attached <u>laterally</u>."
+  },
+  {
+    "id": 729,
+    "familyId": 728,
+    "commonName": "",
+    "scientificName": "Agabus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "This large genus includes 106 species in North America. Adults and <u>larvae</u> inhabit both fast and slow streams and <u>littoral</u> zones of <u>lentic</u> habitats. They are <u>piercing predators</u>.",
+    "expandedCharacterList": "Mandibles without large and distinct teeth along inner margins. <u>Maxillary</u> galea finger-like. <u>Urogomphi</u> each usually 2-segmented. <u>Tibiae</u> and <u>tarsi</u> with or without <u>swimming</u> hairs."
+  },
+  {
+    "id": 758,
+    "familyId": 728,
+    "commonName": "",
+    "scientificName": "Copelatus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "<u>Larvae</u> and adults occur in slow-moving streams and among rooted plants of <u>lentic</u> habitats; both life stages are <u>piercing predators</u>.",
+    "expandedCharacterList": "Mandibles with large and distinct teeth along inner margins. <u>Maxillary</u> galea hooked. <u>Urogomphi</u> each 1-segmented. <u>Tibiae</u> and <u>tarsi</u> without <u>swimming</u> hairs."
+  },
+  {
+    "id": 761,
+    "familyId": 732,
+    "commonName": "",
+    "scientificName": "Ancyronyx variegatus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 764,
+    "familyId": 732,
+    "commonName": "",
+    "scientificName": "Dubiraphia",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 767,
+    "familyId": 732,
+    "commonName": "",
+    "scientificName": "Macronychus glabratus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 770,
+    "familyId": 732,
+    "commonName": "",
+    "scientificName": "Microcylloepus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 733,
+    "familyId": 732,
+    "commonName": "",
+    "scientificName": "Optioservus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "This is a widespread genus with 13 North American species. <u>Larvae</u> and adults live in fast and slow portions of streams, <u>clinging</u> to substrate. <u>Larvae</u> are scrapers of <u>periphyton</u> on rock surfaces.",
+    "expandedCharacterList": "<strong><u>Pro</u>thorax with <u>lateral</u> postpleurites each composed of two parts, without posterior sternum</strong>. <strong><u>Meso</u>pleuron composted of one part</strong>. Abdominal <u>terga</u> without <u>median</u> and sub<u>lateral</u> humps or small <u>median</u> humps present, <strong><u>pleura</u> present on segments I-VII</strong>."
+  },
+  {
+    "id": 773,
+    "familyId": 732,
+    "commonName": "",
+    "scientificName": "Stenelmis",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 776,
+    "familyId": 739,
+    "commonName": "",
+    "scientificName": "Dineutus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 740,
+    "familyId": 739,
+    "commonName": "",
+    "scientificName": "Gyrinus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "This genus includes about 41 species in North America North of Mexico, and is widespread across eastern Noth America. <em>Gyrinus</em> includes most of the smaller species in the Gyrinidae family, while <em>Dineutus</em> contains the larger species. In order to deter predators, members of the genus <em>Gyrinus</em> often give off a foul smell and taste when disturbed. Adults and <u>larvae</u> prefer <u>lotic-depositional</u> habitats along the margins and pools of flowing water. Both <u>larvae</u> and adults are <u>engulfing predators</u>, and scavengers of small organisms, however, unlike the <u>larvae</u>, the adults usually hunt at the water’s surface.",
+    "expandedCharacterList": "<strong><u>Nasale</u> (anterior most margin of the face) with 2-4 teeth measly along margin</strong>. Head elongate, with the <strong><u>collum</u> (neck) nearly as wide as rest of head</strong>."
+  },
+  {
+    "id": 744,
+    "familyId": 743,
+    "commonName": "",
+    "scientificName": "Peltodytes ",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "At least 18 species of this widespread genus occur in different regions of North America. <u>Larvae</u> and adults are <u>piercing</u> and <u>shredding herbivores</u> and <u>predators</u>, living mostly in <u>lentic</u> habitats, <u>clinging</u> and <u>climbing</u> on rooted plants, occasionally in fast-flowing water.",
+    "expandedCharacterList": "<strong>Body segments each with 2 or more erect, segmented, hollow, spine-tipped filaments half as long as body</strong>. <u>Forelegs</u> designed for grasping plants and prey."
+  },
+  {
+    "id": 779,
+    "familyId": 745,
+    "commonName": "",
+    "scientificName": "Berosus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  },
+  {
+    "id": 746,
+    "familyId": 745,
+    "commonName": "",
+    "scientificName": "Tropisternus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "The North American fauna includes at least 14 species of this widespread genus. <u>Larvae</u> are predators climbing among rooted plants in <u>lentic</u> habitats and slow-flowing streams.",
+    "expandedCharacterList": "<strong>Head subquadrangular or subrectangular</strong>; frontal <u>sulci</u> V-shaped. <strong>Antennae further than mandibles from antero<u>lateral</u> angles of head</strong>; uniramal, without finger-like antennal appendage. <u>Apex</u> of <u>ligula</u> not bifid. <u>Pronotum</u> entirely <u>sclerotized</u>. Mentum with sides almost straight, its antero<u>lateral</u> angles very prominent. <strong><u>Mesonotal</u> and <u>metanotal</u> <u>sclerites</u> much reduced, triangular</strong>. <u>Femora</u> each with fringe of long swimming hairs. Eight complete abdominal segments, with segments IX and X reduced and forming stigmatic atrium or cavity. <strong>One pair of rudimentary, <u>tubercular</u>, <u>lateral</u> gills on each abdominal segment, each with several terminal <u>setae</u></strong>, those of segment IX short."
+  },
+  {
+    "id": 748,
+    "familyId": 747,
+    "commonName": "",
+    "scientificName": "Psephenus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": "The <u>larvae</u> of this genus are aquatic. They are almost always found stuck (suction-cup-like) to the sides and tops of rocks, where they feed by <u>scraping</u> <u>periphyton</u> and other food off the substrate. They are very distinctive, flat, shield-shaped <u>larvae</u>, almost trilobite-like in appearance, with the legs only visible from the <u>ventral</u> side <em>Psephenus </em>and <em>Ectopria </em>are the two most common genera in Psephenidae, and can be easily confused, however, they can be readily separated by the presence of abdominal gills <u>ventrally</u> on <em>Psephenus</em>.",
+    "expandedCharacterList": "<strong><u>Ventrally</u>, abdomen with 5 paired tufts of thread-like gills.</strong> <u>Lateral</u> expansions of each abdominal segment fitting together tightly at margin, but segment 8 without <u>lateral</u> expansions. Abdominal segment 9 without small <u>ventral</u> flap-like lid (<u>operculum</u>) closing <u>caudal</u> chamber."
+  },
+  {
+    "id": 784,
+    "familyId": 783,
+    "commonName": "",
+    "scientificName": "Anchytarsus",
+    "lifeStageName": "larva",
+    "lifeStagePrettyName": "Larva",
+    "description": null,
+    "expandedCharacterList": null
+  }
+]
