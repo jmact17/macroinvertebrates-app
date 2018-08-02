@@ -10,15 +10,15 @@ import {
 } from 'react-native';
 import { Icon } from 'react-native-elements';
 import { Col, Row, Grid } from 'react-native-easy-grid';
+import CustomHeader from '../../components/CustomHeader.js';
 
 const width = Dimensions.get('window').width;
         
-export default class OrdersScreen extends Component {
+export default class HomeScreen extends Component {
     static navigationOptions = ({ navigation }) => {
         return {
-            /* set header title*/
-            title: 'Orders',
-            headerLeft: (
+            header: props => <CustomHeader {...props} />,
+            /*headerLeft: (
                 <View style={{ padding: 20}}>
                     <Icon 
                         name='menu'
@@ -27,7 +27,7 @@ export default class OrdersScreen extends Component {
                         size={30}
                         onPress={() => navigation.navigate('Home')}/>
                 </View>
-            ),
+            );*/
         };
     };
     render() {

@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import { createStackNavigator } from 'react-navigation';
 
-import HomeScreen from './screens/Home.js';
-import OrdersScreen from './screens/OrdersMenu/OrdersMenu.js';
+import HomeScreen from './screens/Home/Home.js';
 import DiagCharsScreen from './screens/DiagCharsOrder/DiagCharsOrder.js';
 import GlossaryScreen from './screens/Glossary.js';
 import AboutScreen from './screens/About.js';
@@ -13,7 +12,6 @@ import BaetidaeScreen from './screens/Family/Baetidae.js';
 export const RootStack = createStackNavigator(
   {
     Home: { screen: HomeScreen },
-    Orders: { screen: OrdersScreen },
     DiagnosticCharacters: { screen: DiagCharsScreen},
     Glossary: { screen: GlossaryScreen },
     About: { screen: AboutScreen },
@@ -26,7 +24,7 @@ export const RootStack = createStackNavigator(
     headerMode: 'float',
     navigationOptions: { /* default navigation options for screen */
       headerStyle: {
-        backgroundColor: '#C0CCDA',
+        backgroundColor: 'transparent',
       },
       headerTintColor: '#fff',
       headerTitleStyle: {
