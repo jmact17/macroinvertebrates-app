@@ -18,21 +18,16 @@ export default class HomeScreen extends Component {
     static navigationOptions = ({ navigation }) => {
         return {
             header: props => <CustomHeader {...props} />,
-            /*headerLeft: (
-                <View style={{ padding: 20}}>
-                    <Icon 
-                        name='menu'
-                        color='white'
-                        underlayColor='#C0CCDA'
-                        size={30}
-                        onPress={() => navigation.navigate('Home')}/>
-                </View>
-            );*/
+            headerStyle: {        
+                backgroundColor: "transparent"      
+            },
         };
     };
     render() {
         const { navigate } = this.props.navigation;
         return (
+            <View style={{flexDirection: 'column', flex: 1}}>
+            <View style={{height: 100}}><CustomHeader /></View>
             <ScrollView style={{ flex: 1 }}>
                 <View style={styles.container}>
                     <Grid>
@@ -174,6 +169,7 @@ export default class HomeScreen extends Component {
                     </Grid>
                 </View>
             </ScrollView>
+            </View>
         );
     }
 }
